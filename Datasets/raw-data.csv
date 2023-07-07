@@ -1,0 +1,3031 @@
+,designation,company_name,location,estab_year,employees_count,job_description,skills,hr_name,experience_req,emp_overall_rating,emp_wl_bal_rating,emp_salary_n_benefits_rating,emp_comp_culture_rating,emp_career_growth_rating,emp_diversity_n_inclusion_rating,emp_likely_to_recomm_rating
+0,Business Systems Analyst (Drive),Google,Hyderabad,Founded in 1998,More than 1000 employees,Function: Data Science and Analysis → Data Analysis / Business Intelligence,"Finance
+Marketing
+Microsoft Excel
+Product Management
+Sales
+UI Testing
+UX Design","Aneesh Vikram
+Recruiting Specialist
+at Google",5-9 Years,4.1,4.3,4.4,4.4,4.3,4.4,4.5
+1,Technical Writer (Drive),Hugosave,Hyderabad,Founded in 2019,10 - 50 employees,Function: IT Operations and Support → Technical Writing,"Postman
+Swagger
+Technical Writing","Neha Khaitan
+Talent Acquisition Specialist
+at Hugosave",7-10 Years,,,,,,,
+2,AEM Developer (Drive),LTIMindtree,"Bangalore, Hyderabad, Mumbai",Founded in 1996,More than 1000 employees,Function: Software Engineering → Other Software Development,Adobe Experience Manager (AEM),"Akshata
+Recruiter
+at LTIMindtree",3-6 Years,4,3.8,3.4,4,3.9,4,4.3
+3,Big Data - Java Spark Developer (Drive),LTIMindtree,"Bangalore, Chennai, Mumbai",Founded in 1996,More than 1000 employees,Function: Software Engineering → Big Data / DWH / ETL,"Amazon Redshift
+Big Data
+Data Analysis
+Data Warehousing
+ETL
+Java
+Spark","Akshata
+Recruiter
+at LTIMindtree",5-6 Years,4,3.8,3.4,4,3.9,4,4.3
+4,Informatica IICS Developer (Drive),LTIMindtree,"Bangalore, Hyderabad, Mumbai",Founded in 1996,More than 1000 employees,Function: Software Engineering → Big Data / DWH / ETL,"Informatica
+Informatica PowerCenter","Akshata
+Recruiter
+at LTIMindtree",5-6 Years,4,3.8,3.4,4,3.9,4,4.3
+5,Oracle - UFT Testing (Drive),LTIMindtree,Mumbai,Founded in 1996,More than 1000 employees,Function: Software Engineering → QA / SDET,"Automation Testing
+QTP","Akshata
+Recruiter
+at LTIMindtree",3-5 Years,4,3.8,3.4,4,3.9,4,4.3
+6,PL / SQL Developer (Drive),LTIMindtree,"Bangalore, Hyderabad, Mumbai",Founded in 1996,More than 1000 employees,Function: IT Operations and Support → Database Admin / Development,"Oracle RAC
+PL-SQL","Akshata
+Recruiter
+at LTIMindtree",5-6 Years,4,3.8,3.4,4,3.9,4,4.3
+7,Snowflake Developer (Drive),LTIMindtree,"Bangalore, Chennai, Mumbai",Founded in 1996,More than 1000 employees,Function: Software Engineering → Big Data / DWH / ETL,"Data Warehousing
+ETL
+SQL
+Snowflake","Akshata
+Recruiter
+at LTIMindtree",5-6 Years,4,3.8,3.4,4,3.9,4,4.3
+8,Key Account Manager (Drive),Park+,Gurgaon,Founded in 2019,200 - 500 employees,Function: Sales and Business → Sales / Business Development,"Channel Sales
+Corporate Sales
+Key Account Management
+Sales","Hitesh Gupta
+Recruiter
+at Park+",0-1 Years,3.8,3.4,3.6,3.6,3.9,3.7,3.6
+9,Sales Executive (Drive),Park+,"Jaipur, Lucknow",Founded in 2019,200 - 500 employees,Function: Sales and Business → Sales / Business Development,"Channel Sales
+Corporate Sales
+Sales","Hitesh Gupta
+Recruiter
+at Park+",1-3 Years,3.8,3.4,3.6,3.6,3.9,3.7,3.6
+10,Sales / Senior Sales Associate (Drive),Ivy Homes,Bangalore,Founded in 2021,0 - 10 employees,Function: Sales and Business → Sales / Business Development,"Business Development
+Lead Generation
+Sales","Pritam Thakur
+Co-Founder
+at Ivy Homes",1-5 Years,,,,,,,
+11,.NET Azure Fullstack Developer (Drive),LTIMindtree,Mumbai,Founded in 1996,More than 1000 employees,Function: Software Engineering → Backend Development,".NET
+ASP.NET
+Angular
+Azure
+Bootstrap
+C#
+CSS
+HTML","Akshata
+Recruiter
+at LTIMindtree",3-6 Years,4,3.8,3.4,4,3.9,4,4.3
+12,Automation Testing (Drive),LTIMindtree,Bangalore,Founded in 1996,More than 1000 employees,Function: Software Engineering → QA / SDET,"API Testing
+Appium
+Cucumber
+JMeter
+Java
+Mobile Apps Testing
+Performance Testing
+Python
+Ruby
+SDET
+Selenium
+SoapUI","Akshata
+Recruiter
+at LTIMindtree",5-6 Years,4,3.8,3.4,4,3.9,4,4.3
+13,Azure Databricks Developer (Drive),LTIMindtree,"Bangalore, Chennai, Mumbai",Founded in 1996,More than 1000 employees,Function: Software Engineering → Big Data / DWH / ETL,"Databricks
+Hadoop
+Spark
+ETL
+PySpark
+Snowflake","Akshata
+Recruiter
+at LTIMindtree",5-6 Years,4,3.8,3.4,4,3.9,4,4.3
+14,Azure DevOps (Drive),LTIMindtree,Mumbai,Founded in 1996,More than 1000 employees,Function: IT Operations and Support → DevOps / Cloud,"Ansible
+Azure
+Azure DevOps Server
+CI - CD
+DevOps
+Kafka","Akshata
+Recruiter
+at LTIMindtree",4-6 Years,4,3.8,3.4,4,3.9,4,4.3
+15,GCP Developer (Drive),LTIMindtree,"Bangalore, Chennai, Mumbai",Founded in 1996,More than 1000 employees,Function: Software Engineering → Big Data / DWH / ETL,"BigQuery
+Google Cloud
+Python
+Dataflow","Akshata
+Recruiter
+at LTIMindtree",5-6 Years,4,3.8,3.4,4,3.9,4,4.3
+16,React.js Developer (Drive),LTIMindtree,Mumbai,Founded in 1996,More than 1000 employees,Function: Software Engineering → Frontend Development,"CSS
+HTML
+JavaScript
+React.js
+jQuery","Akshata
+Recruiter
+at LTIMindtree",3-6 Years,4,3.8,3.4,4,3.9,4,4.3
+17,Regional Supply Head (Drive),Treebo,"Kolkata, Mumbai",Founded in 2015,200 - 500 employees,Function: Sales and Business → Sales / Business Development,"Business Development
+Channel Sales
+Profit and Loss Management
+Strategic Planning","Advita Karkera
+Talent Acquisition Executive
+at Treebo",5-8 Years,3.4,3.4,3.1,3.6,3.3,4.4,3
+18,"Territory Sales Manager (Gujarat, Chandigarh, Indore) (Drive)",Treebo,"Chandigarh, Gandhinagar, Indore",Founded in 2015,200 - 500 employees,Function: Sales and Business → Sales / Business Development,"Business Development
+Channel Sales
+Corporate Sales
+Direct Sales
+Sales","Advita Karkera
+Talent Acquisition Executive
+at Treebo",2-6 Years,3.4,3.4,3.1,3.6,3.3,4.4,3
+19,"Territory Sales Manager (Jamshedpur, Kolkata, Ranchi) (Drive)",Treebo,"Jamshedpur, Kolkata, Ranchi",Founded in 2015,200 - 500 employees,Function: Sales and Business → Sales / Business Development,"Business Development
+Corporate Sales
+Direct Sales
+Sales","Advita Karkera
+Talent Acquisition Executive
+at Treebo",2-6 Years,3.4,3.4,3.1,3.6,3.3,4.4,3
+20,Software Technologist (Drive),Applied Materials,"Bangalore, Chennai",Founded in 1967,More than 1000 employees,Function: Software Engineering → Full-Stack Development,"C#
+C++
+Java
+Linux
+Oracle Access Manager
+Oracle Database
+PostgreSQL
+PowerShell
+Python
+Shell Scripting
+Windows","Pallavi Choudhary
+Talent Acquisition Specialist
+at Applied Materials",3-7 Years,4,3.5,3.7,3.9,3.9,4,4.2
+21,Associate Sales (Mumbai) (Drive),Dunzo,Mumbai,Founded in 2014,200 - 500 employees,Function: Sales and Business → Sales / Business Development,"Field Work
+Lead Generation
+Sales","Shreya Shandilya
+Recruiter
+at Dunzo",1-2 Years,3.6,3.1,3.7,3.3,3.6,3.8,3
+22,Enterprise - Sales Manager (Drive),Dunzo,"Bangalore, Delhi, Mumbai",Founded in 2014,200 - 500 employees,Function: Sales and Business → Sales / Business Development,"CRM
+Corporate Sales
+HLOOKUP
+Jira
+Key Account Management
+Sales","Sindhu Muttiravala
+Talent Acquisition Associate
+at Dunzo",2-4 Years,3.6,3.1,3.7,3.3,3.6,3.8,3
+23,Senior Software Engineer - Full Stack (Drive),Google,"Bangalore, Hyderabad",Founded in 1998,More than 1000 employees,Function: Software Engineering → Full-Stack Development,"API Testing
+Angular
+Database Development
+Distributed Systems
+Java
+NoSQL
+RDBMS
+React.js
+TypeScript","Hari Hara Eshwaran S
+Recruiter
+at Google",6-10 Years,4.1,4.3,4.4,4.4,4.3,4.4,4.5
+24,Associate / Sr. Associate - Inside Sales (Drive),MediBuddy,Bangalore,Founded in 2013,More than 1000 employees,Function: Sales and Business → Sales / Business Development,"Corporate Sales
+Key Account Management
+Lead Generation
+LinkedIn Sales Navigator","Sadhana
+Senior Associate
+at MediBuddy",1-5 Years,3.2,2.9,3.2,3.1,3.3,3.1,2.8
+25,Associate - Sales Representative / Inside Sales (Drive),O4S,Gurgaon,Founded in 2016,50 - 200 employees,Function: Sales and Business → Sales / Business Development,"Corporate Sales
+Key Account Management
+Lead Generation
+LinkedIn Sales Navigator","Krishibha Sharma
+TA Associate
+at O4S",1-5 Years,4.3,3.8,4.1,4.3,4.4,3.7,4.3
+26,Senior Content Marketer - B2C (Drive),Refyne,Bangalore,Founded in 2020,10 - 50 employees,Function: Marketing → Content Writing,"Content Marketing
+Content Writing
+SEO
+Social Media Marketing","Swati Kapur
+Senior Talent Acquisition
+at Refyne",4-7 Years,5,4.5,4.5,4.5,5,4.5,
+27,Product Support Engineer / Customer Support (Drive),Richpanel,Work From Home,Founded in 2018,10 - 50 employees,Function: Sales and Business → Customer Service,"Customer Service
+Desktop Troubleshooting
+L2 Support","Ayushi Aeran
+Talent Acquisition-HR
+at Richpanel",3-7 Years,4.7,4,4.8,4.6,4.8,4.9,4.7
+28,"Territory Sales Manager (Bangalore, Gurgaon, Mumbai) (Drive)",Treebo,"Bangalore, Gurgaon, Mumbai",Founded in 2015,200 - 500 employees,Function: Sales and Business → Sales / Business Development,"Business Development
+Channel Sales
+Corporate Sales
+Direct Sales
+Sales","Advita Karkera
+Talent Acquisition Executive
+at Treebo",2-6 Years,3.4,3.4,3.1,3.6,3.3,4.4,3
+29,Senior Full - Stack Developer (Drive),Truminds Software Systems,"Bangalore, Gurgaon, Hyderabad",Founded in 2017,200 - 500 employees,Function: Software Engineering → Full-Stack Development,"Angular
+Java
+JavaScript
+Node.js
+React.js
+Spring
+jQuery","Priyansha Arora Sheher
+Senior Executive Talent Acquisition
+at Truminds Software Systems",4-6 Years,4.1,3.4,3.4,4,4.1,3.9,4
+30,C / C++ Development (Drive),Applied Materials,Bangalore,Founded in 1967,More than 1000 employees,Function: Software Engineering → Backend Development,"Algorithms
+C
+C++
+Computer Vision
+Data Structures
+Devicenet
+Hardware
+Image Processing
+Industrial Automation
+Microarrays
+Modbus
+Python
+RS232
+Visual Studio","Pallavi Choudhary
+Talent Acquisition Specialist
+at Applied Materials",4-8 Years,4,3.5,3.7,3.9,3.9,4,4.2
+31,Senior Software Engineer (Drive),Google,"Bangalore, Hyderabad",Founded in 1998,More than 1000 employees,Function: Software Engineering → Backend Development,"C#
+C++
+Golang
+Java
+JavaScript
+Linux
+Python
+Unix","Shraddha Gupta Sheher
+Technical Recruiter
+at Google",7-11 Years,4.1,4.3,4.4,4.4,4.3,4.4,4.5
+32,Senior Software Engineer - Big Data (Drive),Google,"Bangalore, Hyderabad",Founded in 1998,More than 1000 employees,Function: Software Engineering → Big Data / DWH / ETL,"Cloud Computing
+Hadoop
+Hive
+Java
+Jupyter
+Spark","Hari Hara Eshwaran S
+Recruiter
+at Google",6-10 Years,4.1,4.3,4.4,4.4,4.3,4.4,4.5
+33,Senior Software Engineer - Database (Drive),Google,"Bangalore, Hyderabad",Founded in 1998,More than 1000 employees,Function: IT Operations and Support → Database Admin / Development,"Database Administration
+Database Development
+Distributed Systems
+jQuery","Hari Hara Eshwaran S
+Recruiter
+at Google",6-10 Years,4.1,4.3,4.4,4.4,4.3,4.4,4.5
+34,Senior Software Engineer - Networking (Drive),Google,"Bangalore, Hyderabad",Founded in 1998,More than 1000 employees,Function: Software Engineering → Full-Stack Development,"C
+C++
+Networking","Hari Hara Eshwaran S
+Recruiter
+at Google",6-10 Years,4.1,4.3,4.4,4.4,4.3,4.4,4.5
+35,SEO Specialist (Drive),Jalan Technologies,Work From Home,Founded in 2016,10 - 50 employees,Function: Marketing → SEO / SEM,"Google Ads
+SEM
+SEO","Sneha Suresh
+Talent Acquisition Specialist
+at Jalan Technologies",2-5 Years,4.4,4.2,4,4.6,4.4,4.5,4.6
+36,Social Media Marketer (Drive),Jalan Technologies,Work From Home,Founded in 2016,10 - 50 employees,Function: Marketing → Online Marketing,"Brand Management
+Content Marketing
+Facebook Marketing
+KPI
+LinkedIn Marketing
+Social Media Marketing","Sneha Suresh
+Talent Acquisition Specialist
+at Jalan Technologies",2-5 Years,4.4,4.2,4,4.6,4.4,4.5,4.6
+37,Manager - Accounting (Drive),RingCentral,Bangalore,Founded in 2003,More than 1000 employees,Function: Operations → Accounting / Finance,"Accounting
+CPA
+ERPS
+Finance
+Financial Reporting
+NetSuite
+Payroll Management","Pallavi Padhy
+Talent Acquisition Specialist
+at RingCentral",10-14 Years,4.6,4.4,4.6,4.6,4.6,4.8,4.5
+38,Content Writer (Drive),Zoomcar,Bangalore,Founded in 2012,200 - 500 employees,Function: Marketing → Content Writing,"Content Marketing
+Content Writing
+English Content","Bharath Br
+Recruiter
+at Zoomcar",3-6 Years,3.4,3.1,2.9,2.9,3.1,3,3
+39,Deputy Manager - Performance Marketing (Drive),Zoomcar,Bangalore,Founded in 2012,200 - 500 employees,Function: Marketing → SEO / SEM,"Performance Marketing
+SEM
+SEO
+Social Media Marketing","Bharath Br
+Recruiter
+at Zoomcar",2-6 Years,3.4,3.1,2.9,2.9,3.1,3,3
+40,Software Development Engineer (Drive),Head Digital Works,Hyderabad,Founded in 2005,200 - 500 employees,Function: Software Engineering → Backend Development,"Apache Beam
+Java
+JavaScript
+Linux
+NoSQL
+React.js
+Spring
+Spring Boot
+Tomcat
+jQuery","Sughra Ali Zaidi
+Recruiter
+at Head Digital Works",4-8 Years,4.1,4.2,4.1,4,4,3.6,3.9
+41,TA Specialist (Drive),Jalan Technologies,Work From Home,Founded in 2016,10 - 50 employees,Function: Human Resources → Talent Acquisition,"IT Recruitment
+Non IT Recruitment
+Recruitment","Sneha Suresh
+Talent Acquisition Specialist
+at Jalan Technologies",2-4 Years,4.4,4.2,4,4.6,4.4,4.5,4.6
+42,Customer Support Executive - KYC Specialist (Drive),Refyne,Bangalore,Founded in 2020,10 - 50 employees,Function: Sales and Business → Customer Service,"Customer Service
+KYC","Swati Kapur
+Senior Talent Acquisition
+at Refyne",0-1 Years,5,4.5,4.5,4.5,5,4.5,
+43,Anaplan Analyst / Manager (Drive),RingCentral,Bangalore,Founded in 2003,More than 1000 employees,Function: Operations → Accounting / Finance,"Anaplan
+Architecture
+FPA
+Finance
+L1 Support
+L2 Support
+SQL
+Solution Architecture
+Stakeholder Management","Pallavi Padhy
+Talent Acquisition Specialist
+at RingCentral",4-8 Years,4.6,4.4,4.6,4.6,4.6,4.8,4.5
+44,Product Manager - Digital Lending (Drive),ShopSe,Mumbai,Founded in 2019,50 - 200 employees,Function: Technical Management → Product Management,"Mapping
+NBFC
+Product Lifecycle Management
+Product Management","Ajay Kumar
+Manager - Talent Acquisition
+at ShopSe",4-7 Years,,,,,,,
+45,Assistant Manager - B2C Inside Sales (Drive),Univariety,Hyderabad,Founded in 2011,50 - 200 employees,Function: Sales and Business → Sales / Business Development,"Business Development
+Corporate Sales
+Direct Sales
+International Sales
+Sales
+Telecalling","Sunitha Mudiraj
+HR Manager
+at Univariety",1-5 Years,3.6,3.4,3.5,3.8,3.7,3.7,3.9
+46,Key Account Manager / Senior Key Account Manager (Drive),Univariety,Hyderabad,Founded in 2011,50 - 200 employees,Function: Sales and Business → Customer Service,"Corporate Strategy
+Customer Relationship
+Customer Service
+Key Account Management
+Retention Management
+Stakeholder Management
+Strategic Planning","Sunitha Mudiraj
+HR Manager
+at Univariety",4-8 Years,3.6,3.4,3.5,3.8,3.7,3.7,3.9
+47,Manager - Institutional / B2B Sales (Drive),Univariety,Hyderabad,Founded in 2011,50 - 200 employees,Function: Sales and Business → Sales / Business Development,"Business Development
+Channel Sales
+Corporate Sales
+Direct Sales
+International Sales
+Sales","Sunitha Mudiraj
+HR Manager
+at Univariety",2-6 Years,3.6,3.4,3.5,3.8,3.7,3.7,3.9
+48,Enterprise Sales Outbound (Drive),Whatfix,"Bangalore, Gurgaon",Founded in 2013,200 - 500 employees,Function: Sales and Business → Sales / Business Development,"Corporate Sales
+International Sales
+Key Account Management
+LinkedIn Sales Navigator","Sowmya Shivarama
+Talent Acquisition Specialist
+at Whatfix",6-10 Years,4.1,3.8,4.3,4.1,4.1,4.1,4.3
+49,"Manager / Senior Manager / AD, Strategic Accounts (Drive)",Whatfix,"Bangalore, Gurgaon",Founded in 2013,200 - 500 employees,Function: Sales and Business → Sales / Business Development,"Corporate Sales
+Farming
+International Sales
+Key Account Management","Sowmya Shivarama
+Talent Acquisition Specialist
+at Whatfix",6-10 Years,4.1,3.8,4.3,4.1,4.1,4.1,4.3
+50,Sales Executive - Modern Trade (Drive),Cargill,"Chennai, Hyderabad, Vijayawada",Founded in 1900,More than 1000 employees,Function: Sales and Business → Sales / Business Development,"Corporate Sales
+Distribution
+Lead Generation
+Sales","Aakanshu Gupta
+Engineering Manager
+at Cargill",3-7 Years,4,3.6,3.9,4,3.7,4.1,4
+51,Engineering Manager (Drive),Crayon Data,Chennai,Founded in 2012,50 - 200 employees,Function: Technical Management → Engineering Management,".NET
+Algorithms
+Architecture
+Data Structures
+HTTP
+Java
+Node.js
+Spring Boot","Meenakshi Priyadharshini
+Senior Talent Acquisition Partner
+at Crayon Data",9-12 Years,4.1,3.6,4,4.1,4.1,4.2,3.5
+52,Senior Financial Accountant (Drive),EagleView,Work From Home,Founded in 2008,0 - 10 employees,Function: Operations → Accounting / Finance,"Accounting
+Auditing
+Chartered Accountant
+Direct Taxation
+Financial Analysis
+GST
+Income Tax
+Indirect Taxation
+NetSuite
+SEZ
+STPI
+TDS
+Taxation","Laks
+Talent Acquisition - Sr. Manager
+at EagleView",3-6 Years,3.5,3.4,3.4,3.4,3.2,3.4,3
+53,Event Manager (Drive),GoKwik,Work From Home,Founded in 2020,50 - 200 employees,Function: Marketing → Event Management,"Corporate Events
+Cultural Events
+Event Management
+Event Marketing
+Event Planning","Chandrima Sarma
+HR Associate
+at GoKwik",5-9 Years,4.5,4.4,4.4,4.6,4.6,4.5,4.5
+54,Finance Manager (Drive),GoKwik,Work From Home,Founded in 2020,50 - 200 employees,Function: Operations → Accounting / Finance,"Accounting
+Auditing
+Finance
+GST
+Income Tax
+MIS
+Sales Tax
+TDS
+Taxation","Chandrima Sarma
+HR Associate
+at GoKwik",5-9 Years,4.5,4.4,4.4,4.6,4.6,4.5,4.5
+55,Senior Sales Manager (Drive),GoKwik,Work From Home,Founded in 2020,50 - 200 employees,Function: Sales and Business → Sales / Business Development,"Business Development
+Corporate Sales
+Key Account Management
+Sales","Chandrima Sarma
+HR Associate
+at GoKwik",5-9 Years,4.5,4.4,4.4,4.6,4.6,4.5,4.5
+56,ASW Cloud Security Manager (Drive),HDFC Life,"Bangalore, Mumbai",Founded in 2000,More than 1000 employees,Function: IT Operations and Support → DevOps / Cloud,"AWS
+CI - CD
+Cloud Computing
+DevOps
+Linux","Hr
+Recruiter
+at HDFC Life",5-6 Years,,,,,,,
+57,Business Development (Lending) (Drive),Jupiter,Bangalore,Founded in 2019,50 - 200 employees,Function: Sales and Business → Sales / Business Development,"Business Development
+Channel Sales
+Corporate Banking
+Corporate Loans
+Corporate Sales
+Corporate Strategy
+Key Account Management
+Marketing
+Microsoft Office
+Partnerships
+Product Marketing
+Retail Banking
+Retail Loans
+Retail Marketing
+Sales
+Stakeholder Management
+Strategic Planning","Lalitha Gangadhara
+Talent Acquisition Lead
+at Jupiter",4-6 Years,4.4,3.9,4.1,4.2,4.2,4.2,4
+58,Business Development Associate (Drive),Thence,Work From Home,Founded in 2012,50 - 200 employees,Function: Sales and Business → Sales / Business Development,"Business Development
+Corporate Sales
+Key Account Management
+Lead Generation
+Telecalling","Raji L
+Recruiter
+at Thence",3-7 Years,4.1,3.6,3.4,3.9,4,4.4,3.5
+59,Business Development Associate (US Shift) (Drive),Thence,Work From Home,Founded in 2012,50 - 200 employees,Function: Sales and Business → Sales / Business Development,"Business Development
+Corporate Sales
+International Sales
+Key Account Management
+LinkedIn Sales Navigator
+Telecalling","Raji L
+Recruiter
+at Thence",3-7 Years,4.1,3.6,3.4,3.9,4,4.4,3.5
+60,Sales Executive - General Trade (Drive),Cargill,Kochi,Founded in 1900,More than 1000 employees,Function: Sales and Business → Sales / Business Development,"Corporate Sales
+Distribution
+Lead Generation
+Sales","Aakanshu Gupta
+Engineering Manager
+at Cargill",3-7 Years,4,3.6,3.9,4,3.7,4.1,4
+61,Sales Executive - General Trade (Drive),Cargill,"Chennai, Coimbatore, Mysuru",Founded in 1900,More than 1000 employees,Function: Sales and Business → Sales / Business Development,"Corporate Sales
+Distribution
+Lead Generation
+Sales","Aakanshu Gupta
+Engineering Manager
+at Cargill",3-7 Years,4,3.6,3.9,4,3.7,4.1,4
+62,Sales Executive - General Trade (Drive),Cargill,"Anantapur, Hyderabad, Kurnool",Founded in 1900,More than 1000 employees,Function: Sales and Business → Sales / Business Development,"Corporate Sales
+Distribution
+Lead Generation
+Sales","Aakanshu Gupta
+Engineering Manager
+at Cargill",3-7 Years,4,3.6,3.9,4,3.7,4.1,4
+63,Business Analyst (Drive),HDFC Life,Bangalore,Founded in 2000,More than 1000 employees,Function: Data Science and Analysis → Data Analysis / Business Intelligence,"Business Analysis
+Documentation
+Microsoft Excel
+Power BI
+R
+SQL
+Tableau","Hr
+Recruiter
+at HDFC Life",3-6 Years,,,,,,,
+64,Customer Success Manager (Drive),Tranzact,Mumbai,Founded in 2017,10 - 50 employees,Function: Sales and Business → Customer Service,"Customer Interaction
+Customer Relationship
+Escalation Management
+Google Data Studio
+Microsoft Excel
+SQL","Mukti Shetty
+Talent Acquisition Manager
+at Tranzact",2-5 Years,3.8,3.1,3.4,3.9,3.7,4.3,3
+65,Admission Counsellor Study Abroad (Drive),upGrad,"Bangalore, Hyderabad, Noida",Founded in 2015,50 - 200 employees,Function: Sales and Business → Sales / Business Development,"Business Development
+Corporate Sales
+Sales","Abhishek Singh Bhadoria
+Sr. Asso- Talent Acquisition
+at upGrad",1-4 Years,3.8,3.1,3.7,3.5,3.8,3.8,3.5
+66,Key Account Manager (Drive),upGrad,Mumbai,Founded in 2015,50 - 200 employees,Function: Sales and Business → Sales / Business Development,"Channel Sales
+Corporate Sales
+Direct Sales
+Key Account Management
+Sales","Abhishek Singh Bhadoria
+Sr. Asso- Talent Acquisition
+at upGrad",2-3 Years,3.8,3.1,3.7,3.5,3.8,3.8,3.5
+67,Office Operations (Drive),Zenda,"Bangalore, Delhi",Founded in 2021,10 - 50 employees,Function: Human Resources → HR Generalist,"Back Office Operations
+Bill Processing
+Employee Induction
+Google Workspace
+Human Capital Management
+Inventory Management
+Microsoft Excel
+Office Operations
+Policy Formulation
+Procurement
+Vendor Management","Meenal Sharma
+Senior TA Specialist
+at Zenda",2-5 Years,5,5,5,5,5,5,5
+68,Territory Sales Manager (Drive),Zenda,"Delhi, Lucknow",Founded in 2021,10 - 50 employees,Function: Sales and Business → Sales / Business Development,"Business Development
+Channel Sales
+Direct Sales
+Sales","Meenal Sharma
+Senior TA Specialist
+at Zenda",3-7 Years,5,5,5,5,5,5,5
+69,Territory Sales Manager (Drive),Zenda,"Mumbai, Pune",Founded in 2021,10 - 50 employees,Function: Sales and Business → Sales / Business Development,"Business Development
+Channel Sales
+Direct Sales
+Sales","Meenal Sharma
+Senior TA Specialist
+at Zenda",3-7 Years,5,5,5,5,5,5,5
+70,Backend Architect,BillDesk,Mumbai,Founded in 2000,500 - 1000 employees,Function: Software Engineering → Backend Development,"Java
+Architecture
+SOAP
+UML
+Spring Boot","Uneza Khan
+Senior Recruiter
+at RecRoots",10-15 Years,3.4,3.5,2.5,2.9,3.2,2.9,3
+71,Senior Java Developer,Evolving Systems,Work From Home,Founded in 1985,200 - 500 employees,Function: Software Engineering → Backend Development,"Java
+J2EE
+Spring Boot
+Microservices","Sudhan K N R
+Technical Recruiter
+at Hashone Careers",10-15 Years,3.3,3.4,3.2,3.1,2.9,3.2,2.5
+72,Training Manager (Drive),OneCode.in,Bangalore,Founded in 2019,50 - 200 employees,Function: Design and Creative → Other Design,Instructional Design,"Rinsy Backer
+Head - People Practice
+at OneCode.in",6-10 Years,4.9,4.6,4.8,4.9,5,4.9,5
+73,SDE II Frontend,Quotient Technology,Bangalore,Founded in 1998,500 - 1000 employees,Function: Software Engineering → Frontend Development,"Angular
+JavaScript
+HTML
+Google Cloud
+CSS","Shahida
+Talent Acquisition Specialist
+at Success Pact",3-5 Years,,,,,,,
+74,SSE - Frontend,Quotient Technology,Bangalore,Founded in 1998,500 - 1000 employees,Function: Software Engineering → Frontend Development,"Angular
+JavaScript
+HTML
+CSS
+Google Cloud","Shahida
+Talent Acquisition Specialist
+at Success Pact",5-9 Years,,,,,,,
+75,SSE Backend,Quotient Technology,Bangalore,Founded in 1998,500 - 1000 employees,Function: Software Engineering → Backend Development,"Java
+Spring Boot
+Microservices
+MongoDB
+AWS","Shahida
+Talent Acquisition Specialist
+at Success Pact",5-10 Years,,,,,,,
+76,Business Development Executives (Drive),Tranzact,Mumbai,Founded in 2017,10 - 50 employees,Function: Sales and Business → Sales / Business Development,"Business Development
+Channel Sales
+Direct Sales
+Key Account Management
+Sales","Mukti Shetty
+Talent Acquisition Manager
+at Tranzact",2-4 Years,3.8,3.1,3.4,3.9,3.7,4.3,3
+77,Customer Delight (Drive),Tranzact,Mumbai,Founded in 2017,10 - 50 employees,Function: Sales and Business → Customer Service,"Customer Interaction
+Customer Service
+Freshdesk
+Microsoft Excel
+Zendesk","Mukti Shetty
+Talent Acquisition Manager
+at Tranzact",2-5 Years,3.8,3.1,3.4,3.9,3.7,4.3,3
+78,Software Development Engineer (Backend),Twenty Point Nine Five Ventures,Noida,Founded in 2022,10 - 50 employees,Function: Software Engineering → Backend Development,"Java
+Python
+Golang
+AWS","Chandramouli Careersahead
+Chief Consultant
+at Careers Ahead",2-5 Years,,,,,,,
+79,Software Development Engineer - Frontend,Twenty Point Nine Five Ventures,Noida,Founded in 2022,10 - 50 employees,Function: Software Engineering → Frontend Development,"React Native
+Flutter
+React.js","Chandramouli Careersahead
+Chief Consultant
+at Careers Ahead",2-5 Years,,,,,,,
+80,Business Development Manager,Art Attack Animation,Delhi,Founded in 2018,0 - 10 employees,"Function: Design and Creative → Graphic Design / Animation, Sales / Business Development","Sales
+Business Development
+Graphic Design
+2D Animation
+UX Design","Madhulika Khatri
+Associate Sourcing Specialist
+at Mee2Bee Smart Services",3-8 Years,,,,,,,
+81,Engineering Manager,BillDesk,Mumbai,Founded in 2000,500 - 1000 employees,"Function: Software Engineering → Backend Development, Engineering Management","Java
+Spring Boot
+SOAP
+REST Assured
+Payment Solutions","Uneza Khan
+Senior Recruiter
+at RecRoots",10-15 Years,3.4,3.5,2.5,2.9,3.2,2.9,3
+82,Software Engineering - Backend,CashFlo,Mumbai,Founded in 2017,10 - 50 employees,Function: Software Engineering → Backend Development,"Node.js
+AWS
+Kafka
+Python
+CI - CD","Kapil Goyal
+Co-Founder
+at Keeboo Staffing",4-7 Years,4,4.2,4.2,4.3,3.9,4.3,5
+83,.NET Developer,GlobalLogic,Bangalore,Founded in 2000,More than 1000 employees,"Function: Software Engineering → Backend Development, Frontend Development, Full-Stack Development",".NET
+Microservices
+Angular
+Azure
+ASP.NET","Saritha
+IT Recruiter
+at Majoris Technologies",8-12 Years,4.1,4.1,3.6,4.1,3.9,4,4.3
+84,.NET Full Stack Lead / Architect,GlobalLogic,Bangalore,Founded in 2000,More than 1000 employees,"Function: Software Engineering → Backend Development, Frontend Development, Full-Stack Development",".NET
+Angular
+ASP.NET
+Azure
+Microservices","Saritha
+IT Recruiter
+at Majoris Technologies",8-12 Years,4.1,4.1,3.6,4.1,3.9,4,4.3
+85,iOS Developer,Lenskart.com,Bangalore,Founded in 2008,More than 1000 employees,Function: Software Engineering → Mobile Development,"iOS
+Objective-C
+Swift
+Cocoa","Sneha Halimani
+HR Recruiter
+at CornerTree Consulting",5-9 Years,,,,,,,
+86,PPM / Director - Product Management,Paytm,Work From Home,Founded in 2000,More than 1000 employees,Function: Technical Management → Product Management,"Payment Solutions
+Product Management","Priyal
+Talent Acquisition Specialist
+at Catalyst IQ",7-12 Years,3.8,3.4,3.5,3.4,3.8,3.6,3.7
+87,ENOVIA Developer,SLK,Bangalore,Founded in 2000,More than 1000 employees,Function: Software Engineering → Other Software Development,"Java
+MQL
+ENOVIA
+TCL
+SQL","Keerthi K
+Recruiter
+at Acesoft Labs",2-4 Years,3.7,3.5,3.3,3.6,3.7,3.7,3.7
+88,SDE 3,Stable Money,Bangalore,Founded in 2022,10 - 50 employees,Function: Software Engineering → Backend Development,"Java
+AWS
+Spring Boot
+Data Structures
+Algorithms","Sumitabh Ghosh
+Recruitment Consultant
+at KPB Consultants",6-10 Years,,,,,,,
+89,International Voice Process,Suraasa,Gurgaon,Founded in 2017,50 - 200 employees,Function: Sales and Business → Sales / Business Development,International Sales,"Priya
+Hr
+at Hindustan Recruitment",1-2 Years,4.9,4.3,4.6,4.9,4.9,4.9,5
+90,Backend Developer,DeNovo Systems,Chennai,Founded in 2014,10 - 50 employees,"Function: Software Engineering → Backend Development, Frontend Development, Full-Stack Development","AWS
+MySQL
+API Testing
+MongoDB
+Spring Boot","Nirosha Yalawar
+HR Recruiter
+at Polar HR Services",3-5 Years,4.5,4.5,3.4,2.5,4.1,1,2
+91,Android Developer,Eight Network,Bangalore,Founded in 2021,0 - 10 employees,"Function: Software Engineering → Backend Development, Full-Stack Development, Mobile Development",Kotlin,"Ashwin N
+TA Manager
+at AVE Promagne Business Solutions",2-4 Years,,,,,,,
+92,Program Manager - Data Management,Hewlett Packard Enterprise (HPE),Mumbai,Founded in 2015,More than 1000 employees,Function: Technical Management → Product Management,SAP ERP,"Navya C M
+IT recruiter
+at One Degree North",12-15 Years,4.2,4.4,3.6,4.4,3.9,4.4,4.5
+93,Senior Software Developer - C++,InBetween,Work From Home,Founded in 1992,10 - 50 employees,Function: Software Engineering → Backend Development,"C++
+InDesign","Vipin Dhaker
+Growth manager
+at PloPdo",3-7 Years,3.2,2.9,2.3,3.2,2.9,2.9,3.3
+94,Data Scientists,Intellect Design Arena,Work From Home,Founded in 2014,More than 1000 employees,Function: Data Science and Analysis → Data Science / Machine Learning,"Python
+Machine Learning
+NLP","Sridevi Viswanathan
+Head Consulting
+at Hub Work",3-7 Years,4.1,3.9,4,4.1,4.1,4.1,4.2
+95,UI Developer,Intellect Design Arena,Work From Home,Founded in 2014,More than 1000 employees,Function: Software Engineering → Frontend Development,"Vue.js
+JavaScript
+HTML
+CSS","Sridevi Viswanathan
+Head Consulting
+at Hub Work",3-6 Years,4.1,3.9,4,4.1,4.1,4.1,4.2
+96,Data Engineer,OrangeMantra,Bangalore,Founded in 2001,50 - 200 employees,Function: Data Science and Analysis → Data Science / Machine Learning,"Python
+SQL","Navya C M
+IT recruiter
+at One Degree North",2-5 Years,4.4,4.3,4.2,4.3,4.4,4.4,4.7
+97,VP Product - Credit Card,Paytm,Work From Home,Founded in 2000,More than 1000 employees,Function: Technical Management → Product Management,"Credit Cards
+Product Management","Priyal
+Talent Acquisition Specialist
+at Catalyst IQ",10-15 Years,3.8,3.4,3.5,3.4,3.8,3.6,3.7
+98,Hadoop Administrator,Verizon Communications,Bangalore,Founded in 1983,More than 1000 employees,"Function: IT Operations and Support → DevOps / Cloud, Technical / Production Support","Hadoop
+Jenkins
+Kafka
+Spark
+Unix","Asha L
+TA Manager
+at Wenger & Watson",2-7 Years,3.8,3.5,4.1,3.7,3.7,4.1,3.6
+99,Career Counsellor,Yangpoo Executive Education,Mumbai,Founded in 2016,50 - 200 employees,Function: Sales and Business → Sales / Business Development,"Sales
+Business Development
+Direct Sales
+Corporate Sales
+International Sales","Mansi Goyal
+HR Manager
+at Hindustan Recruitment",0-1 Years,3.8,3.2,3.5,3.6,3.7,3.6,3.9
+100,Principal Software Engineer,Advanced Business and Healthcare India,Bangalore,Founded in 2010,More than 1000 employees,"Function: Software Engineering → Backend Development, Engineering Management, Solution Architecture / Presales","Java
+Microservices
+Spring Boot
+Architecture
+AWS","Divya Sharma
+Recruitment Manager
+at HireTale",9-14 Years,3.6,3.9,3.2,3.7,3.7,4,3.5
+101,DevOps Engineer,Arintra,Bangalore,Founded in 2020,10 - 50 employees,Function: IT Operations and Support → DevOps / Cloud,"CI - CD
+Jenkins
+AWS
+Python
+Java","Ramya Tanya
+AssociateTechnicalAcquisition
+at Zyoin",5-8 Years,,,,,,,
+102,.NET Core Developer,Baygrape Technology Solutions,Bangalore,Founded in 2016,10 - 50 employees,Function: Software Engineering → Backend Development,".NET
+LINQ
+Git","Deval Talati Shah
+HR
+at CornerTree Consulting",4-9 Years,,,,,,,
+103,SRE - TKG,GlobalLogic,Bangalore,Founded in 2000,More than 1000 employees,Function: Technical Management → Engineering Management,Kubernetes,"Priyanka Paul
+Talent Acquisition Specialist
+at Karya Consultants",3-8 Years,4.1,4.1,3.6,4.1,3.9,4,4.3
+104,Tech Lead - C++,InBetween,Work From Home,Founded in 1992,10 - 50 employees,Function: Software Engineering → Backend Development,"C++
+InDesign","Vipin Dhaker
+Growth manager
+at PloPdo",5-10 Years,3.2,2.9,2.3,3.2,2.9,2.9,3.3
+105,Data Scientist,Mashreq Bank,Bangalore,Founded in 1967,More than 1000 employees,Function: Data Science and Analysis → Data Science / Machine Learning,"Machine Learning
+NLP
+Python
+Data Analysis
+SQL","Chetan Kumar Marturkar
+Talent Acquisition
+at Shortlist Professionals",5-9 Years,3.7,3.1,3.7,3.5,3.6,3.6,3.5
+106,Regional Sales Manager,Mensa Brands,Bangalore,Founded in 2017,10 - 50 employees,Function: Sales and Business → Sales / Business Development,"Sales
+Business Development","Manjit Kaur
+Senior Recruiter
+at Risah Careers",8-13 Years,,,,,,,
+107,Lead Developer,Swimlane,Hyderabad,Founded in 2014,200 - 500 employees,Function: Software Engineering → Backend Development,"Python
+Django
+Flask","Ramya Tanya
+AssociateTechnicalAcquisition
+at Zyoin",8-12 Years,,,,,,,
+108,SSE,Swimlane,Hyderabad,Founded in 2014,200 - 500 employees,Function: Software Engineering → Backend Development,"Python
+Django
+Flask","Ramya Tanya
+AssociateTechnicalAcquisition
+at Zyoin",4-8 Years,,,,,,,
+109,SSE / FE,Zepto,Bangalore,Founded in 2021,More than 1000 employees,Function: Software Engineering → Frontend Development,"JavaScript
+React Native
+React.js","Ramya Tanya
+AssociateTechnicalAcquisition
+at Zyoin",2-7 Years,3.7,3,3.7,3.5,3.9,3.4,3.5
+110,UI Developer,ARi,Chennai,Founded in 2006,More than 1000 employees,Function: Software Engineering → Frontend Development,"Angular
+HTML
+CSS
+JavaScript","Archana Tr
+Recruiter
+at Wenger & Watson",4-6 Years,,,,,,,
+111,Wordpress Developer - Lead,Asentech,Work From Home,Founded in 2007,50 - 200 employees,"Function: Software Engineering → Backend Development, Full-Stack Development","PHP
+Wordpress
+HTML
+jQuery
+Jira","Jai Singh
+Recruiter
+at PurpleTech",8-12 Years,4.2,3.9,3.9,4,4.2,4.1,4.2
+112,SAP FICO + Tax Consultant,Donyati,Work From Home,Founded in 2015,50 - 200 employees,Function: Software Engineering → Other Software Development,"SAP FICO
+IDOC
+SAP HANA
+SAP Fiori","Venkatesh Palani
+Recruiter
+at SproutsAI",8-13 Years,4.2,4.5,4.3,4.4,4.2,4.3,4.3
+113,Product Manager,ElectricPe,Bangalore,Founded in 2021,10 - 50 employees,"Function: Technical Management → Product Management, Project Management","Product Management
+Project Management
+Enterprise Software
+Consumer Software
+PMP","Manish Nirwal
+Talent Aquisition
+at Hire Steezy",5-10 Years,4.6,4.1,4.2,4.5,4.7,4.1,4.5
+114,Backend Engineer,Loop Kitchen,Work From Home,Founded in 2022,0 - 10 employees,Function: Software Engineering → Backend Development,"Python
+Data Structures
+Algorithms","Ravi Dubey
+Recruitment Manager
+at HyrEzy Talent Solutions",1-2 Years,,,,,,,
+115,Backend Developer - Java,Mensa Brands,Bangalore,Founded in 2017,10 - 50 employees,Function: Software Engineering → Backend Development,"Java
+SQL
+Data Structures
+NoSQL
+Microservices","Manjit Kaur
+Senior Recruiter
+at Risah Careers",2-5 Years,,,,,,,
+116,Python Developer,Swimlane,Hyderabad,Founded in 2014,200 - 500 employees,Function: Software Engineering → Backend Development,"Python
+Django
+Flask
+Data Structures
+AWS","Safafirdos Shaikh
+Associate Talent Acquisition
+at Zyoin",4-8 Years,,,,,,,
+117,Senior Data Scientist,Swimlane,Hyderabad,Founded in 2014,200 - 500 employees,Function: Data Science and Analysis → Data Science / Machine Learning,"Python
+Machine Learning
+AWS
+NLP
+Data Analysis","Lavanya R
+Principal Talent Acquisition
+at Zyoin",10-12 Years,,,,,,,
+118,Machine Learning Engineer,Verizon Communications,Bangalore,Founded in 1983,More than 1000 employees,Function: Data Science and Analysis → Data Science / Machine Learning,"Machine Learning
+Google Cloud
+BigQuery
+Python
+MLOps","Ipshita Samantroy
+Talent Acquisition Specialist
+at Wenger & Watson",3-5 Years,3.8,3.5,4.1,3.7,3.7,4.1,3.6
+119,Data Analyst,WeRize,Bangalore,Founded in 2019,50 - 200 employees,Function: Data Science and Analysis → Data Analysis / Business Intelligence,"Python
+SQL","Nisha Sharma
+Recruiter
+at Paddlelift",1-4 Years,4,2.3,3.6,3.6,3.6,3.3,2.4
+120,Sales Executive / Senior Sales Executive,ADOS Interiors,Bangalore,Founded in 2014,10 - 50 employees,Function: Sales and Business → Sales / Business Development,"Sales
+Direct Sales
+Customer Relationship
+Customer Service
+Corporate Sales","Suranjan Barman
+Recruiter
+at Suyojett",1-4 Years,,,,,,,
+121,Senior Sales Executive / Sales Manager,ADOS Interiors,Bangalore,Founded in 2014,10 - 50 employees,"Function: Sales and Business → Customer Service, Sales / Business Development","Sales
+Business Development
+Direct Sales
+Customer Interaction
+Customer Service","Suranjan Barman
+Recruiter
+at Suyojett",3-8 Years,,,,,,,
+122,.NET Developer,AHAsolar,Ahmedabad,Founded in 2017,10 - 50 employees,"Function: Software Engineering → Backend Development, Frontend Development, Mobile Development",".NET
+ASP.NET
+C#
+SQL Server","Kanchan Pawar
+Sr. Manager
+at Apex One Team",2-5 Years,,,,,,,
+123,Staff Software Engineer,Allen Career Institute,Bangalore,Founded in 1988,More than 1000 employees,"Function: Software Engineering → Frontend Development, Full-Stack Development","JavaScript
+React.js
+Node.js
+Angular","Riya Prasad
+Recruiter
+at Wenger & Watson",8-13 Years,4,3.4,3.7,4,4,4.2,3.9
+124,Dot .NET Developer,Asentech,Work From Home,Founded in 2007,50 - 200 employees,"Function: Software Engineering → Backend Development, Full-Stack Development",".NET
+SQL Server
+jQuery
+C#
+Agile","Jai Singh
+Recruiter
+at PurpleTech",5-7 Years,4.2,3.9,3.9,4,4.2,4.1,4.2
+125,SEO Specialist,Asentech,Work From Home,Founded in 2007,50 - 200 employees,"Function: Marketing → Online Marketing, PR / Communications, SEO / SEM","SEO
+SEM
+SEMrush
+Jira
+Social Media Marketing","Jai Singh
+Recruiter
+at PurpleTech",4-5 Years,4.2,3.9,3.9,4,4.2,4.1,4.2
+126,Education Counsellor - B2C Sales,IDP Education,Mumbai,Founded in 1969,More than 1000 employees,Function: Sales and Business → Sales / Business Development,"Education Counselling
+Sales","Priyanka Patra
+Trainee Talent Acquisition
+at Zyoin",3-8 Years,3.9,3.8,3.7,3.9,3.7,3.9,4
+127,Principal Product Manager,Quince,Hyderabad,Founded in 2018,50 - 200 employees,Function: Technical Management → Product Management,"Product Management
+Fraud Management
+Agile
+Order Fulfillment
+Loyalty Programs","Kiran Palakodeti
+Founder/Director
+at ConsultMeIn",12-15 Years,2,1,3,1,2.5,3,
+128,Accounts Executive,Volvo Martial Motors,Bangalore,Founded in 2012,200 - 500 employees,Function: Operations → Accounting / Finance,"GST
+TDS
+Tally
+Banking Operations
+Microsoft Excel","Fathima Zoya
+Director
+at Team Focus Corporate Solution",3-8 Years,,,,,,,
+129,Sales Consultant,Volvo Martial Motors,Bangalore,Founded in 2012,200 - 500 employees,"Function: Marketing → Brand Management, Customer Service, Sales / Business Development","Business Development
+Marketing
+Customer Interaction
+Sales Operations
+Microsoft Excel","Fathima Zoya
+Director
+at Team Focus Corporate Solution",3-6 Years,,,,,,,
+130,Staff Engineer - Java Full Stack,7-Eleven,Bangalore,Founded in 1927,More than 1000 employees,Function: Software Engineering → Full-Stack Development,"Java
+React.js
+AWS
+Spring Boot
+Microservices","Aditi Tyagi
+Senior Consultant
+at Wenger & Watson",12-17 Years,3.3,2.8,2.9,3,3,3.5,2.5
+131,Senior Data Scientist,Bidgely,Bangalore,Founded in 2010,200 - 500 employees,Function: Data Science and Analysis → Data Science / Machine Learning,"Machine Learning
+Neural Networks
+Python
+Linear Regression
+Predictive Modelling","Shamim Siddiqui
+Co Founder
+at GlobalConsultants Inc",2-6 Years,4,3.5,3.9,3.8,3.8,3.9,4
+132,Senior Data Scientist,Bidgely,Bangalore,Founded in 2010,200 - 500 employees,Function: Data Science and Analysis → Data Science / Machine Learning,"Machine Learning
+Python
+NLP
+Statistics
+Data Mining","Rashmi Srivastava
+Manager-Recruitment
+at GlobalConsultants Inc",2-7 Years,4,3.5,3.9,3.8,3.8,3.9,4
+133,QA Engineer,Certa,Work From Home,Founded in 2013,50 - 200 employees,Function: Software Engineering → QA / SDET,"Playwright
+Automation Testing
+Python
+JavaScript
+Quality Assurance","Safafirdos Shaikh
+Associate Talent Acquisition
+at Zyoin",3-5 Years,4.4,3.9,4.3,4.3,4.3,4.4,4.2
+134,Senior Visualizer,Emporiom Digital,Noida,Founded in 2014,10 - 50 employees,"Function: Design and Creative → Graphic Design / Animation, UX / Visual Design","Motion Graphics
+Visual Design
+Visual Effects
+Cinema 4D
+Final Cut Pro","Madhulika Khatri
+Associate Sourcing Specialist
+at Mee2Bee Smart Services",2-7 Years,,,,,,,
+135,Salesforce Developer,Lumen Technologies,Bangalore,Founded in 1968,More than 1000 employees,Function: Software Engineering → Full-Stack Development,"Salesforce
+Apex
+Visualforce
+Salesforce Data Loader","Ayushi Srivastava
+IT Recruiter
+at One Degree North",4-9 Years,3.9,4.3,3.4,4,3.6,4,4.1
+136,Lead Data Engineer,Mystifly,Bangalore,Founded in 2009,200 - 500 employees,"Function: Software Engineering → Backend Development, Data Analysis / Business Intelligence, Data Science / Machine Learning","SQL
+Java
+Python
+C#
+R","Akhila Hs
+Talent acquisition
+at Talent Socio",5-10 Years,3.8,3.8,3.5,3.8,3.7,4.3,3.7
+137,Senior Java Developer,NeoSOFT Technologies,Chennai,Founded in 1996,More than 1000 employees,"Function: Software Engineering → Backend Development, Full-Stack Development","Java
+Spring","Kapil Goyal
+Co-Founder
+at Keeboo Staffing",3-8 Years,,,,,,,
+138,DevOps Cloud Engineer,Sundial,Bangalore,Founded in 2020,10 - 50 employees,"Function: IT Operations and Support → DevOps / Cloud, Other Software Development","DevOps
+AWS
+Cloud Computing
+Kubernetes
+Deployment","Manish Nirwal
+Talent Aquisition
+at Hire Steezy",1-6 Years,2.7,4,3.5,4.1,3,2.6,
+139,DevOps Cloud Engineer,Sundial,Bangalore,Founded in 2020,10 - 50 employees,"Function: IT Operations and Support → Database Admin / Development, DevOps / Cloud","Deployment
+DevOps
+AWS
+Kubernetes
+Cloud Computing","Manish Nirwal
+Talent Aquisition
+at Hire Steezy",6-11 Years,2.7,4,3.5,4.1,3,2.6,
+140,.NET Developer,Deloitte,Work From Home,Founded in 1845,More than 1000 employees,"Function: Software Engineering → Backend Development, Frontend Development, Full-Stack Development",".NET
+JavaScript
+jQuery
+React.js
+C#","Ghowsalya B
+Junior Recruiter
+at Visionyle",3-8 Years,4.1,3.4,4,4.2,4.1,4.3,4.3
+141,Java Developer,DeNovo Systems,Chennai,Founded in 2014,10 - 50 employees,"Function: Software Engineering → Backend Development, Frontend Development, Full-Stack Development","Java
+MariaDB
+Spring Boot
+J2EE
+MySQL","Archana Manne
+Recruiter
+at Polar HR Services",3-5 Years,4.5,4.5,3.4,2.5,4.1,1,2
+142,Customer Integration Engineer,Gumlet,Work From Home,Founded in 2019,10 - 50 employees,"Function: Sales and Business → Customer Service, Engineering Management","Customer Interaction
+Engineering Management
+HTML
+CSS","Anusha J
+Talent Advisor
+at Scaling Theory",1-4 Years,5,5,5,5,5,5,5
+143,Sales Specialist,Hewlett Packard Enterprise (HPE),Bangalore,Founded in 2015,More than 1000 employees,Function: Sales and Business → Sales / Business Development,"Sales
+Business Development","Sachin K J
+Recruiter
+at Wenger & Watson",8-13 Years,4.2,4.4,3.6,4.4,3.9,4.4,4.5
+144,Tech Lead Engineer,Hub,Gurgaon,Founded in 2021,50 - 200 employees,Function: Software Engineering → Backend Development,"Java
+Spring
+Microservices
+AWS
+AWS Lambda","Roshan Muniraj
+Manager
+at Anzy Careers",10-15 Years,3.9,3.9,3.5,4,3.8,4,3.9
+145,Software Developer,MediBuddy,Bangalore,Founded in 2013,More than 1000 employees,Function: Software Engineering → Frontend Development,"React.js
+Angular","Sindhuja
+Recruitment Consultant
+at JobsCubicle",5-7 Years,3.2,2.9,3.2,3.1,3.3,3.1,2.8
+146,Senior Digital Marketing Manager / Head of Marketing,PACE Group Of Companies,Delhi,Founded in 1995,500 - 1000 employees,Function: Marketing → Online Marketing,"Digital Marketing
+Social Media Marketing
+Content Marketing
+Marketing","Aarthi P
+HR recruiter
+at Hrizen",5-10 Years,4.3,4.2,3.7,3.8,4.5,4.7,4.2
+147,Admission Counsellor,Scaler Academy,Bangalore,Founded in 2019,50 - 200 employees,"Function: Sales and Business → Customer Service, Functional / Technical Consulting, Sales / Business Development","Business Development
+Counselling
+Education Counselling
+International Sales
+Sales","Manzar Imam
+Founder
+at CareerOneStop",2-4 Years,4.2,3.9,4.4,4.2,4.2,4.2,4.2
+148,Business Development Executive,TrekNomads,Bangalore,Founded in 2016,0 - 10 employees,Function: Sales and Business → Sales / Business Development,"Sales
+Travel Planning
+Telecalling
+Business Development
+Travel Management","Talent Acquisition Team
+Recruiter
+at VidPro Consultancy",1-4 Years,,,,,,,
+149,Senior Software Engineer - Frontend,Zepto,Bangalore,Founded in 2021,More than 1000 employees,Function: Software Engineering → Frontend Development,"React Native
+React.js
+JavaScript
+HTML
+CSS","Priyanka Mahindrakar
+Senior Talent Acquisition
+at Zyoin",5-7 Years,3.7,3,3.7,3.5,3.9,3.4,3.5
+150,Test Engineer,Certa,Work From Home,Founded in 2013,50 - 200 employees,Function: Software Engineering → QA / SDET,"JavaScript
+Playwright
+Automation Testing
+Python","Ravindra Rathod
+Senior talent acquisition
+at Zyoin",3-5 Years,4.4,3.9,4.3,4.3,4.3,4.4,4.2
+151,Java Angular Developer,Deloitte,Work From Home,Founded in 1845,More than 1000 employees,"Function: Software Engineering → Backend Development, Frontend Development, Full-Stack Development","Java
+Angular
+Hibernate
+TypeScript
+JavaScript","Ghowsalya B
+Junior Recruiter
+at Visionyle",4-9 Years,4.1,3.4,4,4.2,4.1,4.3,4.3
+152,Full Stack Developer,Neuralgo,Coimbatore,Founded in 2023,0 - 10 employees,Function: Software Engineering → Full-Stack Development,"React.js
+Node.js
+Angular
+Python
+SQL","Jothi Balagan
+HR recruiter
+at Hashone Careers",5-8 Years,,,,,,,
+153,Senior ML Architect,Neuralgo,Coimbatore,Founded in 2023,0 - 10 employees,Function: Data Science and Analysis → Data Science / Machine Learning,"Machine Learning
+NLP
+Data Collection","Jothi Balagan
+HR recruiter
+at Hashone Careers",10-14 Years,,,,,,,
+154,Software Engineer 2,Playtoome,Kolkata,Founded in 2016,10 - 50 employees,Function: Software Engineering → Full-Stack Development,"Python
+Java
+JavaScript
+Node.js
+React.js","Nisha Sharma
+Recruiter
+at Paddlelift",3-8 Years,3.7,3,3.1,3.5,3.4,3.3,3.2
+155,SDE - 1 Frontend,PrivateCircle,Bangalore,Founded in 2015,10 - 50 employees,Function: Software Engineering → Frontend Development,"Angular
+JavaScript
+Git
+HTML
+CSS","Osama Khan
+HR - Recruiter
+at Skill2source",1-2 Years,3.8,3.4,3.2,3.5,3.4,2.7,3.8
+156,Full Stack Developer,Verizon Communications,Hyderabad,Founded in 1983,More than 1000 employees,Function: Software Engineering → Full-Stack Development,"React.js
+Spring Boot
+Microservices
+Java
+SQL","Gopikrishnan Kg
+Associate Consultant
+at Wenger & Watson",4-7 Years,3.8,3.5,4.1,3.7,3.7,4.1,3.6
+157,Frontend Developer (React Native),Zepto,Bangalore,Founded in 2021,More than 1000 employees,Function: Software Engineering → Frontend Development,"React Native
+JavaScript
+React.js
+Android
+iOS","Nikita Rai
+Senior Talent Acquistion
+at Zyoin",2-5 Years,3.7,3,3.7,3.5,3.9,3.4,3.5
+158,Senior Software Engineer,Zepto,Bangalore,Founded in 2021,More than 1000 employees,Function: Software Engineering → Frontend Development,"React Native
+React.js
+JavaScript
+Android
+iOS","Nikita Rai
+Senior Talent Acquistion
+at Zyoin",4-7 Years,3.7,3,3.7,3.5,3.9,3.4,3.5
+159,Software Engineer - Frontend,Zepto,Bangalore,Founded in 2021,More than 1000 employees,Function: Software Engineering → Frontend Development,"React Native
+React.js
+JavaScript
+HTML
+CSS","Priyanka Mahindrakar
+Senior Talent Acquisition
+at Zyoin",2-5 Years,3.7,3,3.7,3.5,3.9,3.4,3.5
+160,Oracle Fusion HCM Technical / Functional Consultant,3 Minds Digital,Hyderabad,Founded in 2016,10 - 50 employees,"Function: IT Operations and Support → Functional / Technical Consulting, HR Generalist, Talent Acquisition","Oracle HCM
+Technical Consulting
+Functional Consulting
+Payroll Management
+HR Operations","Muni Reddy Yerrappa
+IT RECUITER
+at Mapout",6-11 Years,4.7,4.2,3.9,4.9,4.7,4.7,5
+161,Software Engineer,Allen Career Institute,Bangalore,Founded in 1988,More than 1000 employees,Function: Software Engineering → Backend Development,"Java
+Spring
+MongoDB
+Python
+Golang","Archana Tr
+Recruiter
+at Wenger & Watson",5-8 Years,4,3.4,3.7,4,4,4.2,3.9
+162,Power BI MSBI SQL Developer,Apexon,Coimbatore,Founded in 1996,More than 1000 employees,"Function: Software Engineering → Backend Development, Data Science / Machine Learning, Database Admin / Development","Power BI
+SQL
+MSBI
+SSIS
+DAX","Kirthika T
+Technical Recruiter
+at Hashone Careers",1-3 Years,4.1,4.1,3.8,4,4,4,4.3
+163,Senior Software Engineer,Barco,Noida,Founded in 1934,More than 1000 employees,"Function: Software Engineering → Full-Stack Development, Other Software Development","C++
+GUI
+Qt
+QML","Srikanth Alladi
+Recruiter
+at Assure HRLabs",9-13 Years,3.8,3.9,3.4,3.7,3.5,3.7,3.8
+164,SDE 3,BetterPlace,Bangalore,Founded in 2015,500 - 1000 employees,Function: Software Engineering → Backend Development,"Java
+Spring Boot
+AWS
+Microservices
+Kafka","Nikita Sah
+Nikita Sah
+at Talentoj",4-8 Years,3.8,5,3.2,5,3.4,2.6,5
+165,Sales Specialist,Bizongo,Mumbai,Founded in 2014,200 - 500 employees,Function: Sales and Business → Sales / Business Development,"Corporate Sales
+NBFC
+Lead Generation
+Business Development
+Key Account Management","Swapnil Nautiyal
+Associate Manager TA
+at Zyoin",3-8 Years,2.2,2.6,2.7,2.3,2.2,3.5,1
+166,ServiceNow Developer,Deloitte,Work From Home,Founded in 1845,More than 1000 employees,"Function: Software Engineering → Backend Development, Frontend Development, Full-Stack Development","ServiceNow
+ITSM","Ghowsalya B
+Junior Recruiter
+at Visionyle",5-10 Years,4.1,3.4,4,4.2,4.1,4.3,4.3
+167,Functional Consultant,UnionSys Technologies,Pune,Founded in 2008,50 - 200 employees,"Function: Software Engineering → Big Data / DWH / ETL, Data Analysis / Business Intelligence, Database Admin / Development","Oracle Fusion Applications
+Oracle Financials
+Oracle Cloud
+Oracle Agile PLM
+Coupa","Harish Chandra
+Manager ( recruitment deptt)
+at a2z YOUTHSOLUTION",5-10 Years,3.9,4.3,4.1,4.1,4.3,4.1,5
+168,Android Architect,Viacom18,Bangalore,Founded in 2007,More than 1000 employees,Function: Software Engineering → Mobile Development,"Java
+Kotlin
+Android
+MVP
+Architecture","Archana Tr
+Recruiter
+at Wenger & Watson",8-13 Years,3.8,3.6,3.3,3.7,3.5,3.7,3.3
+169,iOS Architect,Viacom18,Bangalore,Founded in 2007,More than 1000 employees,"Function: Software Engineering → Mobile Development, Other Software Development","iOS
+Objective-C
+Architecture
+Swift
+MVP","Archana Tr
+Recruiter
+at Wenger & Watson",8-13 Years,3.8,3.6,3.3,3.7,3.5,3.7,3.3
+170,Data Engineer,Altimetrik,Work From Home,Founded in 2012,More than 1000 employees,Function: Software Engineering → Big Data / DWH / ETL,"ETL
+AWS
+PostgreSQL
+Python
+SQL","Kusha Bedre
+Talent acquisition Specialist
+at Matrix Management Services",5-10 Years,4.2,4.1,4.1,4.2,4.2,4.2,4.5
+171,Secops Manager,Altimetrik,Work From Home,Founded in 2012,More than 1000 employees,Function: Software Engineering → Backend Development,"Linux
+Unix
+Windows
+AWS
+Google Cloud","Kusha Bedre
+Talent acquisition Specialist
+at Matrix Management Services",5-8 Years,4.2,4.1,4.1,4.2,4.2,4.2,4.5
+172,Full Stack Developer,Apexon,Bangalore,Founded in 1996,More than 1000 employees,Function: Software Engineering → Full-Stack Development,"Django
+Flask
+Python","Kirthika T
+Technical Recruiter
+at Hashone Careers",3-7 Years,4.1,4.1,3.8,4,4,4,4.3
+173,"Backend, Node.js Python Developer",CashFlo,Bangalore,Founded in 2017,10 - 50 employees,Function: Software Engineering → Backend Development,"Python
+Node.js
+CI - CD
+AWS
+Azure","Gangadhara Reddy
+HR Recruiter
+at Carriera Consulting",3-6 Years,4,4.2,4.2,4.3,3.9,4.3,5
+174,Senior Product Manager,CashFlo,Bangalore,Founded in 2017,10 - 50 employees,Function: Technical Management → Product Management,"Product Management
+Payment Processing
+Business Analysis
+Product Lifecycle Management
+Product Marketing","Gangadhara Reddy
+HR Recruiter
+at Carriera Consulting",6-8 Years,4,4.2,4.2,4.3,3.9,4.3,5
+175,Team Lead - Technical,Hi-Tech Robotic Systemz,Gurgaon,Founded in 2014,500 - 1000 employees,"Function: Software Engineering → Backend Development, Engineering Management, Full-Stack Development","Angular
+Java
+Spring Boot
+SQL
+Spring","Siddhartha S
+IT Recruiter
+at Deep Dive Global",10-14 Years,3.8,4,3.6,3.8,3.8,3.8,4.3
+176,System Engineer,Infosys,Mangalore,Founded in 1981,More than 1000 employees,Function: IT Operations and Support → IT Management / IT Support,"IT Support
+LAN
+DHCP
+Active Directory","Navya C M
+IT recruiter
+at One Degree North",3-5 Years,4,3.7,3,4.1,3.8,4.1,4
+177,Salesforce Administartor,Lumen Technologies,Bangalore,Founded in 1968,More than 1000 employees,Function: Software Engineering → Other Software Development,"Salesforce
+Visualforce","Navya C M
+IT recruiter
+at One Degree North",5-5 Years,3.9,4.3,3.4,4,3.6,4,4.1
+178,ServiceNow Developer,Lumen Technologies,Bangalore,Founded in 1968,More than 1000 employees,Function: Software Engineering → Full-Stack Development,"ServiceNow
+Workflow Management","Ayushi Srivastava
+IT Recruiter
+at One Degree North",8-11 Years,3.9,4.3,3.4,4,3.6,4,4.1
+179,Python Developer,Nucleus Software,Noida,Founded in 1986,More than 1000 employees,"Function: Software Engineering → Backend Development, Big Data / DWH / ETL","Python
+ETL
+Data Analysis","Nikki Bhoj
+Talent Acquisition Specialist
+at HuntingCube",4-7 Years,3.7,3.2,3.5,3.9,3.5,3.7,3.6
+180,Senior Product Manager,CashFlo,Bangalore,Founded in 2017,10 - 50 employees,Function: Technical Management → Product Management,"Product Management
+Product Lifecycle Management
+Finacle
+Payment Solutions
+Credit Evaluation","Siddhartha S
+IT Recruiter
+at Deep Dive Global",6-9 Years,4,4.2,4.2,4.3,3.9,4.3,5
+181,Senior Site Reliability Engineer [T500 - 6976,Delta Air Lines,Bangalore,Founded in 1928,More than 1000 employees,Function: IT Operations and Support → DevOps / Cloud,"DevOps
+Python","Omkar Sonawane
+Growth Executive
+at Talent500",4-6 Years,4.3,3.8,4.1,4.2,4.2,4.3,4.3
+182,UX Engineer,DevRev,Chennai,Founded in 2020,10 - 50 employees,Function: Design and Creative → UX / Visual Design,"UX Design
+JavaScript
+React.js
+Progressive Web Apps
+HTML","Deepika Kangokar
+Staffing Specialist
+at Pylon Management Consulting",3-8 Years,5,4.4,4.8,5,5,4.7,5
+183,Salesforce Architect,GlobalLogic,Bangalore,Founded in 2000,More than 1000 employees,Function: Software Engineering → Other Software Development,"Salesforce
+Apex
+Lightning
+Visualforce","Vishakha Tyagi
+Talent Acquisition
+at Majoris Technologies",10-15 Years,4.1,4.1,3.6,4.1,3.9,4,4.3
+184,Backend Lead / Founding Engineer,Integral Technologies,Work From Home,Founded in 2022,0 - 10 employees,Function: Software Engineering → Backend Development,"Python
+Django
+Flask","Nitesh Rana
+Talent Acquisition Specialist
+at KPB Consultants",5-8 Years,,,,,,,
+185,Senior Backend Engineer,Jodo,Bangalore,Founded in 2020,10 - 50 employees,Function: Software Engineering → Backend Development,"Python
+Django
+SQL
+React Native
+AWS","Seemi Ejaz
+Talent Partner
+at Qrata",3-6 Years,4.1,3.9,4,4.3,4,4.7,4
+186,Senior Product Manager,Newton School,Bangalore,Founded in 2019,200 - 500 employees,Function: Technical Management → Product Management,Product Management,"Tarandeep Kaur
+Recruiter
+at Newton School",3-6 Years,4.1,4.1,3.9,4,4,4,4.3
+187,Fullstack Develoepr - SDE2,Niro,Bangalore,Founded in 2021,10 - 50 employees,Function: Software Engineering → Full-Stack Development,"Node.js
+React.js
+JavaScript","Ramya Shetty
+Tech Recuiter
+at TalentOne Consulting",2-5 Years,4.9,4.7,4.7,4.9,4.8,4.7,5
+188,Principal Engineer (C++),RingCentral,Bangalore,Founded in 2003,More than 1000 employees,Function: Software Engineering → Backend Development,C++,"Anil Agrawal
+Principal Executive Recruiter
+at RingCentral",6-10 Years,4.6,4.4,4.6,4.6,4.6,4.8,4.5
+189,Android Developer,Uber,Bangalore,Founded in 2009,More than 1000 employees,Function: Software Engineering → Mobile Development,"Android
+Hybrid Apps
+iOS","Aishwarya Kothari
+Recruiter
+at Uber",2-6 Years,4.4,4.2,4.3,4.3,4.1,4.4,4.5
+190,Principal Software Engineer,Advanced Business and Healthcare India,Bangalore,Founded in 2010,More than 1000 employees,Function: Software Engineering → Other Software Development,".NET
+Angular
+C#
+AWS
+JavaScript","Divya Sharma
+Recruitment Manager
+at HireTale",9-14 Years,3.6,3.9,3.2,3.7,3.7,4,3.5
+191,Principal Software Engineer - UI Architect,Advanced Business and Healthcare India,Bangalore,Founded in 2010,More than 1000 employees,"Function: IT Operations and Support → DevOps / Cloud, Frontend Development, Full-Stack Development","JavaScript
+Architecture
+Angular
+AWS
+Azure","Divya Sharma
+Recruitment Manager
+at HireTale",10-15 Years,3.6,3.9,3.2,3.7,3.7,4,3.5
+192,Senior Technical Lead Engineer,Capri Global Capital,Gurgaon,Founded in 1997,500 - 1000 employees,Function: Software Engineering → Backend Development,"Python
+Data Structures
+Algorithms
+SQL
+React.js","Rituraj Rai
+Talent Acquisition Specialist
+at Flairchase",7-9 Years,3.7,2.9,3.4,3,3.3,2.9,3.1
+193,Software Engineer - Python,Capri Global Capital,Gurgaon,Founded in 1997,500 - 1000 employees,Function: Software Engineering → Full-Stack Development,"Python
+JavaScript
+Java
+React.js
+Golang","Kanishta Kasturi
+Technical Recruiter
+at Careernet",4-9 Years,3.7,2.9,3.4,3,3.3,2.9,3.1
+194,Cloud Engineer,CloudifyOps,Bangalore,Founded in 2016,10 - 50 employees,Function: IT Operations and Support → DevOps / Cloud,"Linux
+AWS
+Azure
+Docker
+Kubernetes
+New Relic","Nirmala N Naik
+Talent Acquisition Associate
+at CloudifyOps",3-5 Years,4.6,4.6,4.7,4.7,4.9,4.7,5
+195,B2B - Business Executive,DK Business Patron,Delhi,Founded in 2006,200 - 500 employees,Function: Sales and Business → Sales / Business Development,"Business Development
+Corporate Sales
+Direct Sales
+International Sales
+Sales
+Telecalling","Simran Rajput Hr
+HR
+at DK Business Patron",0-3 Years,3.9,3.9,3.8,3.6,3.6,3.9,4.3
+196,Dot .NET Developer,Flatworld Solutions,Bangalore,Founded in 2002,More than 1000 employees,Function: Software Engineering → Backend Development,"Angular
+ASP.NET
+.NET
+HTML
+CSS","Selvi U
+HR Recuiter
+at One Degree North",3-6 Years,3.9,3.8,3.2,3.6,3.6,3.5,3.8
+197,Data Scientist IV,InMobi,Bangalore,Founded in 2007,More than 1000 employees,Function: Data Science and Analysis → Data Science / Machine Learning,"Java
+Machine Learning
+NLP
+NLTK
+Python","Heena Shirol
+Recruiter
+at InMobi",6-9 Years,4.1,3.8,3.9,4.3,4,4.2,4.3
+198,Saas Sales Account Executive,Paperflite,Chennai,Founded in 2016,50 - 200 employees,Function: Sales and Business → Sales / Business Development,"Sales
+Sales Enablement","Reeba Arshad
+Recruitment Consultant
+at KPB Consultants",2-4 Years,,,,,,,
+199,Java Developer,Webs Optimization Software Solution,Ahmedabad,Founded in 2013,50 - 200 employees,Function: Software Engineering → Backend Development,"Java
+Spring","Hardik Vaidya
+HR Executive
+at Webs Optimization Software Solution",4-6 Years,,,,,,,
+200,Senior Product Manager,CashFlo,Bangalore,Founded in 2017,10 - 50 employees,Function: Technical Management → Product Management,"Product Management
+Customer Service","Rahul Narula
+TA
+at Flairchase",6-8 Years,4,4.2,4.2,4.3,3.9,4.3,5
+201,Chief of Staff,Chargeup,Delhi,Founded in 2019,10 - 50 employees,Function: Sales and Business → General Management / Strategy,"General Management
+Strategic Planning
+Operations Management
+Program Management","Vandana Hirey
+Talent Acquisition Lead
+at Qrata",4-8 Years,,,,,,,
+202,Insight Analyst,Colmore,Bangalore,Founded in 2017,50 - 200 employees,Function: Operations → Accounting / Finance,"Financial Analysis
+Financial Reporting
+Cash Flow Management
+Accounting
+Finance","Karthik T
+Executive Talent Acquisition
+at The Scalers",2-4 Years,3.7,3.2,3.4,3.3,3.8,3.9,3.1
+203,Lead Developer - API,Delta,Bangalore,Founded in 2017,0 - 10 employees,Function: Software Engineering → Backend Development,"Java
+Spring Boot
+AWS
+Microservices","Avinash Ks
+Talent Acquisition Specialist
+at Talent500",7-11 Years,4.3,3.8,4.1,4.2,4.2,4.3,4.3
+204,Branch Manager,Mahindra Insurance Brokers,Belgaum,Founded in 2004,500 - 1000 employees,Function: Sales and Business → Sales / Business Development,"Direct Sales
+Sales
+Branch Management
+Field Work","Priyanka Patra
+Trainee Talent Acquisition
+at Zyoin",3-8 Years,,,,,,,
+205,Senior Cybersecurity Engineer [T500 - 6926,Owens & Minor,Work From Home,Founded in 1882,More than 1000 employees,Function: IT Operations and Support → IT Security,Palo Alto,"Omkar Sonawane
+Growth Executive
+at Talent500",7-10 Years,,,,,,,
+206,Backend Developer - Java,Sagarsoft,Work From Home,Founded in 1996,200 - 500 employees,Function: Software Engineering → Backend Development,"Java
+Kafka
+Spring","Vadada Shanmukha Sreenivas
+Associate Talent Acqaisition
+at Sagarsoft",3-5 Years,4.2,4.1,3.9,3.9,3.9,3.9,4.3
+207,Data Scientist,Swimlane,Hyderabad,Founded in 2014,200 - 500 employees,Function: Software Engineering → Big Data / DWH / ETL,"Python
+Machine Learning
+SQL
+AWS
+Java","Ruchi Gupta
+Associate Talent Acuisition
+at Zyoin",10-14 Years,,,,,,,
+208,Staff Software Engineer,Uber,Bangalore,Founded in 2009,More than 1000 employees,Function: Software Engineering → Backend Development,"Big Data
+Golang
+Java
+Hibernate
+Spring","Ariba Zaidi
+Technical Recruiter
+at Uber",12-15 Years,4.4,4.2,4.3,4.3,4.1,4.4,4.5
+209,Flutter Developer,Y Media Labs,Bangalore,Founded in 2009,200 - 500 employees,Function: Software Engineering → Mobile Development,Flutter,"Anoushka Goswami
+Recruiter
+at Crewscale",6-9 Years,4,3.7,3.9,3.9,3.9,4.1,3.8
+210,Site Reliability Engineer,Level AI,Work From Home,Founded in 2018,10 - 50 employees,Function: IT Operations and Support → DevOps / Cloud,Bash,"Venkatesh Tangirala
+Recruitment Specialist
+at YLM Recruits",3-6 Years,4.3,3.9,4.3,4.4,4.6,4,4.5
+211,PCG Adviser,Motilal Oswal Financial Services,Mumbai,Founded in 1987,More than 1000 employees,"Function: Sales and Business → Customer Service, Sales / Business Development","Investment Advisory
+Mutual Funds
+HNI
+Insurance Broking
+Fund Management","Suraj Gupta
+SR. Executive HR Operations
+at Planet PCI",3-7 Years,3.9,3.5,3.5,3.9,3.9,3.7,3.6
+212,Manager II,Nab,Gurgaon,Founded in 1981,More than 1000 employees,Function: Operations → Accounting / Finance,"Auditing
+Risk Assessment
+Vendor Management","Supriya K
+Talent scout
+at Talent500",20-24 Years,3.8,3.8,3.5,3.8,3.7,4,4
+213,Quality Engineer,Nab,Gurgaon,Founded in 1981,More than 1000 employees,"Function: Software Engineering → Backend Development, QA / SDET","Java
+REST Assured
+SDET
+Microservices
+AWS","Raveendra Banoth
+Talent acquisition specialist
+at Talent500",2-7 Years,3.8,3.8,3.5,3.8,3.7,4,4
+214,.NET Developer - BizTalk [T500 - 6844,Owens & Minor,Work From Home,Founded in 1882,More than 1000 employees,Function: Software Engineering → Backend Development,.NET,"Omkar Sonawane
+Growth Executive
+at Talent500",5-7 Years,,,,,,,
+215,Cybersecurity Engineer - PKI [T500 - 6924,Owens & Minor,Work From Home,Founded in 1882,More than 1000 employees,Function: IT Operations and Support → IT Security,PKI,"Omkar Sonawane
+Growth Executive
+at Talent500",4-6 Years,,,,,,,
+216,Senior Fullstack Developer [T500 - 6970,Owens & Minor,Work From Home,Founded in 1882,More than 1000 employees,Function: Software Engineering → Full-Stack Development,".NET
+React.js","Omkar Sonawane
+Growth Executive
+at Talent500",5-8 Years,,,,,,,
+217,Creative Graphic Designer,Predators Network,Delhi,Founded in 2017,0 - 10 employees,Function: Design and Creative → Graphic Design / Animation,"2D Animation
+3D Animation
+Graphic Design
+Corel Draw
+Illustrator
+InDesign
+Photoshop","Gaurav Ghosh
+Managing Director
+at Predators Network",0-3 Years,,,,,,,
+218,Social Media Executive,Predators Network,Delhi,Founded in 2017,0 - 10 employees,Function: Marketing → SEO / SEM,"Google Ads
+SEM
+SEO","Gaurav Ghosh
+Managing Director
+at Predators Network",0-3 Years,,,,,,,
+219,Front End Developer - Angularjs,VMware,Bangalore,Founded in 1998,More than 1000 employees,Function: Software Engineering → Frontend Development,"CSS
+HTML
+JavaScript
+Angular","Amit Kumar
+Sourcer
+at VMware",6-10 Years,4.5,4.2,4.4,4.5,4.2,4.5,4.6
+220,Software Engineer,Aerchain,Bangalore,Founded in 2016,10 - 50 employees,Function: Software Engineering → Backend Development,"Java
+Spring
+Hibernate","Saranya R
+Talent Advisor
+at Scaling Theory",3-6 Years,4.7,4.2,4.3,4.8,4.6,4.7,4.6
+221,Account Analyst,Exxat,Vadodara,Founded in 2011,50 - 200 employees,Function: Sales and Business → Customer Service,"Customer Interaction
+Customer Relationship
+Customer Service
+Key Account Management","Khushbu Mehan
+Sr.Talent Acquisition Executive
+at Exxat",4-8 Years,3.9,3.9,4,4,3.9,4,4.2
+222,Sales Lead,GrapeCity,Noida,Founded in 1980,500 - 1000 employees,Function: Sales and Business → Sales / Business Development,"Business Development
+Sales","Tulika Srivastava
+Talent Acquisition Specialist
+at GrapeCity",4-8 Years,3.7,4,3.3,3.5,3.2,3.6,3.4
+223,Site Reliability Engineer,Level AI,Work From Home,Founded in 2018,10 - 50 employees,Function: IT Operations and Support → DevOps / Cloud,"AWS
+Terraform
+Jenkins
+Ansible
+Helm","Vaani Sharma
+Lead Recruiter
+at YLM Recruits",3-5 Years,4.3,3.9,4.3,4.4,4.6,4,4.5
+224,Content Writer,Line,Bangalore,Founded in 2019,50 - 200 employees,Function: Marketing → Content Writing,"Content Marketing
+Content Writing
+English Content","Shruti Choudhary
+HR Manager
+at Line",2-6 Years,4,4.2,3.7,3.8,3.8,3.7,4.3
+225,Cybersecurity Engineer [Tt500 - 6862,Owens & Minor,Work From Home,Founded in 1882,More than 1000 employees,Function: IT Operations and Support → IT Security,CrowdStrike,"Omkar Sonawane
+Growth Executive
+at Talent500",4-6 Years,,,,,,,
+226,VP Engineering,sentra.world,Bangalore,Founded in 2023,0 - 10 employees,"Function: Software Engineering → Backend Development, Engineering Management",".NET
+C#
+Angular
+Azure","Monika Srivastava
+Sahil.Dev@Successpact.Com
+at Success Pact",7-12 Years,,,,,,,
+227,Mobile Developer,Simplify360,Bangalore,Founded in 2012,50 - 200 employees,Function: Software Engineering → Frontend Development,"JavaScript
+React.js","Soumee Biswas
+HR
+at Simplify360",5-6 Years,4.5,4.6,4,4.6,4.3,4.6,5
+228,React Mobile Developer,Simplify360,Bangalore,Founded in 2012,50 - 200 employees,Function: Software Engineering → Frontend Development,"JavaScript
+React.js","Soumee Biswas
+HR
+at Simplify360",2-3 Years,4.5,4.6,4,4.6,4.3,4.6,5
+229,Inside Sales Representative,Teamware Solutions,Bangalore,Founded in 2003,More than 1000 employees,Function: Sales and Business → Sales / Business Development,"Business Development
+Sales","Vinod Kumar
+Talent acquisition
+at Teamware Solutions",5-9 Years,4.6,4.5,4.2,4.4,4.5,4.4,4.9
+230,Graphic Desginer,Brandtorch,Mumbai,Founded in 2019,10 - 50 employees,Function: Design and Creative → Graphic Design / Animation,"2D Animation
+3D Animation
+Graphic Design
+Corel Draw
+Illustrator
+Photoshop","Neha Bowlekar
+Director
+at Brandtorch",0-3 Years,,,,,,,
+231,Engineering Manager - Node.js & Python,CashFlo,Bangalore,Founded in 2017,10 - 50 employees,"Function: Software Engineering → Backend Development, Engineering Management, Frontend Development","Node.js
+Python","Ravi Dubey
+Recruitment Manager
+at HyrEzy Talent Solutions",8-12 Years,4,4.2,4.2,4.3,3.9,4.3,5
+232,Senior Product Manager (Payment),CashFlo,Bangalore,Founded in 2017,10 - 50 employees,Function: Technical Management → Product Management,Product Management,"Ravi Dubey
+Recruitment Manager
+at HyrEzy Talent Solutions",5-10 Years,4,4.2,4.2,4.3,3.9,4.3,5
+233,Senior Product Manager - Credit & Lending,CashFlo,Bangalore,Founded in 2017,10 - 50 employees,Function: Technical Management → Product Management,"Product Management
+Credit Management","Ravi Dubey
+Recruitment Manager
+at HyrEzy Talent Solutions",6-10 Years,4,4.2,4.2,4.3,3.9,4.3,5
+234,Senior Product Manager - Fintech,CashFlo,Bangalore,Founded in 2017,10 - 50 employees,Function: Technical Management → Product Management,Product Management,"Ravi Dubey
+Recruitment Manager
+at HyrEzy Talent Solutions",5-9 Years,4,4.2,4.2,4.3,3.9,4.3,5
+235,Data Analyst,DAZN,Hyderabad,Founded in 2007,More than 1000 employees,Function: Data Science and Analysis → Data Analysis / Business Intelligence,"SQL
+Google Analytics
+Looker
+ETL
+Power BI","Vidya Vm
+Talent Acquisition
+at Billow People Services",5-10 Years,2.7,3.3,2.8,2.6,2.7,3.2,1.9
+236,Dotnet Developer,Flatworld Solutions,Bangalore,Founded in 2002,More than 1000 employees,Function: Software Engineering → Backend Development,"ASP.NET
+Angular
+.NET
+C#
+Entity Framework","Ayushi Srivastava
+IT Recruiter
+at One Degree North",2-7 Years,3.9,3.8,3.2,3.6,3.6,3.5,3.8
+237,Sales Consultant,SNVA Ventures,Noida,Founded in 2009,500 - 1000 employees,Function: Sales and Business → Sales / Business Development,"Business Development
+International Sales
+Sales","Preeti Sadaiya
+Sr. Manager - Human Resources
+at SNVA Ventures",1-5 Years,4.3,4.4,4.2,4.2,4.2,4.1,3.9
+238,Senior Backend Engineer,Spendflo,Chennai,Founded in 2020,10 - 50 employees,Function: Software Engineering → Backend Development,"Java
+Node.js
+Python
+Data Structures
+Algorithms","Aience Boruah
+Technical Recruiter
+at Success Pact",5-8 Years,5,5,5,5,5,4.7,5
+239,PHP Developer,The Famous,Ahmedabad,Founded in 2021,0 - 10 employees,Function: Software Engineering → Backend Development,"PHP
+Laravel
+CodeIgniter","Dhara Raval
+Recruitment specialist
+at TIGI HR Solution",3-5 Years,3.4,3.3,2.8,3.7,3.6,2.6,2.8
+240,Senior Financial Business Analyst [T500 - 6951,3M,Bangalore,Founded in 1902,More than 1000 employees,Function: Operations → Accounting / Finance,Power BI,"Omkar Sonawane
+Growth Executive
+at Talent500",5-9 Years,3.8,3.8,3.9,3.9,3.6,3.9,3.8
+241,Senior Financial Business Analyst [T500 - 6956,3M,Bangalore,Founded in 1902,More than 1000 employees,Function: Operations → Accounting / Finance,SAP HANA,"Omkar Sonawane
+Growth Executive
+at Talent500",5-9 Years,3.8,3.8,3.9,3.9,3.6,3.9,3.8
+242,QA Engineer,Aavenir,Ahmedabad,Founded in 2019,10 - 50 employees,Function: Software Engineering → QA / SDET,"Manual Testing
+Selenium
+Mobile Apps Testing
+Java
+Agile","Vishali Vashnavi
+Associate TA
+at Zyoin",2-4 Years,4.2,4.3,4.5,4.4,4.3,4.7,4.5
+243,Data Scientist,Angel One,Work From Home,Founded in 1987,More than 1000 employees,Function: Data Science and Analysis → Data Science / Machine Learning,"Python
+Hive
+Spark
+ETL
+Spark SQL","Prachi Jain
+Talent Acquisition
+at Success Pact",2-7 Years,4.2,4,3.9,4.1,4.1,4,4.1
+244,Android Developer,Apps10X,Bangalore,Founded in 2018,10 - 50 employees,Function: Software Engineering → Mobile Development,Android,"Aneesa Pathan
+HR EXECUTIVE
+at Apps10X",3-5 Years,5,5,4.8,5,5,5,5
+245,Engineering Manager,LeadSquared,Bangalore,Founded in 2012,200 - 500 employees,"Function: Software Engineering → Backend Development, Engineering Management","Java
+Microservices
+AWS
+Spring Boot
+Engineering Management","Sandhiya S
+Account Manager
+at Anzy Careers",7-12 Years,3.9,3.6,3.9,3.8,4.1,4,4
+246,Frontend SDE4,One Muthoot,Bangalore,Founded in 2016,More than 1000 employees,Function: Software Engineering → Frontend Development,"JavaScript
+React.js
+HTML
+CSS
+TypeScript","Rahul Prakash
+Recruiter
+at Lycus",6-10 Years,3.4,3.4,2.8,3.4,2.9,3.1,3.3
+247,Product Manager - II,OYO Rooms,Gurgaon,Founded in 2013,More than 1000 employees,Function: Technical Management → Product Management,"Consumer Software
+Product Management","Shraddha Jhamb
+Recruiter
+at OYO Rooms",2-5 Years,3.4,3,3.4,3.2,3.4,3.4,2.6
+248,DBA - Site Reliability Engineer,PhonePe,Bangalore,Founded in 2015,More than 1000 employees,Function: IT Operations and Support → Database Admin / Development,MySQL,"Esha Jain
+Recruitmenr Coordinator
+at PhonePe",4-8 Years,4.3,4,4.2,4.3,4.1,4.3,4.3
+249,Java Fullstack Developer,TechStar Group,Chennai,Founded in 2002,200 - 500 employees,Function: Software Engineering → Full-Stack Development,"Java
+Spring Boot
+Microservices
+React.js
+Multithreading","Simran Jagtiani
+HR Director
+at Suven Consultants and Technology",6-8 Years,5,5,4.5,5,4.5,4.5,5
+250,Senior Financial Business Analyst [T500 - 6950,3M,Bangalore,Founded in 1902,More than 1000 employees,Function: Operations → Accounting / Finance,Power BI,"Omkar Sonawane
+Growth Executive
+at Talent500",5-9 Years,3.8,3.8,3.9,3.9,3.6,3.9,3.8
+251,Social Media Marketing Executive,Brandtorch,Mumbai,Founded in 2019,10 - 50 employees,Function: Marketing → Online Marketing,"Content Marketing
+Facebook Marketing
+Social Media Marketing","Neha Bowlekar
+Director
+at Brandtorch",0-2 Years,,,,,,,
+252,Vice President of Engineering,Clear,Bangalore,Founded in 2011,More than 1000 employees,"Function: Software Engineering → Backend Development, Frontend Development, Full-Stack Development","Java
+Engineering Management
+Python
+JavaScript
+Algorithms","Shoyeeb Ahamed Magami
+Senior Recruitment Consultant
+at CareerNet Technologies",14-19 Years,3.6,3.3,3.5,3.5,3.6,3.6,3.3
+253,Software Engineer II,interface.ai,Work From Home,Founded in 2019,50 - 200 employees,Function: Software Engineering → Backend Development,Node.js,"Simran Khanna
+Talent Acquisition Specialist
+at interface.ai",2-4 Years,4.2,3.5,3.9,3.7,4,4,4.2
+254,Backend Developer,JKTech,Bangalore,0 - 10 employees,,"Function: Software Engineering → Backend Development, Full-Stack Development","Node.js
+NestJS","Shivkumar Gurram
+Founder and Mentor
+at Sourcing XPress",5-9 Years,4,4.1,3.7,3.8,3.8,3.8,4
+255,Senior Full Stack Developer - Java,MOBtexting,Bangalore,Founded in 2012,50 - 200 employees,"Function: Software Engineering → Backend Development, Frontend Development, Full-Stack Development","Java
+React.js
+Spring
+Agile
+Data Structures","Madhumitha Sampathkumar
+Trainee - Talent Acquisition
+at Zyoin",7-12 Years,4.1,3.8,3.2,3.5,3.8,3.9,3.8
+256,Senior VP - Indian Operation,Nab,Gurgaon,Founded in 1981,More than 1000 employees,Function: Operations → Accounting / Finance,"Financial Planning
+Budgeting
+Risk Management
+Compliance Management","Supriya K
+Talent scout
+at Talent500",15-18 Years,3.8,3.8,3.5,3.8,3.7,4,4
+257,Warehouse Manager - Retails,Neeman's,Hyderabad,Founded in 2018,10 - 50 employees,"Function: Sales and Business → General Management / Strategy, Operations Management","Warehouse Operations
+Inventory Management
+Retail Operations","Raman K
+Founder
+at Promagne",4-9 Years,4.8,4.7,4.6,4.7,4.7,4.9,4.7
+258,Tech Lead Manager,Nirvana Insurance,Bangalore,Founded in 2021,10 - 50 employees,Function: Software Engineering → Backend Development,"Java
+C++
+Golang
+Scala","Akriti Singh
+Technical Recruiter
+at Success Pact",6-10 Years,,,,,,,
+259,Product Marketing Specialist,OnGrid,Gurgaon,Founded in 2016,200 - 500 employees,Function: Technical Management → Product Management,Product Management,"Ayushi Rawat
+Senior Executive- Human Resources
+at OnGrid",3-4 Years,3.7,5,4,5,4,5,
+260,Full Stack Developer,BYJU'S,Bangalore,Founded in 2011,More than 1000 employees,Function: Software Engineering → Full-Stack Development,"JavaScript
+Python
+Angular
+Node.js
+React.js","Muskan Grover
+HRBP
+at BYJU'S",3-5 Years,3.5,2.7,3.8,3.1,3.6,3.3,2.8
+261,Full Stack Developer - Java,Carelon,Hyderabad,Founded in 2022,More than 1000 employees,"Function: Software Engineering → Backend Development, Frontend Development, Full-Stack Development","Python
+AWS
+Maven
+Docker
+Spring Boot","Archana Manne
+Recruiter
+at Polar HR Services",5-8 Years,,,,,,,
+262,Full Stack Developer - Java,Carelon Global Solutions,Hyderabad,Founded in 2017,More than 1000 employees,"Function: Software Engineering → Backend Development, Frontend Development, Full-Stack Development","AWS
+Git
+Docker
+Spring Boot
+Maven","Nirosha Yalawar
+HR Recruiter
+at Polar HR Services",5-8 Years,,,,,,,
+263,Principle Software Engineer (Data Plane and AAA),Citrix,Bangalore,Founded in 1989,More than 1000 employees,Function: Software Engineering → Embedded / Kernel Development,"C
+Networking","Smrudhi Gauns
+Senior Technical Recruiter
+at Citrix",8-12 Years,4,4,4,4.1,3.8,4.2,3.9
+264,Senior Cloud Engineer,Delta Air Lines,Bangalore,Founded in 1928,More than 1000 employees,Function: IT Operations and Support → DevOps / Cloud,"Python
+AWS
+SQL","Nancy Sharma
+Talent Scout
+at Talent500",4-8 Years,4.3,3.8,4.1,4.2,4.2,4.3,4.3
+265,Technical Program Manager,Google,"Bangalore, Hyderabad",Founded in 1998,More than 1000 employees,Function: IT Operations and Support → Technical / Production Support,"Distributed Systems
+Program Management
+Project Management","Aneesh Vikram
+Recruiting Specialist
+at Google",10-14 Years,4.1,4.3,4.4,4.4,4.3,4.4,4.5
+266,Android Developer,Lokal,Bangalore,Founded in 2018,50 - 200 employees,Function: Software Engineering → Mobile Development,Android,"Visshnu Vyshag
+Technical Recruiter
+at Lokal",1-2 Years,4.7,4.4,4.3,4.5,4.3,4.4,4.7
+267,Manager II - Third Party Assessments (Director),Nab,Gurgaon,Founded in 1981,More than 1000 employees,"Function: Technical Management → Engineering Management, IT Security","Risk Assessment
+Risk Management
+Risk Advisory","Kavya Shegde
+Sourcing Specialist
+at Talent500",20-25 Years,3.8,3.8,3.5,3.8,3.7,4,4
+268,Engineering Help Desk Technician,Nov,Mumbai,Founded in 1841,More than 1000 employees,Function: Operations → Operations Management,"Asset Management
+PowerShell","Kavya Shegde
+Sourcing Specialist
+at Talent500",2-6 Years,3.6,3.6,3.3,3.5,3.2,3.8,3.4
+269,Category Manager,Squared Circle E-Com,Bangalore,Founded in 2019,200 - 500 employees,Function: Technical Management → Product Management,"Category Management
+Catalog Management","Ekta V
+Recruiter
+at Compak Talent Advisory",8-10 Years,,,,,,,
+270,Full Stack Developers - Java,Carelon Global Solutions,Bangalore,Founded in 2017,More than 1000 employees,"Function: Software Engineering → Backend Development, Frontend Development, Full-Stack Development","JavaScript
+Microservices
+Spring Boot
+AWS
+Python","Kavya Dodda
+HR Recruiter
+at Polar HR Services",4-8 Years,,,,,,,
+271,Senior Product Manager,CashFlo,Mumbai,Founded in 2017,10 - 50 employees,Function: Technical Management → Product Management,Product Management,"Manzar Imam
+Founder
+at CareerOneStop",5-10 Years,4,4.2,4.2,4.3,3.9,4.3,5
+272,Senior Product Manager,CashFlo,Bangalore,Founded in 2017,10 - 50 employees,Function: Technical Management → Product Management,Product Management,"Manzar Imam
+Founder
+at CareerOneStop",5-10 Years,4,4.2,4.2,4.3,3.9,4.3,5
+273,Frontend Developer,CubeHQ,Bangalore,Founded in 2022,0 - 10 employees,Function: Software Engineering → Frontend Development,"React.js
+JavaScript
+HTML
+CSS
+TypeScript","Nikita Joshi
+Technical Recruiter L1
+at Success Pact",1-3 Years,,,,,,,
+274,Full Stack Developer - MEAN,GetVantage,Mumbai,Founded in 2019,10 - 50 employees,"Function: Software Engineering → Backend Development, Frontend Development, Full-Stack Development","Angular
+Node.js
+MongoDB
+Express.js
+SQL Server","Basif Akram
+IT Recruiter
+at Asatkalpa Consulting",4-8 Years,3,,,,,,
+275,Program Manager,Google,"Bangalore, Hyderabad",Founded in 1998,More than 1000 employees,Function: IT Operations and Support → Technical / Production Support,"Python
+SQL
+Tableau","Aneesh Vikram
+Recruiting Specialist
+at Google",10-14 Years,4.1,4.3,4.4,4.4,4.3,4.4,4.5
+276,Relationship Manager,GyanDhan,Noida,Founded in 2015,10 - 50 employees,Function: Sales and Business → Sales / Business Development,"Sales
+Business Development
+Customer Relationship
+Corporate Sales
+Direct Sales","Asmita Gupta
+Recruitment Consultant
+at Paddlelift",1-4 Years,3.8,3.7,3.2,3.7,3.5,4,3.5
+277,Product Owner - Retail Apps,Hy-Vee,Bangalore,Founded in 1930,More than 1000 employees,Function: Technical Management → Product Management,"Product Management
+Project Management
+Google Analytics
+Agile","Samiya Shaik
+Talent Scout
+at Talent500",8-12 Years,3.4,3.3,3.1,3.2,3.3,3.5,2.8
+278,Quality Assurance Engineer,Leena AI,Gurgaon,Founded in 2015,200 - 500 employees,Function: Software Engineering → QA / SDET,"Automation Testing
+Manual Testing","Rekha Singh
+Sr. Manager- TA
+at Leena AI",3-5 Years,4,3.8,3.9,3.7,3.8,4,3.9
+279,Senior / Member of Technical Staff,VMware,Bangalore,Founded in 1998,More than 1000 employees,Function: Software Engineering → Backend Development,"Golang
+Python","Ankita Das Sheherhers
+Ankita.Das@Walmart.Com
+at VMware",5-9 Years,4.5,4.2,4.4,4.5,4.2,4.5,4.6
+280,Staff - Backend Developer,Angel One,Work From Home,Founded in 1987,More than 1000 employees,Function: Software Engineering → Backend Development,"Java
+Data Structures
+Python
+Golang
+Algorithms","Prachi Jain
+Talent Acquisition
+at Success Pact",9-14 Years,4.2,4,3.9,4.1,4.1,4,4.1
+281,Senior Software Engineer,BYJU'S,"Bangalore, Work From Home",Founded in 2011,More than 1000 employees,Function: Software Engineering → Frontend Development,"CSS
+HTML
+JavaScript
+React.js","Muskan Grover
+HRBP
+at BYJU'S",3-6 Years,3.5,2.7,3.8,3.1,3.6,3.3,2.8
+282,Business Development Associate,Freeskout,Delhi,Founded in 2020,200 - 500 employees,Function: Marketing → Brand Management,"Business Development
+Direct Sales
+Sales
+Telecalling","Virtika Sehgal
+HR associate
+at Freeskout",0-3 Years,2.3,1.2,2,2,2.3,2.2,1.2
+283,Hyperion Developer,ImSafeNow,Pune,Founded in 2017,0 - 10 employees,Function: Software Engineering → Backend Development,Hyperion Planning,"Girija Perumal
+Sourcing Specilist
+at Wissda",6-11 Years,,,,,,,
+284,Project Lead / Test Engineer,Reliance Jio,Bangalore,Founded in 2016,500 - 1000 employees,Function: Software Engineering → QA / SDET,"Automation Testing
+React.js
+SDET","Bhawana Singh
+Talent Acquisition
+at Pylon Management Consulting",5-9 Years,3.8,3.4,3.4,3.6,3.6,3.7,3.5
+285,Quality Assurance Engineer,Reliance Jio,Bangalore,Founded in 2016,500 - 1000 employees,Function: Software Engineering → QA / SDET,"Manual Testing
+Automation Testing
+Performance Testing
+Quality Assurance
+SDET","Bhawana Singh
+Talent Acquisition
+at Pylon Management Consulting",6-11 Years,3.8,3.4,3.4,3.6,3.6,3.7,3.5
+286,Technical Product Manager (Database Architect),Rubrik,Work From Home,Founded in 2015,500 - 1000 employees,Function: IT Operations and Support → Database Admin / Development,"MongoDB
+MySQL
+Oracle Database
+PostgreSQL
+SAP HANA
+SQL Server
+Oracle Data Guard
+Oracle Data Pump
+Oracle GoldenGate
+Oracle RAC","Balaji Sundaravadivel
+Recruiter
+at Rubrik",13-17 Years,3.9,3.3,4.1,3.8,3.7,4,3.5
+287,"Technical Product Manager, (Cloud Engineer)",Rubrik,Work From Home,Founded in 2015,500 - 1000 employees,Function: IT Operations and Support → Solution Architecture / Presales,"Cloud Computing
+Networking
+Solution Architecture
+Virtualization
+AWS
+Azure
+Citrix XenServer
+Google Cloud
+Hyper-V
+OpenStack
+VMware ESX
+VMware vSphere","Balaji Sundaravadivel
+Recruiter
+at Rubrik",7-11 Years,3.9,3.3,4.1,3.8,3.7,4,3.5
+288,Project Manager - Payment Services,Saltside Technologies,Sri Lanka,Founded in 2011,500 - 1000 employees,Function: Technical Management → Project Management,"Project Management
+Payment Solutions
+Information Security
+Banking Operations","Vandana Bali
+Recruiter
+at Aether Infotech",5-8 Years,2.9,3.2,2.9,3,2.8,3.9,2.7
+289,Business Development Executive,SDLC Corp,Noida,Founded in 2015,50 - 200 employees,Function: Sales and Business → Sales / Business Development,"Business Development
+Corporate Sales
+International Sales
+Sales","Atharv Trivedi
+Human Resource
+at SDLC Corp",0-1 Years,,,,,,,
+290,Frontend Engineet - SDE1 / SDE2,Angel One,"Bangalore, Work From Home",Founded in 1987,More than 1000 employees,Function: Software Engineering → Frontend Development,"CSS
+HTML
+JavaScript
+React.js
+Vue.js","Ananda Pandey
+Talent Acquisition Specialist
+at Angel One",1-5 Years,4.2,4,3.9,4.1,4.1,4,4.1
+291,Software Developer,CloudBloom,Bangalore,Founded in 2017,50 - 200 employees,Function: Software Engineering → Full-Stack Development,"Angular
+C++
+Java
+JavaScript
+Node.js
+React.js
+jQuery","Aishwarya Rana
+Talent Acquisition Specialist
+at CloudBloom",2-6 Years,,,,,,,
+292,Senior DevOps Engineer,Delta,Bangalore,Founded in 2017,0 - 10 employees,Function: IT Operations and Support → DevOps / Cloud,"Java
+AWS
+DevOps
+Git
+Jenkins","Megha Dave
+Sr Talent Scout
+at Talent500",3-6 Years,4.3,3.8,4.1,4.2,4.2,4.3,4.3
+293,UI Artist,Gameberry Labs,Bangalore,Founded in 2017,50 - 200 employees,"Function: Design and Creative → Graphic Design / Animation, UX / Visual Design","Visual Design
+Graphic Design
+UX Design
+2D Animation
+Game Design","Lakshmi Reddy
+Principal Talent Acquisition
+at Zyoin",4-9 Years,4.5,4.3,4.4,4.5,4.4,4.2,4.3
+294,Product Manager,Google,"Bangalore, Hyderabad",Founded in 1998,More than 1000 employees,Function: Technical Management → Product Management,"Finance
+GTM
+Marketing
+Product Management
+Sales
+UX Design","Aneesh Vikram
+Recruiting Specialist
+at Google",5-9 Years,4.1,4.3,4.4,4.4,4.3,4.4,4.5
+295,Product Manager - Cloud,Google,"Bangalore, Hyderabad",Founded in 1998,More than 1000 employees,Function: Technical Management → Product Management,"Big Data
+Cloud Computing
+Cloud Security
+Enterprise Software
+GTM
+Google Cloud
+Machine Learning
+Product Management
+Supply Chain Management
+UX Design","Aneesh Vikram
+Recruiting Specialist
+at Google",5-9 Years,4.1,4.3,4.4,4.4,4.3,4.4,4.5
+296,Digital Marketing Executive,Meeraq,Bangalore,Founded in 2022,10 - 50 employees,"Function: Marketing → Brand Management, Online Marketing, SEO / SEM","Digital Marketing
+Social Media Marketing
+Brand Management
+SEO
+Instagram Marketing","Jai Prakash
+Talent Acquisition Specialist
+at Voyance Ventures",3-7 Years,,,,,,,
+297,"Marketing Head (Trip, Digital Marketing)",My Value Trip,Surat,Founded in 2014,200 - 500 employees,Function: Marketing → Online Marketing,"Digital Marketing
+Google Ads
+Content Writing","Haseena Banu
+HR Recruiter
+at YourHRfolks",5-10 Years,,,,,,,
+298,Front End Engineer,Nightfall,"Bangalore, Work From Home",Founded in 2019,10 - 50 employees,Function: Software Engineering → Frontend Development,"CSS
+HTML
+JavaScript
+Angular
+Backbone.js
+Ember.js
+jQuery
+React.js
+Vue.js","Sabina Sultana
+Lead Technical Recruiter
+at Nightfall",4-8 Years,4.7,4.4,4.3,4.6,4.7,4.6,4.8
+299,Software Technical Support Engineer,Quantum,Work From Home,Founded in 1995,500 - 1000 employees,Function: IT Operations and Support → Technical / Production Support,"Linux
+Networking
+Technical Support
+Virtualization
+Windows
+Hyper-V
+VMware ESX
+VMware vSphere","Tejashree L
+Human Resource Generalist
+at Quantum",5-6 Years,3.8,3.8,3.4,3.7,3.3,3.8,3.7
+300,SEO Consultant,Asentech,Work From Home,Founded in 2007,50 - 200 employees,"Function: Marketing → Online Marketing, SEO / SEM","SEO
+Link Building
+Google Search Console","Harish Chandra
+Manager ( recruitment deptt)
+at a2z YOUTHSOLUTION",5-8 Years,4.2,3.9,3.9,4,4.2,4.1,4.2
+301,Senior Node.js Developer,BlackLight Studio Works,Noida,Founded in 2011,10 - 50 employees,Function: Software Engineering → Backend Development,Node.js,"Kanupriya Bhatia
+Senior IT Recruiter
+at BlackLight Studio Works",5-6 Years,4,3.3,3.6,3.9,4,3.8,3.9
+302,Assistant Brand Manager,Brilliance,Work From Home,Founded in 2019,10 - 50 employees,Function: Marketing → Brand Management,"Brand Management
+Digital Marketing
+Social Media Marketing
+Facebook Marketing
+Marketing Communication","Kusha Bedre
+Talent acquisition Specialist
+at Matrix Management Services",2-7 Years,1.5,1.3,1.1,1.5,1.7,1,
+303,Head of Engineering,Hectar India Trading,Chennai,Founded in 2021,10 - 50 employees,Function: Technical Management → Engineering Management,"JavaScript
+Ruby
+Angular
+React.js","Kalpana Gaur
+HR
+at Hectar India Trading",3-6 Years,,,,,,,
+304,Full Stack Developer,Infosys,Bangalore,Founded in 1981,More than 1000 employees,Function: Software Engineering → Full-Stack Development,"Angular
+Java
+Spring Boot
+Microservices
+SQL","Priyanka Paul
+Talent Acquisition Specialist
+at Karya Consultants",5-8 Years,4,3.7,3,4.1,3.8,4.1,4
+305,Full Stack Java Developer,Infosys BPM,Hyderabad,Founded in 2002,More than 1000 employees,Function: Software Engineering → Full-Stack Development,"Microservices
+Angular","Monica Shiney Jeyam
+Technical Recruiter
+at Tekhunt Solutions",4-9 Years,3.6,3.5,2.8,3.7,3.5,3.8,3.4
+306,Data Analyst,Mensa Brands,Bangalore,Founded in 2017,10 - 50 employees,"Function: Data Science and Analysis → Data Analysis / Business Intelligence, Data Science / Machine Learning","SQL
+Data Analysis
+Python
+Tableau
+Statistics","Manjit Kaur
+Senior Recruiter
+at Risah Careers",3-7 Years,,,,,,,
+307,Senior Consultant I - Engineer,Nab,Delhi,Founded in 1981,More than 1000 employees,Function: IT Operations and Support → Network Administration,"Control-M
+Unix
+Mainframes","Pooja Shree Sr
+Talent Scout
+at Talent500",7-12 Years,3.8,3.8,3.5,3.8,3.7,4,4
+308,Data Scientist,Nirvana Insurance,Bangalore,Founded in 2021,10 - 50 employees,Function: Data Science and Analysis → Data Science / Machine Learning,"Machine Learning
+Python
+Statistics
+Computer Vision
+R","Akriti Singh
+Technical Recruiter
+at Success Pact",3-6 Years,,,,,,,
+309,React.js Developer,VapprTech,Gurgaon,Founded in 2021,10 - 50 employees,Function: Software Engineering → Frontend Development,"CSS
+HTML
+JavaScript
+React.js","Sonal Thakre
+HR Specialist
+at VapprTech",4-5 Years,,,,,,,
+310,Backend Engineer,Apollo.io,"Bangalore, Work From Home",Founded in 2015,50 - 200 employees,Function: Software Engineering → Backend Development,"Golang
+Java
+Python
+Ruby
+Hibernate
+Ruby on Rails","Abhishek Nadagowd
+Technical Recruiter
+at Apollo.io",1-2 Years,4.4,4.6,4.1,4.5,4.3,4.6,4.3
+311,Process Simulation Engineer,AXISCADES,Chennai,Founded in 1998,More than 1000 employees,Function: Technical Management → Engineering Management,"Simulation
+Teamcenter
+Vismockup","A Prerana Tirkey
+HR Recruiter
+at Gloinnt Solutions",4-8 Years,3.7,3.7,3.3,3.6,3.8,3.6,4
+312,Product Manager,Dunzo,Bangalore,Founded in 2014,200 - 500 employees,Function: Technical Management → Product Management,"Product Management
+Consumer Software
+Product Lifecycle Management
+Data Visualization","Niharika Sharma
+Recruiter
+at Hire Steezy",4-8 Years,3.6,3.1,3.7,3.3,3.6,3.8,3
+313,QA Engineer,Dunzo,Bangalore,Founded in 2014,200 - 500 employees,Function: Software Engineering → QA / SDET,"Manual Testing
+Automation Testing
+Mobile Apps Testing
+Flutter
+Selenium","Niharika Sharma
+Recruiter
+at Hire Steezy",0-2 Years,3.6,3.1,3.7,3.3,3.6,3.8,3
+314,SDE,Dunzo,Bangalore,Founded in 2014,200 - 500 employees,"Function: Software Engineering → Backend Development, Full-Stack Development","Java
+Python
+Node.js
+Kotlin","Niharika Sharma
+Recruiter
+at Hire Steezy",0-2 Years,3.6,3.1,3.7,3.3,3.6,3.8,3
+315,.NET Developer,Flatworld Solutions,Bangalore,Founded in 2002,More than 1000 employees,Function: Software Engineering → Full-Stack Development,".NET
+Angular
+React.js
+ASP.NET
+C#","Navya C M
+IT recruiter
+at One Degree North",3-7 Years,3.9,3.8,3.2,3.6,3.6,3.5,3.8
+316,Senior Manager - Data Modeller,Indium Software,Work From Home,Founded in 1999,More than 1000 employees,Function: Software Engineering → Big Data / DWH / ETL,"Data Analysis
+Data Warehousing
+NoSQL
+Amazon Redshift
+Oracle Database
+Snowflake
+Spark
+SQL","Kabi Pramoth
+Manager - Talent Acquisition
+at Indium Software",12-16 Years,4.2,4.1,3.6,4.1,4.1,4,4.3
+317,React.js / Angular JS Developer,OrangeMantra,Bangalore,Founded in 2001,50 - 200 employees,Function: Software Engineering → Frontend Development,"JavaScript
+Angular
+React.js
+UX Design","Ayushi Srivastava
+IT Recruiter
+at One Degree North",5-8 Years,4.4,4.3,4.2,4.3,4.4,4.4,4.7
+318,Data Engineer,Quotient Technology,Bangalore,Founded in 1998,500 - 1000 employees,Function: Software Engineering → Big Data / DWH / ETL,"Python
+Big Data
+SQL
+Snowflake
+Airflow","Rituparna Borah
+Associate - Talent Acquisition
+at Success Pact",2-4 Years,,,,,,,
+319,Senior Software Developer,The Famous,Bangalore,Founded in 2021,0 - 10 employees,"Function: Software Engineering → Backend Development, Frontend Development","C#
+C++
+Jira
+Agile
+.NET","Selvakumar S
+Recruitment Specialist
+at TIGI HR Solution",5-10 Years,3.4,3.3,2.8,3.7,3.6,2.6,2.8
+320,Backend Developer - SSE,Certa,Work From Home,Founded in 2013,50 - 200 employees,Function: Software Engineering → Backend Development,"Python
+Flask
+Django
+AWS
+FastAPI","Shrishti Singh
+Associate Manager - Talent Acquisition
+at Zyoin",2-6 Years,4.4,3.9,4.3,4.3,4.3,4.4,4.2
+321,.NET Developer,Flatworld Solutions,Bangalore,Founded in 2002,More than 1000 employees,Function: Software Engineering → Backend Development,".NET
+Angular
+React.js
+ASP.NET","Rekha B
+It recruiter
+at One Degree North",3-5 Years,3.9,3.8,3.2,3.6,3.6,3.5,3.8
+322,Backend Java Developer,Infosys,Bangalore,Founded in 1981,More than 1000 employees,Function: Software Engineering → Backend Development,"Algorithms
+Java
+Spring Boot
+Spring
+Microservices","Priyanka Paul
+Talent Acquisition Specialist
+at Karya Consultants",3-5 Years,4,3.7,3,4.1,3.8,4.1,4
+323,React.js Developer,Invansys Technologies,Delhi,Founded in 2005,10 - 50 employees,Function: Software Engineering → Frontend Development,"JavaScript
+React.js","Amanpreet Singh
+Talent Acquisition Specialist
+at Invansys Technologies",3-5 Years,4.1,3.9,3.6,3.5,3.8,3.9,4.7
+324,Business Development Executive,KSBM Infotech,Noida,Founded in 2013,50 - 200 employees,Function: Sales and Business → Sales / Business Development,"Business Development
+Direct Sales
+Sales","Balvinder Singh
+HR Executive
+at KSBM Infotech",1-5 Years,,,,,,,
+325,Risk Analyst,Paytm,"Noida, Work From Home",Founded in 2000,More than 1000 employees,Function: Data Science and Analysis → Data Analysis / Business Intelligence,"Microsoft Excel
+Power BI
+Python
+R
+SAS
+SQL
+Tableau","Garima Jain
+Technical Recruiter
+at Paytm",1-5 Years,3.8,3.4,3.5,3.4,3.8,3.6,3.7
+326,Technical Support Excutive,Teamware Solutions,Noida,Founded in 2003,More than 1000 employees,Function: IT Operations and Support → Technical / Production Support,"HTML
+JavaScript
+Networking
+SQL
+Technical Support
+Windows","Bolisetty Manasa
+Talent Acqusition excutive
+at Teamware Solutions",1-5 Years,4.6,4.5,4.2,4.4,4.5,4.4,4.9
+327,Business Development Representative / Executive,Tessell,Bangalore,Founded in 2021,10 - 50 employees,Function: Sales and Business → Sales / Business Development,"Lead Generation
+Customer Interaction
+Sales Operations
+Business Development
+Corporate Sales","Shashank Gupta
+Associate Talent Acquisition
+at Zyoin",4-9 Years,,,,,,,
+328,Release Engineer,Viacom18,Bangalore,Founded in 2007,More than 1000 employees,Function: IT Operations and Support → DevOps / Cloud,"Release Engineering
+Linux","Mansi Saxena
+Assistant Researcher
+at New Era Consultancy",5-10 Years,3.8,3.6,3.3,3.7,3.5,3.7,3.3
+329,Security Engineer,Viacom18,Bangalore,Founded in 2007,More than 1000 employees,Function: IT Operations and Support → IT Security,"Application Security
+Vulnerability Assessment
+Network Security","Mansi Saxena
+Assistant Researcher
+at New Era Consultancy",8-13 Years,3.8,3.6,3.3,3.7,3.5,3.7,3.3
+330,SE / SSE / Tech Lead,Capri Global Capital,Gurgaon,Founded in 1997,500 - 1000 employees,Function: Software Engineering → Full-Stack Development,"Python
+JavaScript
+Java
+React.js","Divya Dwivedi
+Associate Consultant
+at CareerNet Technologies",3-8 Years,3.7,2.9,3.4,3,3.3,2.9,3.1
+331,Product Manager,Cerence,Work From Home,Founded in 2019,More than 1000 employees,"Function: IT Operations and Support → IT Security, Product Management, QA / SDET","Product Lifecycle Management
+API Testing
+Penetration Testing
+Application Security
+GraphQL","Sandhiya S
+Account Manager
+at Anzy Careers",5-10 Years,3.7,3.6,3.4,3.5,3.5,3.9,3.3
+332,Customer Support Associate,Datacultr,Gurgaon,Founded in 2020,10 - 50 employees,Function: Sales and Business → Customer Service,"Customer Service
+Customer Relationship
+Customer Interaction","Momeena A
+HR
+at Aspire Technologies",0-2 Years,,,,,,,
+333,SFDC - Technical Lead,Emids Technologies,Bangalore,Founded in 1999,More than 1000 employees,Function: Software Engineering → Other Software Development,"Salesforce Service Cloud
+Lightning Web Components
+Apex
+SOQL
+Salesforce","Sneha Khandelwal
+Recruiter
+at Knackease",7-12 Years,3.8,3.5,3.5,3.7,3.7,3.7,4
+334,SD3 / Principal Engineer,Freshworks,Bangalore,Founded in 2010,More than 1000 employees,Function: Software Engineering → Frontend Development,React.js,"Emily Mondal
+Director
+at iRecruit Partners",6-11 Years,4.2,4.1,3.9,4.3,4,4.2,4.3
+335,Frontend Developer,GoalTeller,Bangalore,Founded in 2020,10 - 50 employees,Function: Software Engineering → Frontend Development,"React.js
+React Native
+Redux
+JavaScript","Adharsh A
+Associate Recuiter
+at Petals Careers",4-7 Years,,,,,,,
+336,Angular 2 Developer,HCL Technologies,Noida,Founded in 1976,More than 1000 employees,"Function: Software Engineering → Backend Development, Frontend Development, Full-Stack Development","Angular
+Angular Material
+jQuery
+Node.js
+Kubernetes","Swaraj Chaturvedi
+Hiring Specialist
+at VaeAhead Solution",5-10 Years,3.7,3.7,3.1,3.6,3.6,3.7,3.8
+337,JavaScript Developer,HCL Technologies,Noida,Founded in 1976,More than 1000 employees,"Function: Software Engineering → Backend Development, Frontend Development, Full-Stack Development","JavaScript
+jQuery
+Kubernetes
+Angular
+Node.js","Swaraj Chaturvedi
+Hiring Specialist
+at VaeAhead Solution",5-10 Years,3.7,3.7,3.1,3.6,3.6,3.7,3.8
+338,Java Developer,Ixly Technologies,Chennai,Founded in 2012,10 - 50 employees,Function: Software Engineering → Backend Development,"Java
+Hibernate
+J2EE
+Spring","Divyaa D
+Human Resource Specialist
+at Ixly Technologies",5-6 Years,,,,,,,
+339,Sr. Software Engineer,OpenText,Hyderabad,Founded in 1991,More than 1000 employees,Function: Software Engineering → Backend Development,"C++
+COM
+MFC
+Windows","Udeshna Boruah Kalita
+Account Manager
+at Wenger & Watson",5-8 Years,3.7,3.8,3.4,3.7,3.4,3.9,3.5
+340,Functional Architect,3Frames Lab,Bangalore,Founded in 2010,10 - 50 employees,Function: Technical Management → Engineering Management,"UML
+DFMEA
+Dataflow","Saksham Sharma
+Hr
+at Modis",6-10 Years,,,,,,,
+341,Senior Python Developer,BluSapphire Cyber Systems,Hyderabad,Founded in 2014,10 - 50 employees,"Function: Software Engineering → Backend Development, Full-Stack Development","Python
+pandas
+NumPy
+Django
+Flask","Arun Ks
+Talent Advisor
+at Scaling Theory",4-9 Years,3.5,3.4,3,3.4,3,3.4,3.8
+342,Senior Salesforce Developer,Bradsol,Work From Home,Founded in 2014,50 - 200 employees,"Function: IT Operations and Support → IT Security, Other Software Development, Systems Administration","Salesforce
+Salesforce Service Cloud
+Salesforce CPQ
+Salesforce Marketing Cloud
+Salesforce Query Studio","Swapnil Khandare
+Recruitment Specialist
+at TIGI HR Solution",7-12 Years,4.9,4.9,4.5,4.8,4.8,4.7,4.9
+343,Senior Developer Java [T500 - 6965,Delta Air Lines,Bangalore,Founded in 1928,More than 1000 employees,Function: Software Engineering → Backend Development,"Java
+AWS","Omkar Sonawane
+Growth Executive
+at Talent500",4-6 Years,4.3,3.8,4.1,4.2,4.2,4.3,4.3
+344,Inside Sales Associate,EMotorad,Pune,Founded in 2020,50 - 200 employees,Function: Sales and Business → Customer Service,"Sales
+International BPO
+Telecalling
+Customer Service
+International Sales","Manjit Kaur
+Senior Recruiter
+at Risah Careers",1-6 Years,4.4,3.6,3.8,4.3,4.3,4.1,4.5
+345,Account Manager,Khabri Audio Platform,Delhi,Founded in 2017,10 - 50 employees,Function: Operations → Accounting / Finance,"Tally
+TDS
+GST
+Taxation
+Accounting","Paankhuri Aggarwal
+Talent Accquistion - Head
+at Avathara",6-8 Years,,,,,,,
+346,UI Developer,Kognitos,Bangalore,Founded in 2021,10 - 50 employees,Function: Software Engineering → Frontend Development,"JavaScript
+React.js
+HTML
+CSS
+Vue.js","Rovena Dsouza
+Talent acquisition
+at Zyoin",4-8 Years,2.9,2.9,2.7,2.9,3,2.4,2.1
+347,Java Developer,Motherson Sumi Systems,Bangalore,Founded in 1986,More than 1000 employees,Function: Software Engineering → Backend Development,"Java
+Hibernate
+MySQL
+Spring Boot","Oshin Garg
+Talent Acquisition Specilist
+at Human Horizon",3-5 Years,3.3,2.6,3.1,3,3.3,3.1,2.9
+348,Java Fullstack,Motherson Sumi Systems,Bangalore,Founded in 1986,More than 1000 employees,Function: Software Engineering → Full-Stack Development,"Java
+Angular
+JSON
+JUnit
+Hibernate","Oshin Garg
+Talent Acquisition Specilist
+at Human Horizon",3-5 Years,3.3,2.6,3.1,3,3.3,3.1,2.9
+349,Enterprise Data Services Delivery Lead [T500 - 6604,MUFG,Bangalore,Founded in 1900,More than 1000 employees,Function: Software Engineering → Big Data / DWH / ETL,"Data Warehousing
+Oracle Database","Omkar Sonawane
+Growth Executive
+at Talent500",11-16 Years,3.5,3.5,3.3,3.4,3.1,3.5,2.9
+350,Quality Engineer,ANSR,Gurgaon,Founded in 2003,50 - 200 employees,Function: Software Engineering → QA / SDET,"Java
+Microservices
+SDET
+API Testing
+REST Assured","Shiva Sharai
+Talent Scout
+at Talent500",2-7 Years,3.9,3.5,3.5,3.6,3.9,3.9,4
+351,Technical Support Engineer,Arthmate,Kolkata,Founded in 2020,10 - 50 employees,Function: IT Operations and Support → Technical / Production Support,"Technical Support
+Node.js
+Java
+IT Support","Anjali Nair
+Career Researcher
+at Northclan",3-7 Years,,,,,,,
+352,SDE1,Capri Global Capital,Gurgaon,Founded in 1997,500 - 1000 employees,Function: Software Engineering → Frontend Development,"React.js
+JavaScript
+jQuery
+HTML
+CSS","Rituraj Rai
+Talent Acquisition Specialist
+at Flairchase",2-5 Years,3.7,2.9,3.4,3,3.3,2.9,3.1
+353,Data Engineer,Certa,Work From Home,Founded in 2013,50 - 200 employees,"Function: Software Engineering → Big Data / DWH / ETL, DevOps / Cloud","ETL
+Kafka
+Data Migration
+DevOps
+Spark","Prakhar Mehrotra
+Principle Talent Acqisition
+at Zyoin",2-6 Years,4.4,3.9,4.3,4.3,4.3,4.4,4.2
+354,Technical Director - Developer Experience,Druva,Pune,Founded in 2008,500 - 1000 employees,Function: Software Engineering → Backend Development,"C++
+Golang
+Python
+AWS
+CI-CD","Anuja Pawar
+Assistant Manager - Talent Acqusition
+at Druva",15-19 Years,4,3.7,4,4,3.9,3.9,3.7
+355,Business Development Associate,GyanDhan,Delhi,Founded in 2015,10 - 50 employees,Function: Sales and Business → Sales / Business Development,"Business Development
+Sales
+Customer Relationship
+Corporate Sales
+Direct Sales","Asmita Gupta
+Recruitment Consultant
+at Paddlelift",1-4 Years,3.8,3.7,3.2,3.7,3.5,4,3.5
+356,DevOps - SDE 2,Hiver,Bangalore,Founded in 2011,50 - 200 employees,Function: IT Operations and Support → DevOps / Cloud,"DevOps
+Kubernetes
+AWS
+CI - CD
+Production Engineering","Mythili Achappa
+Recruiter
+at Wenger & Watson",3-4 Years,4.6,4.4,4.3,4.6,4.5,4.6,4.7
+357,Partner Marketing Manager,LambdaTest,"Bangalore, Noida, Work From Home",Founded in 2017,200 - 500 employees,Function: Marketing → Brand Management,"Brand Management
+Marketing Communication","Madhuri Sandur
+Talent Partner
+at LambdaTest",4-8 Years,4.7,4.2,4.7,4.6,4.8,4.6,4.7
+358,Senior Consultant - Quality Engineering,Nab,Gurgaon,Founded in 1981,More than 1000 employees,Function: IT Operations and Support → Network Administration,"Batch Management
+Control-M
+Unix
+Mainframes","Revathy Chandran
+Sr.Talent Scout
+at Talent500",7-11 Years,3.8,3.8,3.5,3.8,3.7,4,4
+359,Product Manager,Ripplr,Bangalore,Founded in 2019,50 - 200 employees,Function: Technical Management → Product Management,Product Management,"Sindhuja
+Recruitment Consultant
+at JobsCubicle",4-6 Years,4.6,3.8,4.2,4.3,4.4,4.1,4.8
+360,Data Scientist,Amazon,Bangalore,Founded in 1994,More than 1000 employees,Function: Data Science and Analysis → Data Science / Machine Learning,"Machine Learning
+Python
+Statistics
+Data Mining","Sweta Barman
+Talent Acquisition Specialist
+at Karya Consultants",2-5 Years,4.3,3.9,4.2,4.3,4.1,4.4,4.3
+361,Senior DevOps Engineer,BetterPlace,Bangalore,Founded in 2015,500 - 1000 employees,Function: IT Operations and Support → DevOps / Cloud,"Helm
+Kubernetes
+AWS
+Monitoring
+Python","Rajni Mishra
+Poojajoshi@Talentoj.Com
+at Talentoj",7-10 Years,3.8,5,3.2,5,3.4,2.6,5
+362,Delas06E - Lead Full Stack Developer,Delta Air Lines,Bangalore,Founded in 1928,More than 1000 employees,Function: Software Engineering → Full-Stack Development,"Java
+AWS
+Angular
+Docker
+Kubernetes","Revathy Chandran
+Sr.Talent Scout
+at Talent500",7-10 Years,4.3,3.8,4.1,4.2,4.2,4.3,4.3
+363,Inside Sales Executive,eNoah,Indore,Founded in 2006,More than 1000 employees,Function: Sales and Business → Sales / Business Development,"Business Development
+Corporate Sales
+Direct Sales
+Sales
+Telecalling","Khushboo Bhatia
+Talent Acquisition Specialist
+at eNoah",1-5 Years,4.3,4.4,4.3,4.4,4.4,4.3,4.5
+364,Sr. Data Engineer,GlobalLogic,Bangalore,Founded in 2000,More than 1000 employees,Function: Software Engineering → Big Data / DWH / ETL,"AWS
+SQL
+Spark
+Airflow
+Python","Vishakha Tyagi
+Talent Acquisition
+at Majoris Technologies",4-8 Years,4.1,4.1,3.6,4.1,3.9,4,4.3
+365,Sr. Maximo Developer,IBM,Work From Home,Founded in 1911,More than 1000 employees,Function: Software Engineering → Backend Development,Maximo,"Vijay Tekumudi
+Executive Recruiter
+at Modern Agile Technologies",5-10 Years,4.2,4.1,3.6,4.2,4.1,4.4,4.3
+366,Full Stack Development,JMR Infotech,Work From Home,Founded in 2007,200 - 500 employees,Function: Software Engineering → Full-Stack Development,Java,"Naga Sravanthi
+Talent Acquisition
+at AVI Consulting",4-9 Years,4.1,3.8,3.7,3.7,4.1,3.9,4.3
+367,Trainer Game Programming,Keywords Studios,"Bangalore, Gurgaon",Founded in 1998,More than 1000 employees,Function: Software Engineering → Other Software Development,"Game Development
+Unreal","Rajan Gupta
+Talent Acquisition Manager
+at Keywords Studios",5-6 Years,3.7,3.9,3.2,3.9,3.5,4.1,3.8
+368,Technical Program Manager,Lendingkart,Bangalore,Founded in 2014,200 - 500 employees,Function: Technical Management → Project Management,"Agile
+Program Management
+Project Management
+Scrum","Supriya Vijay
+TA
+at Lendingkart",8-12 Years,4.2,3.8,4.2,4,4.1,4,3.9
+369,Senior Manager - Talent Acquisition,Wipro,Work From Home,Founded in 1945,More than 1000 employees,Function: Human Resources → Talent Acquisition,Recruitment,"Shilpi Shrivastava
+Senior Consultants
+at Xpert Conexions",12-17 Years,3.8,3.6,3.2,3.8,3.7,3.8,3.8
+370,Senior Data Engineer,Adalwin Tech / Yoola App,Work From Home,Founded in 2015,10 - 50 employees,Function: Data Science and Analysis → Data Science / Machine Learning,"Python
+Spark
+AWS
+SQL","Himani Goyal
+HR Manager
+at Matrix Management Services",5-10 Years,,,,,,,
+371,System Security Manager,BetterPlace,Bangalore,Founded in 2015,500 - 1000 employees,Function: IT Operations and Support → IT Security,"Information Security
+AWS
+Cloud Computing
+Cloud Security","Rajni Mishra
+Poojajoshi@Talentoj.Com
+at Talentoj",10-14 Years,3.8,5,3.2,5,3.4,2.6,5
+372,HR Recruiter,KLAY Preschool and Daycare,Bangalore,Founded in 2011,More than 1000 employees,"Function: Human Resources → HR Generalist, Talent Acquisition","HR Analytics
+Operations Management
+HR Operations
+Recruitment
+Talent Management","Jai Nayak
+Founder & CEO
+at Cephas Consultancy Services",1-6 Years,,,,,,,
+373,React.js Developer,OrangeMantra,Bangalore,Founded in 2001,50 - 200 employees,Function: Software Engineering → Full-Stack Development,"React.js
+HTML
+CSS","Navya C M
+IT recruiter
+at One Degree North",5-8 Years,4.4,4.3,4.2,4.3,4.4,4.4,4.7
+374,Project Manager,PeerXP Technologies,"Bangalore, Work From Home",Founded in 2015,10 - 50 employees,Function: Technical Management → Project Management,"Agile
+PMO
+PMP
+Program Management
+Project Management
+Scrum
+IT Project Management","Sweta Sharma
+Recruiter
+at PeerXP Technologies",0-1 Years,,,,,,,
+375,Admission Counsellor,Protouch,Gurgaon,Founded in 2018,10 - 50 employees,Function: Sales and Business → Sales / Business Development,"Business Development
+Sales
+Telecalling","Shubham Karwariya
+inside sales
+at Protouch",0-3 Years,4.3,4.2,4.2,4.1,4.3,4.4,4.3
+376,Automotive Embedded,Tata Elxsi,Bangalore,Founded in 1989,More than 1000 employees,"Function: Software Engineering → Backend Development, Embedded / Kernel Development","Automotive Embedded Systems
+Embedded C
+C
+Embedded Systems","Sunil Gupta
+Talent Acquisition Executive
+at Wenger & Watson",4-9 Years,4,3.8,3.3,4.1,4,4,4.3
+377,Staff Frontend Developer,Tekion,Bangalore,Founded in 2016,50 - 200 employees,Function: Software Engineering → Frontend Development,"React.js
+JavaScript
+HTML
+CSS
+Redux","Vishal Chaudhary
+Lead Technical Recruiter
+at Success Pact",8-12 Years,3.9,3.2,4.3,3.8,4.1,3.9,3.9
+378,Video Content Creator - Youtube Channel,Varistor Technologies,Bangalore,Founded in 2016,50 - 200 employees,Function: Marketing → Content Writing,Content Writing,"Akshaya Gupta
+Coo
+at Varistor Technologies",1-2 Years,4.6,4.3,4.2,4.4,4.5,4,4
+379,QA - Automation Engineer,Verizon Communications,Chennai,Founded in 1983,More than 1000 employees,Function: Software Engineering → QA / SDET,"Mobile Apps Testing
+iOS
+Android
+Selenium
+Appium","Gopikrishnan Kg
+Associate Consultant
+at Wenger & Watson",3-7 Years,3.8,3.5,4.1,3.7,3.7,4.1,3.6
+380,Staff Data Engineer,Angel One,Bangalore,Founded in 1987,More than 1000 employees,Function: Software Engineering → Big Data / DWH / ETL,"Data Analysis
+Data Streaming
+Data Warehousing
+NoSQL
+Kafka
+Spark
+SQL","Vineeta Singh
+Senior Manager
+at Angel One",10-14 Years,4.2,4,3.9,4.1,4.1,4,4.1
+381,ERP Consultant,BARC India,Mumbai,Founded in 2013,10 - 50 employees,Function: IT Operations and Support → Functional / Technical Consulting,"Salesforce
+Microsoft Dynamics
+Functional Consulting","Blessy Fernandes
+Recruiter
+at Qrata",8-10 Years,3.7,3.9,3.7,3.4,3.6,3.5,3.5
+382,ERP Consultant,BARC India,Mumbai,Founded in 2013,10 - 50 employees,Function: IT Operations and Support → Functional / Technical Consulting,"Salesforce
+Microsoft Dynamics
+.NET
+JavaScript
+MySQL","Seemi Ejaz
+Talent Partner
+at Qrata",8-11 Years,3.7,3.9,3.7,3.4,3.6,3.5,3.5
+383,Front End Developer,Benzinga,Work From Home,Founded in 2010,50 - 200 employees,Function: Software Engineering → Frontend Development,"CSS
+HTML
+JavaScript
+React.js","Neer Varshney
+Project Lead
+at Benzinga",1-5 Years,,,,,,,
+384,Engineering Manager,BetterPlace,Bangalore,Founded in 2015,500 - 1000 employees,Function: Software Engineering → Backend Development,"Python
+Django
+Flask
+Microservices
+LLD","Nikita Sah
+Nikita Sah
+at Talentoj",7-10 Years,3.8,5,3.2,5,3.4,2.6,5
+385,Senior Data Manager - Ecommerce,CashKaro.com,Gurgaon,Founded in 2012,50 - 200 employees,Function: Data Science and Analysis → Data Analysis / Business Intelligence,"Python
+SQL
+API Testing
+Amazon Redshift
+Retention Management","Seemi Ejaz
+Talent Partner
+at Qrata",7-10 Years,4.7,4.6,4.6,4.8,4.7,4.7,4.8
+386,Growth Marketeer,Default,Bangalore,Founded in 2020,10 - 50 employees,Function: Marketing → Online Marketing,"Content Marketing
+Digital Marketing
+SEO
+Social Media Marketing","Priyanka Bodele
+Recruiter
+at Default",2-6 Years,4.7,4.6,4.3,4.6,4.8,4.5,5
+387,Sales Operations Associate,Default,Bangalore,Founded in 2020,10 - 50 employees,Function: Sales and Business → Sales / Business Development,"Business Development
+Sales","Priyanka Bodele
+Recruiter
+at Default",2-6 Years,4.7,4.6,4.3,4.6,4.8,4.5,5
+388,Senior AEM Developer With Java,Skillikz,"Bangalore, Work From Home",Founded in 2020,50 - 200 employees,Function: Software Engineering → Other Software Development,"Adobe Experience Manager (AEM)
+Java","Mirza Begum
+Talent Acquisition Consultant
+at Skillikz",4-6 Years,,,,,,,
+389,Lead Product Operations Manager,Uber,"Bangalore, Hyderabad",Founded in 2009,More than 1000 employees,Function: Technical Management → Product Management,Product Management,"Popuri Sri Teja
+Recruitment
+at Uber",9-13 Years,4.4,4.2,4.3,4.3,4.1,4.4,4.5
+390,Technical Architect,Citi,Chennai,Founded in 1900,More than 1000 employees,Function: Software Engineering → Backend Development,"Java
+Cloud Computing
+Oracle Database
+JavaScript
+Python","Namrata Dutta
+Staffing Specialist
+at Pylon Management Consulting",12-15 Years,3.9,3.5,3.8,3.8,3.9,4.1,3.9
+391,Senior iOS Engineer,DAZN,Hyderabad,Founded in 2007,More than 1000 employees,Function: Software Engineering → Mobile Development,"iOS
+UIkit
+Objective-C","Aasha Jeniffer
+IT Recruiter
+at Asvatthah",5-10 Years,2.7,3.3,2.8,2.6,2.7,3.2,1.9
+392,Zendesk Specialist,DAZN,Hyderabad,Founded in 2007,More than 1000 employees,"Function: IT Operations and Support → Database Admin / Development, Network Administration, Systems Administration",Zendesk,"Aasha Jeniffer
+IT Recruiter
+at Asvatthah",3-8 Years,2.7,3.3,2.8,2.6,2.7,3.2,1.9
+393,Lead Engineer - Information Security [T500 - 6533,Delta Air Lines,Bangalore,Founded in 1928,More than 1000 employees,Function: IT Operations and Support → IT Security,"Application Security
+Penetration Testing","Omkar Sonawane
+Growth Executive
+at Talent500",6-10 Years,4.3,3.8,4.1,4.2,4.2,4.3,4.3
+394,Senior Data Engineer [T500 - 6964,Delta Air Lines,Bangalore,Founded in 1928,More than 1000 employees,Function: Software Engineering → Big Data / DWH / ETL,"Linux
+ETL","Omkar Sonawane
+Growth Executive
+at Talent500",3-6 Years,4.3,3.8,4.1,4.2,4.2,4.3,4.3
+395,BI Developer,IBM,Bangalore,Founded in 1911,More than 1000 employees,Function: Data Science and Analysis → Data Analysis / Business Intelligence,"SSRS
+T-SQL
+SQL","Priyanka Paul
+Talent Acquisition Specialist
+at Karya Consultants",3-6 Years,4.2,4.1,3.6,4.2,4.1,4.4,4.3
+396,Tech Lead,Intelehealth,Work From Home,Founded in 2018,10 - 50 employees,"Function: Software Engineering → Backend Development, Frontend Development, Full-Stack Development","Angular
+Node.js
+JavaScript
+HTML","Consult Bae
+Senior Recruitment Manager
+at ConsultBae",7-12 Years,4.5,4.7,4.2,4.6,4.5,4.5,4.6
+397,Business Development Manager,NimbusPost,"Bangalore, Gurgaon, Mumbai",Founded in 2014,50 - 200 employees,Function: Sales and Business → Sales / Business Development,"Business Development
+Corporate Sales
+Sales","Preety
+Talent Acquisition Specialist
+at NimbusPost",4-8 Years,3.7,3.6,3.4,3.5,3.5,3.8,2.4
+398,HR Manager,Pazago,Mumbai,Founded in 2023,10 - 50 employees,"Function: Human Resources → HR Generalist, Operations Management, Talent Acquisition","Recruitment
+Logistics Management
+Payroll Management
+Sea Freight","Shubha Naik
+AVP Talent Acquisition
+at Zyoin",2-7 Years,,,,,,,
+399,SharePoint Developer,Symphony Technology Group,Bangalore,Founded in 2002,10 - 50 employees,Function: Software Engineering → Backend Development,"SharePoint
+Microsoft Power Apps
+Power BI","Udeshna Boruah Kalita
+Account Manager
+at Wenger & Watson",3-5 Years,4.1,3.9,3.7,3.9,3.8,4,2.5
+400,Software Development Engineer 3,1mg,Gurgaon,Founded in 2015,500 - 1000 employees,Function: Software Engineering → Backend Development,"Java
+Python","Shubham Chauhan
+Talent Acquisition Executive
+at 1mg",5-9 Years,3.9,3.5,3.5,3.8,3.8,3.7,3.8
+401,SAP CPI Consultant,Blackberrys Menswear,Gurgaon,Founded in 1991,500 - 1000 employees,"Function: Technical Management → Engineering Management, Other Software Development","SAP CPI
+API Testing
+Cloud Security
+SOAP
+Data Integration","Ankita Yadav
+executive search professional
+at Strategic Talent Partner",5-7 Years,3.2,3,2.8,2.9,3.3,2.9,3
+402,Data Scientist,Blue Yonder,Bangalore,Founded in 1985,More than 1000 employees,Function: Data Science and Analysis → Data Science / Machine Learning,"Computer Vision
+Machine Learning
+NLP
+Python
+Keras
+PyTorch
+Scikit-learn
+TensorFlow","Priyanka Kaushal
+Senior Talent Acquisition/ Advisor
+at Blue Yonder",2-3 Years,4.1,4,3.8,4,3.9,4,4.1
+403,Senior Cyber Security Engineer [T500 - 6961,Delta Air Lines,Bangalore,Founded in 1928,More than 1000 employees,Function: IT Operations and Support → IT Security,Data Loss Prevention,"Omkar Sonawane
+Growth Executive
+at Talent500",4-7 Years,4.3,3.8,4.1,4.2,4.2,4.3,4.3
+404,Product Analyst,Gameberry Labs,Bangalore,Founded in 2017,50 - 200 employees,"Function: Data Science and Analysis → Data Analysis / Business Intelligence, Data Science / Machine Learning, Product Management","SQL
+Data Analysis
+Product Management
+Analytical Instruments
+Quantitative Analysis","Blessy Fernandes
+Recruiter
+at Qrata",2-4 Years,4.5,4.3,4.4,4.5,4.4,4.2,4.3
+405,Senior Engineering Manager,RapidAI,Bangalore,Founded in 2012,50 - 200 employees,"Function: Software Engineering → Backend Development, DevOps / Cloud, Mobile Development","iOS
+AWS
+Program Management
+Engineering Management
+Cloud Computing","Harshitha S
+Talent Acquisition Specialist
+at Maple Green",10-15 Years,3.6,3.1,2.9,3.3,3.5,3.4,3.1
+406,Insides Sales - Counsellor,Suraasa,Gurgaon,Founded in 2017,50 - 200 employees,Function: Sales and Business → Sales / Business Development,International Sales,"Priya
+Hr
+at Hindustan Recruitment",1-2 Years,4.9,4.3,4.6,4.9,4.9,4.9,5
+407,Data Engineer,Symphony Technology Group,Bangalore,Founded in 2002,10 - 50 employees,"Function: Software Engineering → Backend Development, Big Data / DWH / ETL","ETL
+Python
+AWS
+Kafka","Udeshna Boruah Kalita
+Account Manager
+at Wenger & Watson",1-3 Years,4.1,3.9,3.7,3.9,3.8,4,2.5
+408,Character Illustrator,TO THE NEW,Noida,Founded in 2008,More than 1000 employees,Function: Design and Creative → Graphic Design / Animation,"2D Animation
+Adobe After Effects
+Illustrator
+Photoshop","Mehul Jain
+Talent Acquisition Specialist
+at TO THE NEW",2-6 Years,4.2,3.8,4,4.3,4.2,4.2,4.5
+409,DevOps Engineer,ZFW Dark Stores,Bangalore,Founded in 2021,10 - 50 employees,Function: IT Operations and Support → DevOps / Cloud,"DevOps
+CI - CD
+AWS
+Docker
+Jenkins","Atul Kumar
+Founder & CEO
+at TalentSyker",2-7 Years,5,4.3,4.3,5,4.7,4.7,5
+410,Full Stack Development,Acies,Panaji,Founded in 2018,10 - 50 employees,"Function: Software Engineering → Full-Stack Development, Other Software Development","Python
+Hadoop
+PostgreSQL
+React.js
+JavaScript","Technocodz Group Hr Manager
+Human resource Manager
+at Technocodz Group",1-6 Years,4.7,4.2,4.2,4.5,4.8,4.6,5
+411,Principal Software Engineer,Advanced Business and Healthcare India,Bangalore,Founded in 2010,More than 1000 employees,"Function: Software Engineering → Backend Development, Frontend Development, Full-Stack Development","Java
+Spring Boot
+Angular
+AWS
+Microservices","Nikhil Kumar
+Recruitment Manager
+at HireTale",9-14 Years,3.6,3.9,3.2,3.7,3.7,4,3.5
+412,UI / UX Designer,Agprop,"Delhi, Work From Home",Founded in 2021,10 - 50 employees,Function: Design and Creative → UX / Visual Design,,"Vrijraj Singh
+Tech Lead
+at Agprop",0-2 Years,,,,,,,
+413,Backend Engineer,BizPilot,Work From Home,Founded in 2021,10 - 50 employees,Function: Software Engineering → Backend Development,"AWS
+Express.js
+Node.js
+PostgreSQL
+TypeScript","Anup Nair
+CEO
+at BizPilot",1-3 Years,5,5,5,5,5,5,5
+414,Engineering Manager,BrowserStack,Bangalore,Founded in 2011,50 - 200 employees,"Function: Technical Management → Engineering Management, Other Software Development","Java
+Python
+Engineering Management
+LLD","Sweta Barman
+Talent Acquisition Specialist
+at Karya Consultants",5-9 Years,4.2,3.9,4.2,4.2,4.1,4.1,4.3
+415,Business Development Excutive,JiyoFullest,"Delhi, Gurgaon",Founded in 2017,0 - 10 employees,Function: Sales and Business → Sales / Business Development,"Business Development
+Corporate Sales
+Direct Sales
+International Sales
+Sales
+Telecalling","Shalini Kumar
+Business Head
+at JiyoFullest",2-3 Years,,,,,,,
+416,VP Engineering - Mobile App Development,Klimb.io,Mumbai,Founded in 2015,10 - 50 employees,"Function: Technical Management → Engineering Management, Mobile Development","Android
+Java
+Flutter
+iOS
+Kotlin","Khushi Dubey
+Talent Acquisition Specialist
+at Neemtree",8-13 Years,3.8,2.6,3,3.4,3.4,3.6,3
+417,VP Engineering - Mobile App Development,Klimb.io,Bangalore,Founded in 2015,10 - 50 employees,"Function: Technical Management → Engineering Management, Mobile Development","Android
+iOS
+Java
+Flutter
+Kotlin","Khushi Dubey
+Talent Acquisition Specialist
+at Neemtree",8-13 Years,3.8,2.6,3,3.4,3.4,3.6,3
+418,HR Admin,Optmyzr,Hyderabad,Founded in 2013,10 - 50 employees,Function: Human Resources → HR Generalist,Employee Benefits,"Neena John Kurian
+HR
+at Optmyzr",1-2 Years,4.2,4.2,4,4.3,3.8,4.3,4.2
+419,Admission Counsellor,Talentedge,Gurgaon,Founded in 2012,200 - 500 employees,Function: Sales and Business → Sales / Business Development,"Sales
+Telecalling","Samrita Sam
+Manager-HR
+at Talentedge",0-4 Years,3.9,3.5,3.8,3.7,3.8,3.8,3.7
+420,Node.js Developer,Baazi Games,Delhi,Founded in 2014,200 - 500 employees,Function: Software Engineering → Backend Development,Node.js,"Raj Jha
+Tech Recruiter
+at Baazi Games",2-5 Years,3.8,3.3,3.6,3.9,3.8,3.7,3.9
+421,BI Administration,Broadridge,Bangalore,Founded in 1962,More than 1000 employees,Function: IT Operations and Support → Database Admin / Development,"Cognos Framework Manager
+Linux
+AWS","Aruna Bahuguna
+Recruiter
+at Spigot Software",8-13 Years,3.9,3.6,3.5,3.9,3.7,3.9,3.8
+422,Lead Product Manager - SAAS,Clear,Bangalore,Founded in 2011,More than 1000 employees,Function: Technical Management → Product Management,"Enterprise Software
+Product Management","Gopal Rawat
+Talent Acquisition
+at Clear",7-11 Years,3.6,3.3,3.5,3.5,3.6,3.6,3.3
+423,Customer Success Manager,Docsumo,"Bangalore, Mumbai",Founded in 2018,10 - 50 employees,Function: Sales and Business → Customer Service,"Customer Interaction
+Key Account Management","Celina Mittal
+Talent Acquisition Associate
+at Docsumo",4-7 Years,4.7,4.5,4.3,4.6,4.6,4.4,4.7
+424,Senior Software Engineer (CRM),HighLevel,Work From Home,Founded in 2018,50 - 200 employees,Function: Software Engineering → Full-Stack Development,"JavaScript
+Angular
+Node.js
+React.js
+Vue.js","Rini Shah
+Technical Recruiter
+at HighLevel",2-6 Years,4.9,4.6,4.5,4.7,4.7,4.8,5
+425,Zonal Manager,IndiaMART InterMESH,Coimbatore,Founded in 1999,More than 1000 employees,Function: Sales and Business → Sales / Business Development,"Sales
+Corporate Sales
+Business Development
+Direct Sales
+Networking","Arsha Pillai
+HR Manager
+at Karyarth Consultancy",5-10 Years,3.8,3.4,3.5,3.6,3.7,3.6,3.7
+426,Marketing - SEO,inFeedo,Work From Home,Founded in 2016,50 - 200 employees,Function: Marketing → SEO / SEM,"Google Ads
+SEO","Richa Anchan
+Associate Talent Acquisition
+at inFeedo",0-0 Years,4.8,4.5,4.5,4.8,4.6,4.7,4.8
+427,Corporate Credit - Analyst,MUFG,Mumbai,Founded in 1900,More than 1000 employees,Function: Operations → Accounting / Finance,"Credit Underwriting
+Financial Analysis
+Credit Risk Management","Pooja Soni
+Talent Scout
+at Talent500",2-7 Years,3.5,3.5,3.3,3.4,3.1,3.5,2.9
+428,BDA,UNext Learning,Bangalore,Founded in 2020,500 - 1000 employees,Function: Sales and Business → Sales / Business Development,"Business Development
+Telecalling
+Sales
+Corporate Sales","Mrunal Kankal
+HR specialist
+at Hindustan Recruitment",0-1 Years,,,,,,,
+429,Business Development Executive,Zell Education,Mumbai,Founded in 2015,10 - 50 employees,Function: Sales and Business → Sales / Business Development,"Business Development
+Sales
+International Sales
+Corporate Sales
+Direct Sales","Nagesh Nandala
+Senior HR manager
+at Cynic Technologies",0-4 Years,4.3,3.4,4,4,3.7,4.7,3.7
+430,Business Development Manager,AXS Solutions,Mumbai,Founded in 2012,10 - 50 employees,Function: Sales and Business → Sales / Business Development,"Business Development
+Corporate Sales
+Direct Sales
+International Sales
+Sales","Sonali Betkar
+HR Generalist
+at AXS Solutions",3-6 Years,2.6,2.6,2,2.7,2.8,3.8,1.8
+431,Tender Executive,AXS Solutions,Mumbai,Founded in 2012,10 - 50 employees,Function: Sales and Business → Sales / Business Development,"Business Development
+Corporate Sales
+Sales","Sonali Betkar
+HR Generalist
+at AXS Solutions",2-5 Years,2.6,2.6,2,2.7,2.8,3.8,1.8
+432,Node.js Developer,Designoweb,Noida,Founded in 2014,50 - 200 employees,Function: Software Engineering → Backend Development,"Node.js
+Express.js","Maninder Singh
+Technical Recruiter
+at Designoweb",5-6 Years,4,3.9,3.5,3.8,3.8,2.6,4.2
+433,React Native Developer,Designoweb,Noida,Founded in 2014,50 - 200 employees,Function: Software Engineering → Mobile Development,"Hybrid Apps
+React Native","Maninder Singh
+Technical Recruiter
+at Designoweb",5-6 Years,4,3.9,3.5,3.8,3.8,2.6,4.2
+434,Senior Software Engineer,Goavega Software,Bangalore,Founded in 2014,50 - 200 employees,Function: Software Engineering → Backend Development,"WPF
+XAML
+.NET
+Agile
+ASP.NET","Kartik M
+Talent Acquisition Specialist
+at Arnold Consulting",5-8 Years,4.3,4.1,3.5,4.5,4.2,4.3,4.8
+435,React.js Developer,Kadel Labs,Jaipur,Founded in 2017,50 - 200 employees,Function: Software Engineering → Frontend Development,"CSS
+HTML
+JavaScript
+React.js","Neha Soni
+Talent Acquisition & HR Mgr
+at Kadel Labs",3-6 Years,4.8,4.6,4.3,4.4,4.8,4.3,5
+436,NOC Engineer [T500 - 6869,Owens & Minor,Work From Home,Founded in 1882,More than 1000 employees,Function: IT Operations and Support → IT Management / IT Support,Dynatrace,"Omkar Sonawane
+Growth Executive
+at Talent500",2-5 Years,,,,,,,
+437,Business Development Lead Manager,Paktolus Solutions,Work From Home,Founded in 2002,50 - 200 employees,Function: Sales and Business → Sales / Business Development,Business Development,"Kanika Agarwal
+Recruiter
+at Intuittive Services",3-7 Years,,,,,,,
+438,Lead Product Designer,PocketFM,Work From Home,Founded in 2018,50 - 200 employees,Function: Design and Creative → UX / Visual Design,"Wireframing
+UX Design
+Visual Design
+Figma","Nitya Dhingra
+Senior Talent Recruiter
+at GetHyr",6-11 Years,,,,,,,
+439,Team Lead - Dot .NET Developer,TeamLease Regtech,Work From Home,Founded in 2013,50 - 200 employees,"Function: Software Engineering → Backend Development, Engineering Management, Full-Stack Development","ASP.NET
+SQL
+HTML
+jQuery
+Bootstrap","Zoya Khan
+Talent Acquisition Specialist
+at EunoiaHR",5-10 Years,,,,,,,
+440,Brand Specialist,Aissel Technologies,"Bangalore, Hubli",Founded in 2010,50 - 200 employees,Function: Marketing → Brand Management,"ATL
+Brand Management
+BTL
+Digital Marketing
+Marketing Communication","Sujana V
+HR Executive
+at Aissel Technologies",6-8 Years,4.2,3.2,3.4,3.5,4,3.5,4.5
+441,Principal Fullstack Engineer [T500 - 6739,ANSR,Bangalore,Founded in 2003,50 - 200 employees,Function: Software Engineering → Full-Stack Development,"Python
+React.js","Omkar Sonawane
+Growth Executive
+at Talent500",10-15 Years,3.9,3.5,3.5,3.6,3.9,3.9,4
+442,Senior Application Security Engineer [T500 - 6729,ANSR,United Arab Emirates (UAE),Founded in 2003,50 - 200 employees,Function: IT Operations and Support → IT Security,Application Security,"Omkar Sonawane
+Growth Executive
+at Talent500",8-12 Years,3.9,3.5,3.5,3.6,3.9,3.9,4
+443,Senior Backend Developer - Python [T500 - 6738,ANSR,Bangalore,Founded in 2003,50 - 200 employees,Function: Software Engineering → Backend Development,Python,"Omkar Sonawane
+Growth Executive
+at Talent500",8-12 Years,3.9,3.5,3.5,3.6,3.9,3.9,4
+444,Cloud UI Engineer,Brisa Technologies,Bangalore,Founded in 2009,50 - 200 employees,"Function: IT Operations and Support → DevOps / Cloud, Frontend Development","AWS
+Node.js
+IoT","Suman Aditya Behera
+IT Recruiter
+at Mount Talent",4-8 Years,4.2,4.1,4.1,4.1,3.9,4.2,4
+445,Lead Product Manager - Platform,Clear,Bangalore,Founded in 2011,More than 1000 employees,Function: Technical Management → Product Management,"Enterprise Software
+Product Management","Gopal Rawat
+Talent Acquisition
+at Clear",7-11 Years,3.6,3.3,3.5,3.5,3.6,3.6,3.3
+446,Web Consultant - Website & Mobile Application ProC,Ivan Infotech,Kolkata,Founded in 2015,10 - 50 employees,Function: Sales and Business → Sales / Business Development,"Business Development
+International Sales
+Sales","Subhra Mukherjee
+Recruiter
+at Ivan Infotech",0-3 Years,,,,,,,
+447,Software Developer,Nitara,Bangalore,Founded in 2017,50 - 200 employees,"Function: Software Engineering → Backend Development, Frontend Development, Full-Stack Development",".NET
+MongoDB
+IIS Server","Smita Satapathy
+Senior Recruiter
+at SproutsAI",2-4 Years,4.7,4.8,4.1,4.6,4.5,4.8,5
+448,Technical Product Manager,NowFloats,Hyderabad,Founded in 2012,200 - 500 employees,Function: Technical Management → Product Management,"Consumer Software
+Enterprise Software
+Product Management","Ashish K
+Sirisha.Potluri@Nowfloats.Com
+at NowFloats",3-7 Years,4.3,4,4.2,4.4,4.3,4.3,4.2
+449,VP Engineer,sentra.world,Bangalore,Founded in 2023,0 - 10 employees,Function: Software Engineering → Backend Development,"C#
+.NET
+SQL Server","Pooja Pathak
+Technical HR
+at Success Pact",10-15 Years,,,,,,,
+450,Frontend Developer - React.js [T500 - 6730,ANSR,Bangalore,Founded in 2003,50 - 200 employees,Function: Software Engineering → Frontend Development,JavaScript,"Omkar Sonawane
+Growth Executive
+at Talent500",1-4 Years,3.9,3.5,3.5,3.6,3.9,3.9,4
+451,Principal Fullstack Engineer [T500 - 6741,ANSR,Bangalore,Founded in 2003,50 - 200 employees,Function: Software Engineering → Full-Stack Development,"Python
+React.js","Omkar Sonawane
+Growth Executive
+at Talent500",10-15 Years,3.9,3.5,3.5,3.6,3.9,3.9,4
+452,Senior Backend Developer - Python [T500 - 6737,ANSR,Bangalore,Founded in 2003,50 - 200 employees,Function: Software Engineering → Backend Development,Python,"Omkar Sonawane
+Growth Executive
+at Talent500",8-12 Years,3.9,3.5,3.5,3.6,3.9,3.9,4
+453,Relationship Manager,GyanDhan,Delhi,Founded in 2015,10 - 50 employees,Function: Sales and Business → Sales / Business Development,"Business Development
+Customer Service
+International Sales
+Customer Relationship
+Corporate Sales","Asmita Gupta
+Recruitment Consultant
+at Paddlelift",1-6 Years,3.8,3.7,3.2,3.7,3.5,4,3.5
+454,Full Stack Developer,Nitara,Bangalore,Founded in 2017,50 - 200 employees,Function: Software Engineering → Full-Stack Development,"JavaScript
+Python
+Node.js
+Angular
+Mongoose","Smita Satapathy
+Senior Recruiter
+at SproutsAI",4-6 Years,4.7,4.8,4.1,4.6,4.5,4.8,5
+455,Site Reliability Engineer,Potentiam,Bangalore,Founded in 2016,50 - 200 employees,Function: IT Operations and Support → DevOps / Cloud,"CI - CD
+AWS
+Azure
+Docker
+Google Cloud
+Kubernetes
+Nagios","Dipanjan Das
+Recruiter
+at Potentiam",5-6 Years,3,2.9,3.1,1.5,1.9,4.5,
+456,Azure Cloud DevOps Engineer,Sopra Steria,Chennai,Founded in 1968,More than 1000 employees,Function: IT Operations and Support → DevOps / Cloud,"Build Tools
+CI - CD
+Linux
+Ansible
+Azure
+Docker
+Gradle
+Kubernetes
+Maven","Karthick Natarajan
+Ast Manger -Talent Acquisition
+at Sopra Steria",5-6 Years,3.8,4,3.2,3.8,3.5,3.9,3.9
+457,Salesforce Developer,Sopra Steria,Chennai,Founded in 1968,More than 1000 employees,Function: Software Engineering → Other Software Development,"Salesforce
+Lightning
+Apex","Gokulakrishnan B
+Talent Acquisition
+at Sopra Steria",4-5 Years,3.8,4,3.2,3.8,3.5,3.9,3.9
+458,Backend Developer,Swimlane,Hyderabad,Founded in 2014,200 - 500 employees,Function: Software Engineering → Backend Development,"Python
+Django
+Flask
+Node.js
+MongoDB","Shrishti Singh
+Associate Manager - Talent Acquisition
+at Zyoin",4-8 Years,,,,,,,
+459,Senior Software Engineer (Node.js Developer),Swimlane,Hyderabad,Founded in 2014,200 - 500 employees,"Function: Software Engineering → Backend Development, Full-Stack Development","Node.js
+JavaScript
+TypeScript
+NoSQL
+Express.js","Shrishti Singh
+Associate Manager - Talent Acquisition
+at Zyoin",4-8 Years,,,,,,,
+460,Python Backend Developer [T500 - 6727,ANSR,Bangalore,Founded in 2003,50 - 200 employees,Function: Software Engineering → Backend Development,"Python
+Django","Omkar Sonawane
+Growth Executive
+at Talent500",4-8 Years,3.9,3.5,3.5,3.6,3.9,3.9,4
+461,Senior Data Engineer [T500 - 6728,ANSR,Bangalore,Founded in 2003,50 - 200 employees,Function: Software Engineering → Big Data / DWH / ETL,"Python
+Hadoop","Omkar Sonawane
+Growth Executive
+at Talent500",8-13 Years,3.9,3.5,3.5,3.6,3.9,3.9,4
+462,Senior Quality Engineer,ANSR,Gurgaon,Founded in 2003,50 - 200 employees,Function: Software Engineering → QA / SDET,"Automation Testing
+Quality Assurance
+CI - CD
+Behavior Driven Development
+Test Driven Development","Nancy Sharma
+Talent Scout
+at Talent500",8-13 Years,3.9,3.5,3.5,3.6,3.9,3.9,4
+463,Product Director,Hiver,Bangalore,Founded in 2011,50 - 200 employees,Function: Technical Management → Product Management,Product Management,"Neethu Dharan N
+Senior Talent Acquisition Specialist
+at Hiver",8-12 Years,4.6,4.4,4.3,4.6,4.5,4.6,4.7
+464,AVP - Designer,Junglee Games,Bangalore,Founded in 2012,200 - 500 employees,"Function: Technical Management → Engineering Management, Graphic Design / Animation, UX / Visual Design","UX Design
+Graphic Design
+Illustrator
+UiPath
+Adobe Creative Cloud","Arjun Adlakha
+Business Manager
+at Apolis India",10-15 Years,4.3,3.9,4.4,4.3,4.3,4.3,4.3
+465,Java Technical Lead,Paytm Payments Bank,"Noida, Work From Home",Founded in 2017,500 - 1000 employees,Function: Software Engineering → Backend Development,"Java
+Hibernate
+J2EE
+Spring","Saurabh Gupta
+Talent Acquisition
+at Paytm Payments Bank",6-10 Years,3.7,3.4,3.5,3.4,3.8,3.6,3.7
+466,Software Engineer,Priceline,Mumbai,Founded in 1998,500 - 1000 employees,Function: Software Engineering → Full-Stack Development,"Java
+JavaScript
+Angular
+J2EE
+Node.js
+React.js
+Spring","Sanober Shaikh
+Recruiter
+at Priceline",3-7 Years,4.2,4.2,4.1,4.5,4,4.4,4
+467,Compliance / IT Audit Consultant,SmartCoin,Bangalore,Founded in 2016,50 - 200 employees,Function: IT Operations and Support → IT Security,"ISO 27001
+Information Security
+IT Compliance
+Information Technology Audit
+PCI DSS","Shubham
+Head of Business
+at NextHire Consulting",1-4 Years,4.4,4.3,4.2,4.3,4.4,4.3,4.4
+468,Senior Frontend Developer,Swimlane,Hyderabad,Founded in 2014,200 - 500 employees,Function: Software Engineering → Frontend Development,"JavaScript
+React.js
+Angular
+CSS
+HTML","Shrishti Singh
+Associate Manager - Talent Acquisition
+at Zyoin",4-8 Years,,,,,,,
+469,Senior Software Developer / Full Stack Developer,Tailorbird,Work From Home,Founded in 2020,10 - 50 employees,"Function: Software Engineering → Backend Development, Full-Stack Development","Node.js
+React.js
+MongoDB
+TypeScript
+AWS","Smita Satapathy
+Senior Recruiter
+at SproutsAI",4-9 Years,4,,,,,,
+470,Python Developer [T500 - 6672,ANSR,Bangalore,Founded in 2003,50 - 200 employees,Function: Software Engineering → Backend Development,"Python
+Django","Omkar Sonawane
+Growth Executive
+at Talent500",1-4 Years,3.9,3.5,3.5,3.6,3.9,3.9,4
+471,SDE 2,Hiver,Bangalore,Founded in 2011,50 - 200 employees,Function: IT Operations and Support → DevOps / Cloud,"AWS
+DevOps
+Jenkins
+Ansible
+Docker","Sagar Mangtani
+Associate Consultant
+at Wenger & Watson",2-5 Years,4.6,4.4,4.3,4.6,4.5,4.6,4.7
+472,Software Engineer,Juntrax Solutions,Bangalore,Founded in 2016,0 - 10 employees,Function: Data Science and Analysis → Data Analysis / Business Intelligence,"Microsoft Excel
+SQL
+Tableau","Aafrin Sultanak
+HR
+at Juntrax Solutions",3-6 Years,3.9,3.5,3.5,4,3.6,3.1,3.9
+473,Engineering Manager - Front End,Kuvera,Bangalore,Founded in 2016,10 - 50 employees,Function: Technical Management → Engineering Management,"Android
+iOS
+JavaScript
+Node.js
+React.js
+Vue.js","Richa Mishra
+Manager HR
+at Kuvera",4-6 Years,3.2,2.8,3.5,3.1,3.1,2.7,3.2
+474,Senior Product Manager,Niro,Bangalore,Founded in 2021,10 - 50 employees,"Function: Technical Management → Product Management, UX / Visual Design","Product Management
+Product Lifecycle Management
+Customer Interaction
+Loans
+Consumer Software","Sibi K
+Recruiter
+at Billow People Services",6-10 Years,4.9,4.7,4.7,4.9,4.8,4.7,5
+475,NOC Engineer [T500 - 6866,Owens & Minor,Work From Home,Founded in 1882,More than 1000 employees,Function: IT Operations and Support → IT Management / IT Support,Dynatrace,"Omkar Sonawane
+Growth Executive
+at Talent500",2-5 Years,,,,,,,
+476,Service Desk Associate [T500 - 6897,Owens & Minor,Pune,Founded in 1882,More than 1000 employees,Function: IT Operations and Support → IT Management / IT Support,ServiceNow,"Omkar Sonawane
+Growth Executive
+at Talent500",1-5 Years,,,,,,,
+477,SDE 2 Frontend,Proxgy,Bangalore,Founded in 2020,10 - 50 employees,Function: Software Engineering → Frontend Development,React.js,"Gunjan Anand
+Client Manager
+at Grassik Search",3-5 Years,,,,,,,
+478,Software Engineer - React Native,Savage,Bangalore,Founded in 2021,10 - 50 employees,Function: Software Engineering → Mobile Development,"React Native
+iOS
+Android","Rayal Rajan
+Talent Acquisition Partner
+at Qrata",3-6 Years,4,3.4,3.8,3.8,3.8,3.8,4.1
+479,QA Engineer,Verizon Communications,Chennai,Founded in 1983,More than 1000 employees,Function: Software Engineering → QA / SDET,"Mobile Apps Testing
+Selenium
+iOS
+Appium
+Android","Gopikrishnan Kg
+Associate Consultant
+at Wenger & Watson",4-7 Years,3.8,3.5,4.1,3.7,3.7,4.1,3.6
+480,Backend Developer - CRM,DevRev,Chennai,Founded in 2020,10 - 50 employees,"Function: Software Engineering → Backend Development, Customer Service","SQL
+Java
+API Testing
+CRM
+Node.js","Anupama
+IT Recruiter
+at Pylon Management Consulting",3-8 Years,5,4.4,4.8,5,5,4.7,5
+481,Sr. Java Developer,Flatworld Solutions,Bangalore,Founded in 2002,More than 1000 employees,Function: Software Engineering → Full-Stack Development,"Java
+Python
+SQL","Navya C M
+IT recruiter
+at One Degree North",8-12 Years,3.9,3.8,3.2,3.6,3.6,3.5,3.8
+482,Financial Planning Manager,HDFC Life,Bangalore,Founded in 2000,More than 1000 employees,Function: Sales and Business → Sales / Business Development,"BFSI
+Direct Sales","Jayasuma M
+Senior Talent Acquisition
+at I Learn Future",1-3 Years,,,,,,,
+483,Tech Lead,Kickdrum,Bangalore,Founded in 2012,10 - 50 employees,Function: Software Engineering → Full-Stack Development,".NET
+Angular
+Data Structures
+Algorithms
+AWS","Rituparna Borah
+Associate - Talent Acquisition
+at Success Pact",9-14 Years,4,3.8,4.1,4.3,4.1,4.1,3.9
+484,Java Test Automation Engineer,MOBtexting,Bangalore,Founded in 2012,50 - 200 employees,Function: Software Engineering → QA / SDET,"Java
+Automation Testing
+Performance Testing
+UI Testing
+API Testing","Shelly Biswas
+Talent Acquisition - Manager
+at Zyoin",3-5 Years,4.1,3.8,3.2,3.5,3.8,3.9,3.8
+485,Service Desk Associate [T500 - 6890,Owens & Minor,Pune,Founded in 1882,More than 1000 employees,Function: IT Operations and Support → IT Management / IT Support,ServiceNow,"Omkar Sonawane
+Growth Executive
+at Talent500",1-3 Years,,,,,,,
+486,Service Desk Associate [T500 - 6892,Owens & Minor,Pune,Founded in 1882,More than 1000 employees,Function: IT Operations and Support → IT Management / IT Support,ServiceNow,"Omkar Sonawane
+Growth Executive
+at Talent500",1-5 Years,,,,,,,
+487,Service Desk Associate [T500 - 6895,Owens & Minor,Pune,Founded in 1882,More than 1000 employees,Function: IT Operations and Support → IT Management / IT Support,ServiceNow,"Omkar Sonawane
+Growth Executive
+at Talent500",1-5 Years,,,,,,,
+488,SDE - 2 - Frontend Engineer,Proxgy,Bangalore,Founded in 2020,10 - 50 employees,Function: Software Engineering → Frontend Development,"React.js
+JavaScript","Nupur Rajpal
+Client Manager
+at Grassik Search",3-7 Years,,,,,,,
+489,Senior Software Engineer,Wayfair,Bangalore,Founded in 2002,More than 1000 employees,Function: Software Engineering → Backend Development,"Java
+Hibernate
+J2EE
+Spring","Reno Mathew
+Senior Recruiter
+at Wayfair",6-10 Years,3.3,3.3,3.3,3.3,3.2,3.6,2.6
+490,Java Developer,Ashok Leyland,Gurgaon,Founded in 1948,More than 1000 employees,"Function: Software Engineering → Backend Development, Frontend Development, Other Software Development","Java
+Spring Boot
+Hibernate
+JavaScript","Sweta Barman
+Talent Acquisition Specialist
+at Karya Consultants",4-6 Years,4.1,3.8,3.7,3.7,3.9,3.7,4.3
+491,Azure Data Engineer,Bipp,Bangalore,Founded in 2017,10 - 50 employees,Function: Software Engineering → Big Data / DWH / ETL,"Azure
+Python
+Databricks
+Azure Data Factory
+Azure Synapse","Sonica Singh
+Recruiter
+at Maynor Consulting",4-9 Years,4,4.5,4,3.7,4,3.7,3.6
+492,GCP Data Engineer,Bluecore,Bangalore,Founded in 2013,50 - 200 employees,Function: Design and Creative → Other Design,"Google Cloud
+SQL
+Python
+BigQuery
+Hadoop","Akshatha Hydri
+Associate Talent Specialist
+at Karya Consultants",5-10 Years,4.1,4.1,4.1,4.1,4,4.1,3.5
+493,Java Technical Lead,eG Innovations,Chennai,Founded in 2001,50 - 200 employees,Function: Software Engineering → Frontend Development,"Java
+J2EE
+JavaScript
+HTML
+CSS","Neela Megan
+Co-Founder
+at Softone HR Solutions",8-12 Years,3.6,3.6,2.9,2.9,3,2.9,4
+494,Tech Lead,Kickdrum,Bangalore,Founded in 2012,10 - 50 employees,Function: Software Engineering → Full-Stack Development,"Java
+Angular
+Data Structures
+Algorithms
+JavaScript","Rituparna Borah
+Associate - Talent Acquisition
+at Success Pact",9-14 Years,4,3.8,4.1,4.3,4.1,4.1,3.9
+495,Scala Developer,Mantra Labs,Bangalore,Founded in 2009,50 - 200 employees,"Function: IT Operations and Support → Database Admin / Development, IT Management / IT Support, Other Software Development","Java
+Scala
+Software Installation
+Spring
+SQL","Rishita Banerjee
+Business Development Executive
+at Xperteez Technology",3-8 Years,3.9,3.7,3.6,3.8,4,3.9,4
+496,Service Desk Associate [T500 - 6887,Owens & Minor,Pune,Founded in 1882,More than 1000 employees,Function: IT Operations and Support → IT Management / IT Support,ServiceNow,"Omkar Sonawane
+Growth Executive
+at Talent500",1-5 Years,,,,,,,
+497,Service Desk Associate [T500 - 6888,Owens & Minor,Pune,Founded in 1882,More than 1000 employees,Function: IT Operations and Support → IT Management / IT Support,ServiceNow,"Omkar Sonawane
+Growth Executive
+at Talent500",1-5 Years,,,,,,,
+498,DevOps Engineer,Viacom18,Bangalore,Founded in 2007,More than 1000 employees,Function: IT Operations and Support → DevOps / Cloud,"DevOps
+CI - CD
+Kubernetes","Mansi Saxena
+Assistant Researcher
+at New Era Consultancy",7-12 Years,3.8,3.6,3.3,3.7,3.5,3.7,3.3
+499,Flutter Developer,Y Media Labs,Bangalore,Founded in 2009,200 - 500 employees,Function: Software Engineering → Mobile Development,"Flutter
+Android
+iOS","Revanth K
+Technical Recruiter
+at Wenger & Watson",8-12 Years,4,3.7,3.9,3.9,3.9,4.1,3.8

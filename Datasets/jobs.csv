@@ -1,0 +1,497 @@
+,job_id,company_name,designation,industry,experience_req
+0,J1,Google,Business Systems Analyst,Data Science and Analysis,5-9 Years
+1,J2,Hugosave,Technical Writer,IT Operations and Support,7-10 Years
+2,J3,LTIMindtree,AEM Developer,Software Engineering,3-6 Years
+3,J4,LTIMindtree,Big Data - Java Spark Developer,Software Engineering,5-6 Years
+4,J5,LTIMindtree,Informatica IICS Developer,Software Engineering,5-6 Years
+5,J6,LTIMindtree,Oracle - UFT Testing,Software Engineering,3-5 Years
+6,J7,LTIMindtree,PL / SQL Developer,IT Operations and Support,5-6 Years
+7,J8,LTIMindtree,Snowflake Developer,Software Engineering,5-6 Years
+8,J9,Park+,Key Account Manager,Sales and Business,Fresher
+9,J10,Park+,Sales Executive,Sales and Business,1-3 Years
+10,J11,Ivy Homes,Sales / Senior Sales Associate,Sales and Business,1-5 Years
+11,J12,LTIMindtree,.NET Azure Fullstack Developer,Software Engineering,3-6 Years
+12,J13,LTIMindtree,Automation Testing,Software Engineering,5-6 Years
+13,J14,LTIMindtree,Azure Databricks Developer,Software Engineering,5-6 Years
+14,J15,LTIMindtree,Azure DevOps,IT Operations and Support,4-6 Years
+15,J16,LTIMindtree,GCP Developer,Software Engineering,5-6 Years
+16,J17,LTIMindtree,React.js Developer,Software Engineering,3-6 Years
+17,J18,Treebo,Regional Supply Head,Sales and Business,5-8 Years
+18,J19,Treebo,"Territory Sales Manager (Gujarat, Chandigarh, Indore)",Sales and Business,2-6 Years
+19,J20,Treebo,"Territory Sales Manager (Jamshedpur, Kolkata, Ranchi)",Sales and Business,2-6 Years
+20,J21,Applied Materials,Software Technologist,Software Engineering,3-7 Years
+21,J22,Dunzo,Associate Sales (Mumbai),Sales and Business,1-2 Years
+22,J23,Dunzo,Enterprise - Sales Manager,Sales and Business,2-4 Years
+23,J24,Google,Senior Software Engineer - Full Stack,Software Engineering,6-10 Years
+24,J25,MediBuddy,Associate / Sr. Associate - Inside Sales,Sales and Business,1-5 Years
+25,J26,O4S,Associate - Sales Representative / Inside Sales,Sales and Business,1-5 Years
+26,J27,Refyne,Senior Content Marketer - B2C,Marketing,4-7 Years
+27,J28,Richpanel,Product Support Engineer / Customer Support,Sales and Business,3-7 Years
+28,J29,Treebo,"Territory Sales Manager (Bangalore, Gurgaon, Mumbai)",Sales and Business,2-6 Years
+29,J30,Truminds Software Systems,Senior Full - Stack Developer,Software Engineering,4-6 Years
+30,J31,Applied Materials,C / C++ Development,Software Engineering,4-8 Years
+31,J32,Google,Senior Software Engineer,Software Engineering,7-11 Years
+32,J33,Google,Senior Software Engineer - Big Data,Software Engineering,6-10 Years
+33,J34,Google,Senior Software Engineer - Database,IT Operations and Support,6-10 Years
+34,J35,Google,Senior Software Engineer - Networking,Software Engineering,6-10 Years
+35,J36,Jalan Technologies,SEO Specialist,Marketing,2-5 Years
+36,J37,Jalan Technologies,Social Media Marketer,Marketing,2-5 Years
+37,J38,RingCentral,Manager - Accounting,Operations,10-14 Years
+38,J39,Zoomcar,Content Writer,Marketing,3-6 Years
+39,J40,Zoomcar,Deputy Manager - Performance Marketing,Marketing,2-6 Years
+40,J41,Head Digital Works,Software Development Engineer,Software Engineering,4-8 Years
+41,J42,Jalan Technologies,TA Specialist,Human Resources,2-4 Years
+42,J43,Refyne,Customer Support Executive - KYC Specialist,Sales and Business,Fresher
+43,J44,RingCentral,Anaplan Analyst / Manager,Operations,4-8 Years
+44,J45,ShopSe,Product Manager - Digital Lending,Technical Management,4-7 Years
+45,J46,Univariety,Assistant Manager - B2C Inside Sales,Sales and Business,1-5 Years
+46,J47,Univariety,Key Account Manager / Senior Key Account Manager,Sales and Business,4-8 Years
+47,J48,Univariety,Manager - Institutional / B2B Sales,Sales and Business,2-6 Years
+48,J49,Whatfix,Enterprise Sales Outbound,Sales and Business,6-10 Years
+49,J50,Whatfix,"Manager / Senior Manager / AD, Strategic Accounts",Sales and Business,6-10 Years
+50,J51,Cargill,Sales Executive - Modern Trade,Sales and Business,3-7 Years
+51,J52,Crayon Data,Engineering Manager,Technical Management,9-12 Years
+52,J53,EagleView,Senior Financial Accountant,Operations,3-6 Years
+53,J54,GoKwik,Event Manager,Marketing,5-9 Years
+54,J55,GoKwik,Finance Manager,Operations,5-9 Years
+55,J56,GoKwik,Senior Sales Manager,Sales and Business,5-9 Years
+56,J57,HDFC Life,ASW Cloud Security Manager,IT Operations and Support,5-6 Years
+57,J58,Jupiter,Business Development (Lending),Sales and Business,4-6 Years
+58,J59,Thence,Business Development Associate,Sales and Business,3-7 Years
+59,J60,Thence,Business Development Associate (US Shift),Sales and Business,3-7 Years
+60,J61,Cargill,Sales Executive - General Trade,Sales and Business,3-7 Years
+61,J62,Cargill,Sales Executive - General Trade,Sales and Business,3-7 Years
+62,J63,Cargill,Sales Executive - General Trade,Sales and Business,3-7 Years
+63,J64,HDFC Life,Business Analyst,Data Science and Analysis,3-6 Years
+64,J65,Tranzact,Customer Success Manager,Sales and Business,2-5 Years
+65,J66,upGrad,Admission Counsellor Study Abroad,Sales and Business,1-4 Years
+66,J67,upGrad,Key Account Manager,Sales and Business,2-3 Years
+67,J68,Zenda,Office Operations,Human Resources,2-5 Years
+68,J69,Zenda,Territory Sales Manager,Sales and Business,3-7 Years
+69,J70,Zenda,Territory Sales Manager,Sales and Business,3-7 Years
+70,J71,BillDesk,Backend Architect,Software Engineering,10-15 Years
+71,J72,Evolving Systems,Senior Java Developer,Software Engineering,10-15 Years
+72,J73,OneCode.in,Training Manager,Design and Creative,6-10 Years
+73,J74,Quotient Technology,SDE II Frontend,Software Engineering,3-5 Years
+74,J75,Quotient Technology,SSE - Frontend,Software Engineering,5-9 Years
+75,J76,Quotient Technology,SSE Backend,Software Engineering,5-10 Years
+76,J77,Tranzact,Business Development Executives,Sales and Business,2-4 Years
+77,J78,Tranzact,Customer Delight,Sales and Business,2-5 Years
+78,J79,Twenty Point Nine Five Ventures,Software Development Engineer (Backend),Software Engineering,2-5 Years
+79,J80,Twenty Point Nine Five Ventures,Software Development Engineer - Frontend,Software Engineering,2-5 Years
+80,J81,Art Attack Animation,Business Development Manager,Design and Creative,3-8 Years
+81,J82,BillDesk,Engineering Manager,Software Engineering,10-15 Years
+82,J83,CashFlo,Software Engineering - Backend,Software Engineering,4-7 Years
+83,J84,GlobalLogic,.NET Developer,Software Engineering,8-12 Years
+84,J85,GlobalLogic,.NET Full Stack Lead / Architect,Software Engineering,8-12 Years
+85,J86,Lenskart.com,iOS Developer,Software Engineering,5-9 Years
+86,J87,Paytm,PPM / Director - Product Management,Technical Management,7-12 Years
+87,J88,SLK,ENOVIA Developer,Software Engineering,2-4 Years
+88,J89,Stable Money,SDE 3,Software Engineering,6-10 Years
+89,J90,Suraasa,International Voice Process,Sales and Business,1-2 Years
+90,J91,DeNovo Systems,Backend Developer,Software Engineering,3-5 Years
+91,J92,Eight Network,Android Developer,Software Engineering,2-4 Years
+92,J93,Hewlett Packard Enterprise (HPE),Program Manager - Data Management,Technical Management,12-15 Years
+93,J94,InBetween,Senior Software Developer - C++,Software Engineering,3-7 Years
+94,J95,Intellect Design Arena,Data Scientists,Data Science and Analysis,3-7 Years
+95,J96,Intellect Design Arena,UI Developer,Software Engineering,3-6 Years
+96,J97,OrangeMantra,Data Engineer,Data Science and Analysis,2-5 Years
+97,J98,Paytm,VP Product - Credit Card,Technical Management,10-15 Years
+98,J99,Verizon Communications,Hadoop Administrator,IT Operations and Support,2-7 Years
+99,J100,Yangpoo Executive Education,Career Counsellor,Sales and Business,Fresher
+100,J101,Advanced Business and Healthcare India,Principal Software Engineer,Software Engineering,9-14 Years
+101,J102,Arintra,DevOps Engineer,IT Operations and Support,5-8 Years
+102,J103,Baygrape Technology Solutions,.NET Core Developer,Software Engineering,4-9 Years
+103,J104,GlobalLogic,SRE - TKG,Technical Management,3-8 Years
+104,J105,InBetween,Tech Lead - C++,Software Engineering,5-10 Years
+105,J106,Mashreq Bank,Data Scientist,Data Science and Analysis,5-9 Years
+106,J107,Mensa Brands,Regional Sales Manager,Sales and Business,8-13 Years
+107,J108,Swimlane,Lead Developer,Software Engineering,8-12 Years
+108,J109,Swimlane,SSE,Software Engineering,4-8 Years
+109,J110,Zepto,SSE / FE,Software Engineering,2-7 Years
+110,J111,ARi,UI Developer,Software Engineering,4-6 Years
+111,J112,Asentech,Wordpress Developer - Lead,Software Engineering,8-12 Years
+112,J113,Donyati,SAP FICO + Tax Consultant,Software Engineering,8-13 Years
+113,J114,ElectricPe,Product Manager,Technical Management,5-10 Years
+114,J115,Loop Kitchen,Backend Engineer,Software Engineering,1-2 Years
+115,J116,Mensa Brands,Backend Developer - Java,Software Engineering,2-5 Years
+116,J117,Swimlane,Python Developer,Software Engineering,4-8 Years
+117,J118,Swimlane,Senior Data Scientist,Data Science and Analysis,10-12 Years
+118,J119,Verizon Communications,Machine Learning Engineer,Data Science and Analysis,3-5 Years
+119,J120,WeRize,Data Analyst,Data Science and Analysis,1-4 Years
+120,J121,ADOS Interiors,Sales Executive / Senior Sales Executive,Sales and Business,1-4 Years
+121,J122,ADOS Interiors,Senior Sales Executive / Sales Manager,Sales and Business,3-8 Years
+122,J123,AHAsolar,.NET Developer,Software Engineering,2-5 Years
+123,J124,Allen Career Institute,Staff Software Engineer,Software Engineering,8-13 Years
+124,J125,Asentech,Dot .NET Developer,Software Engineering,5-7 Years
+125,J126,Asentech,SEO Specialist,Marketing,4-5 Years
+126,J127,IDP Education,Education Counsellor - B2C Sales,Sales and Business,3-8 Years
+127,J128,Quince,Principal Product Manager,Technical Management,12-15 Years
+128,J129,Volvo Martial Motors,Accounts Executive,Operations,3-8 Years
+129,J130,Volvo Martial Motors,Sales Consultant,Marketing,3-6 Years
+130,J131,7-Eleven,Staff Engineer - Java Full Stack,Software Engineering,12-17 Years
+131,J132,Bidgely,Senior Data Scientist,Data Science and Analysis,2-6 Years
+132,J133,Bidgely,Senior Data Scientist,Data Science and Analysis,2-7 Years
+133,J134,Certa,QA Engineer,Software Engineering,3-5 Years
+134,J135,Emporiom Digital,Senior Visualizer,Design and Creative,2-7 Years
+135,J136,Lumen Technologies,Salesforce Developer,Software Engineering,4-9 Years
+136,J137,Mystifly,Lead Data Engineer,Software Engineering,5-10 Years
+137,J138,NeoSOFT Technologies,Senior Java Developer,Software Engineering,3-8 Years
+138,J139,Sundial,DevOps Cloud Engineer,IT Operations and Support,1-6 Years
+139,J140,Sundial,DevOps Cloud Engineer,IT Operations and Support,6-11 Years
+140,J141,Deloitte,.NET Developer,Software Engineering,3-8 Years
+141,J142,DeNovo Systems,Java Developer,Software Engineering,3-5 Years
+142,J143,Gumlet,Customer Integration Engineer,Sales and Business,1-4 Years
+143,J144,Hewlett Packard Enterprise (HPE),Sales Specialist,Sales and Business,8-13 Years
+144,J145,Hub,Tech Lead Engineer,Software Engineering,10-15 Years
+145,J146,MediBuddy,Software Developer,Software Engineering,5-7 Years
+146,J147,PACE Group Of Companies,Senior Digital Marketing Manager / Head of Marketing,Marketing,5-10 Years
+147,J148,Scaler Academy,Admission Counsellor,Sales and Business,2-4 Years
+148,J149,TrekNomads,Business Development Executive,Sales and Business,1-4 Years
+149,J150,Zepto,Senior Software Engineer - Frontend,Software Engineering,5-7 Years
+150,J151,Certa,Test Engineer,Software Engineering,3-5 Years
+151,J152,Deloitte,Java Angular Developer,Software Engineering,4-9 Years
+152,J153,Neuralgo,Full Stack Developer,Software Engineering,5-8 Years
+153,J154,Neuralgo,Senior ML Architect,Data Science and Analysis,10-14 Years
+154,J155,Playtoome,Software Engineer 2,Software Engineering,3-8 Years
+155,J156,PrivateCircle,SDE - 1 Frontend,Software Engineering,1-2 Years
+156,J157,Verizon Communications,Full Stack Developer,Software Engineering,4-7 Years
+157,J158,Zepto,Frontend Developer (React Native),Software Engineering,2-5 Years
+158,J159,Zepto,Senior Software Engineer,Software Engineering,4-7 Years
+159,J160,Zepto,Software Engineer - Frontend,Software Engineering,2-5 Years
+160,J161,3 Minds Digital,Oracle Fusion HCM Technical / Functional Consultant,IT Operations and Support,6-11 Years
+161,J162,Allen Career Institute,Software Engineer,Software Engineering,5-8 Years
+162,J163,Apexon,Power BI MSBI SQL Developer,Software Engineering,1-3 Years
+163,J164,Barco,Senior Software Engineer,Software Engineering,9-13 Years
+164,J165,BetterPlace,SDE 3,Software Engineering,4-8 Years
+165,J166,Bizongo,Sales Specialist,Sales and Business,3-8 Years
+166,J167,Deloitte,ServiceNow Developer,Software Engineering,5-10 Years
+167,J168,UnionSys Technologies,Functional Consultant,Software Engineering,5-10 Years
+168,J169,Viacom18,Android Architect,Software Engineering,8-13 Years
+169,J170,Viacom18,iOS Architect,Software Engineering,8-13 Years
+170,J171,Altimetrik,Data Engineer,Software Engineering,5-10 Years
+171,J172,Altimetrik,Secops Manager,Software Engineering,5-8 Years
+172,J173,Apexon,Full Stack Developer,Software Engineering,3-7 Years
+173,J174,CashFlo,"Backend, Node.js Python Developer",Software Engineering,3-6 Years
+174,J175,CashFlo,Senior Product Manager,Technical Management,6-8 Years
+175,J176,Hi-Tech Robotic Systemz,Team Lead - Technical,Software Engineering,10-14 Years
+176,J177,Infosys,System Engineer,IT Operations and Support,3-5 Years
+177,J178,Lumen Technologies,Salesforce Administartor,Software Engineering,5-5 Years
+178,J179,Lumen Technologies,ServiceNow Developer,Software Engineering,8-11 Years
+179,J180,Nucleus Software,Python Developer,Software Engineering,4-7 Years
+180,J181,CashFlo,Senior Product Manager,Technical Management,6-9 Years
+181,J182,Delta Air Lines,Senior Site Reliability Engineer [T500 - 6976,IT Operations and Support,4-6 Years
+182,J183,DevRev,UX Engineer,Design and Creative,3-8 Years
+183,J184,GlobalLogic,Salesforce Architect,Software Engineering,10-15 Years
+184,J185,Integral Technologies,Backend Lead / Founding Engineer,Software Engineering,5-8 Years
+185,J186,Jodo,Senior Backend Engineer,Software Engineering,3-6 Years
+186,J187,Newton School,Senior Product Manager,Technical Management,3-6 Years
+187,J188,Niro,Fullstack Develoepr - SDE2,Software Engineering,2-5 Years
+188,J189,RingCentral,Principal Engineer (C++),Software Engineering,6-10 Years
+189,J190,Uber,Android Developer,Software Engineering,2-6 Years
+190,J191,Advanced Business and Healthcare India,Principal Software Engineer,Software Engineering,9-14 Years
+191,J192,Advanced Business and Healthcare India,Principal Software Engineer - UI Architect,IT Operations and Support,10-15 Years
+192,J193,Capri Global Capital,Senior Technical Lead Engineer,Software Engineering,7-9 Years
+193,J194,Capri Global Capital,Software Engineer - Python,Software Engineering,4-9 Years
+194,J195,CloudifyOps,Cloud Engineer,IT Operations and Support,3-5 Years
+195,J196,DK Business Patron,B2B - Business Executive,Sales and Business,Fresher
+196,J197,Flatworld Solutions,Dot .NET Developer,Software Engineering,3-6 Years
+197,J198,InMobi,Data Scientist IV,Data Science and Analysis,6-9 Years
+198,J199,Paperflite,Saas Sales Account Executive,Sales and Business,2-4 Years
+199,J200,Webs Optimization Software Solution,Java Developer,Software Engineering,4-6 Years
+200,J201,CashFlo,Senior Product Manager,Technical Management,6-8 Years
+201,J202,Chargeup,Chief of Staff,Sales and Business,4-8 Years
+202,J203,Colmore,Insight Analyst,Operations,2-4 Years
+203,J204,Delta,Lead Developer - API,Software Engineering,7-11 Years
+204,J205,Mahindra Insurance Brokers,Branch Manager,Sales and Business,3-8 Years
+205,J206,Owens & Minor,Senior Cybersecurity Engineer [T500 - 6926,IT Operations and Support,7-10 Years
+206,J207,Sagarsoft,Backend Developer - Java,Software Engineering,3-5 Years
+207,J208,Swimlane,Data Scientist,Software Engineering,10-14 Years
+208,J209,Uber,Staff Software Engineer,Software Engineering,12-15 Years
+209,J210,Y Media Labs,Flutter Developer,Software Engineering,6-9 Years
+210,J211,Level AI,Site Reliability Engineer,IT Operations and Support,3-6 Years
+211,J212,Motilal Oswal Financial Services,PCG Adviser,Sales and Business,3-7 Years
+212,J213,Nab,Manager II,Operations,20-24 Years
+213,J214,Nab,Quality Engineer,Software Engineering,2-7 Years
+214,J215,Owens & Minor,.NET Developer - BizTalk [T500 - 6844,Software Engineering,5-7 Years
+215,J216,Owens & Minor,Cybersecurity Engineer - PKI [T500 - 6924,IT Operations and Support,4-6 Years
+216,J217,Owens & Minor,Senior Fullstack Developer [T500 - 6970,Software Engineering,5-8 Years
+217,J218,Predators Network,Creative Graphic Designer,Design and Creative,Fresher
+218,J219,Predators Network,Social Media Executive,Marketing,Fresher
+219,J220,VMware,Front End Developer - Angularjs,Software Engineering,6-10 Years
+220,J221,Aerchain,Software Engineer,Software Engineering,3-6 Years
+221,J222,Exxat,Account Analyst,Sales and Business,4-8 Years
+222,J223,GrapeCity,Sales Lead,Sales and Business,4-8 Years
+223,J224,Level AI,Site Reliability Engineer,IT Operations and Support,3-5 Years
+224,J225,Line,Content Writer,Marketing,2-6 Years
+225,J226,Owens & Minor,Cybersecurity Engineer [Tt500 - 6862,IT Operations and Support,4-6 Years
+226,J227,sentra.world,VP Engineering,Software Engineering,7-12 Years
+227,J228,Simplify360,Mobile Developer,Software Engineering,5-6 Years
+228,J229,Simplify360,React Mobile Developer,Software Engineering,2-3 Years
+229,J230,Teamware Solutions,Inside Sales Representative,Sales and Business,5-9 Years
+230,J231,Brandtorch,Graphic Desginer,Design and Creative,Fresher
+231,J232,CashFlo,Engineering Manager - Node.js & Python,Software Engineering,8-12 Years
+232,J233,CashFlo,Senior Product Manager (Payment),Technical Management,5-10 Years
+233,J234,CashFlo,Senior Product Manager - Credit & Lending,Technical Management,6-10 Years
+234,J235,CashFlo,Senior Product Manager - Fintech,Technical Management,5-9 Years
+235,J236,DAZN,Data Analyst,Data Science and Analysis,5-10 Years
+236,J237,Flatworld Solutions,Dotnet Developer,Software Engineering,2-7 Years
+237,J238,SNVA Ventures,Sales Consultant,Sales and Business,1-5 Years
+238,J239,Spendflo,Senior Backend Engineer,Software Engineering,5-8 Years
+239,J240,The Famous,PHP Developer,Software Engineering,3-5 Years
+240,J241,3M,Senior Financial Business Analyst [T500 - 6951,Operations,5-9 Years
+241,J242,3M,Senior Financial Business Analyst [T500 - 6956,Operations,5-9 Years
+242,J243,Aavenir,QA Engineer,Software Engineering,2-4 Years
+243,J244,Angel One,Data Scientist,Data Science and Analysis,2-7 Years
+244,J245,Apps10X,Android Developer,Software Engineering,3-5 Years
+245,J246,LeadSquared,Engineering Manager,Software Engineering,7-12 Years
+246,J247,One Muthoot,Frontend SDE4,Software Engineering,6-10 Years
+247,J248,OYO Rooms,Product Manager - II,Technical Management,2-5 Years
+248,J249,PhonePe,DBA - Site Reliability Engineer,IT Operations and Support,4-8 Years
+249,J250,TechStar Group,Java Fullstack Developer,Software Engineering,6-8 Years
+250,J251,3M,Senior Financial Business Analyst [T500 - 6950,Operations,5-9 Years
+251,J252,Brandtorch,Social Media Marketing Executive,Marketing,Fresher
+252,J253,Clear,Vice President of Engineering,Software Engineering,14-19 Years
+253,J254,interface.ai,Software Engineer II,Software Engineering,2-4 Years
+255,J256,MOBtexting,Senior Full Stack Developer - Java,Software Engineering,7-12 Years
+256,J257,Nab,Senior VP - Indian Operation,Operations,15-18 Years
+257,J258,Neeman's,Warehouse Manager - Retails,Sales and Business,4-9 Years
+258,J259,Nirvana Insurance,Tech Lead Manager,Software Engineering,6-10 Years
+259,J260,OnGrid,Product Marketing Specialist,Technical Management,3-4 Years
+260,J261,BYJU'S,Full Stack Developer,Software Engineering,3-5 Years
+261,J262,Carelon,Full Stack Developer - Java,Software Engineering,5-8 Years
+262,J263,Carelon Global Solutions,Full Stack Developer - Java,Software Engineering,5-8 Years
+263,J264,Citrix,Principle Software Engineer (Data Plane and AAA),Software Engineering,8-12 Years
+264,J265,Delta Air Lines,Senior Cloud Engineer,IT Operations and Support,4-8 Years
+265,J266,Google,Technical Program Manager,IT Operations and Support,10-14 Years
+266,J267,Lokal,Android Developer,Software Engineering,1-2 Years
+267,J268,Nab,Manager II - Third Party Assessments (Director),Technical Management,20-25 Years
+268,J269,Nov,Engineering Help Desk Technician,Operations,2-6 Years
+269,J270,Squared Circle E-Com,Category Manager,Technical Management,8-10 Years
+270,J271,Carelon Global Solutions,Full Stack Developers - Java,Software Engineering,4-8 Years
+271,J272,CashFlo,Senior Product Manager,Technical Management,5-10 Years
+272,J273,CashFlo,Senior Product Manager,Technical Management,5-10 Years
+273,J274,CubeHQ,Frontend Developer,Software Engineering,1-3 Years
+274,J275,GetVantage,Full Stack Developer - MEAN,Software Engineering,4-8 Years
+275,J276,Google,Program Manager,IT Operations and Support,10-14 Years
+276,J277,GyanDhan,Relationship Manager,Sales and Business,1-4 Years
+277,J278,Hy-Vee,Product Owner - Retail Apps,Technical Management,8-12 Years
+278,J279,Leena AI,Quality Assurance Engineer,Software Engineering,3-5 Years
+279,J280,VMware,Senior / Member of Technical Staff,Software Engineering,5-9 Years
+280,J281,Angel One,Staff - Backend Developer,Software Engineering,9-14 Years
+281,J282,BYJU'S,Senior Software Engineer,Software Engineering,3-6 Years
+282,J283,Freeskout,Business Development Associate,Marketing,Fresher
+283,J284,ImSafeNow,Hyperion Developer,Software Engineering,6-11 Years
+284,J285,Reliance Jio,Project Lead / Test Engineer,Software Engineering,5-9 Years
+285,J286,Reliance Jio,Quality Assurance Engineer,Software Engineering,6-11 Years
+286,J287,Rubrik,Technical Product Manager (Database Architect),IT Operations and Support,13-17 Years
+287,J288,Rubrik,"Technical Product Manager, (Cloud Engineer)",IT Operations and Support,7-11 Years
+289,J290,SDLC Corp,Business Development Executive,Sales and Business,Fresher
+290,J291,Angel One,Frontend Engineet - SDE1 / SDE2,Software Engineering,1-5 Years
+291,J292,CloudBloom,Software Developer,Software Engineering,2-6 Years
+292,J293,Delta,Senior DevOps Engineer,IT Operations and Support,3-6 Years
+293,J294,Gameberry Labs,UI Artist,Design and Creative,4-9 Years
+294,J295,Google,Product Manager,Technical Management,5-9 Years
+295,J296,Google,Product Manager - Cloud,Technical Management,5-9 Years
+296,J297,Meeraq,Digital Marketing Executive,Marketing,3-7 Years
+297,J298,My Value Trip,"Marketing Head (Trip, Digital Marketing)",Marketing,5-10 Years
+298,J299,Nightfall,Front End Engineer,Software Engineering,4-8 Years
+299,J300,Quantum,Software Technical Support Engineer,IT Operations and Support,5-6 Years
+300,J301,Asentech,SEO Consultant,Marketing,5-8 Years
+301,J302,BlackLight Studio Works,Senior Node.js Developer,Software Engineering,5-6 Years
+302,J303,Brilliance,Assistant Brand Manager,Marketing,2-7 Years
+303,J304,Hectar India Trading,Head of Engineering,Technical Management,3-6 Years
+304,J305,Infosys,Full Stack Developer,Software Engineering,5-8 Years
+305,J306,Infosys BPM,Full Stack Java Developer,Software Engineering,4-9 Years
+306,J307,Mensa Brands,Data Analyst,Data Science and Analysis,3-7 Years
+307,J308,Nab,Senior Consultant I - Engineer,IT Operations and Support,7-12 Years
+308,J309,Nirvana Insurance,Data Scientist,Data Science and Analysis,3-6 Years
+309,J310,VapprTech,React.js Developer,Software Engineering,4-5 Years
+310,J311,Apollo.io,Backend Engineer,Software Engineering,1-2 Years
+311,J312,AXISCADES,Process Simulation Engineer,Technical Management,4-8 Years
+312,J313,Dunzo,Product Manager,Technical Management,4-8 Years
+313,J314,Dunzo,QA Engineer,Software Engineering,Fresher
+314,J315,Dunzo,SDE,Software Engineering,Fresher
+315,J316,Flatworld Solutions,.NET Developer,Software Engineering,3-7 Years
+316,J317,Indium Software,Senior Manager - Data Modeller,Software Engineering,12-16 Years
+317,J318,OrangeMantra,React.js / Angular JS Developer,Software Engineering,5-8 Years
+318,J319,Quotient Technology,Data Engineer,Software Engineering,2-4 Years
+319,J320,The Famous,Senior Software Developer,Software Engineering,5-10 Years
+320,J321,Certa,Backend Developer - SSE,Software Engineering,2-6 Years
+321,J322,Flatworld Solutions,.NET Developer,Software Engineering,3-5 Years
+322,J323,Infosys,Backend Java Developer,Software Engineering,3-5 Years
+323,J324,Invansys Technologies,React.js Developer,Software Engineering,3-5 Years
+324,J325,KSBM Infotech,Business Development Executive,Sales and Business,1-5 Years
+325,J326,Paytm,Risk Analyst,Data Science and Analysis,1-5 Years
+326,J327,Teamware Solutions,Technical Support Excutive,IT Operations and Support,1-5 Years
+327,J328,Tessell,Business Development Representative / Executive,Sales and Business,4-9 Years
+328,J329,Viacom18,Release Engineer,IT Operations and Support,5-10 Years
+329,J330,Viacom18,Security Engineer,IT Operations and Support,8-13 Years
+330,J331,Capri Global Capital,SE / SSE / Tech Lead,Software Engineering,3-8 Years
+331,J332,Cerence,Product Manager,IT Operations and Support,5-10 Years
+332,J333,Datacultr,Customer Support Associate,Sales and Business,Fresher
+333,J334,Emids Technologies,SFDC - Technical Lead,Software Engineering,7-12 Years
+334,J335,Freshworks,SD3 / Principal Engineer,Software Engineering,6-11 Years
+335,J336,GoalTeller,Frontend Developer,Software Engineering,4-7 Years
+336,J337,HCL Technologies,Angular 2 Developer,Software Engineering,5-10 Years
+337,J338,HCL Technologies,JavaScript Developer,Software Engineering,5-10 Years
+338,J339,Ixly Technologies,Java Developer,Software Engineering,5-6 Years
+339,J340,OpenText,Sr. Software Engineer,Software Engineering,5-8 Years
+340,J341,3Frames Lab,Functional Architect,Technical Management,6-10 Years
+341,J342,BluSapphire Cyber Systems,Senior Python Developer,Software Engineering,4-9 Years
+342,J343,Bradsol,Senior Salesforce Developer,IT Operations and Support,7-12 Years
+343,J344,Delta Air Lines,Senior Developer Java [T500 - 6965,Software Engineering,4-6 Years
+344,J345,EMotorad,Inside Sales Associate,Sales and Business,1-6 Years
+345,J346,Khabri Audio Platform,Account Manager,Operations,6-8 Years
+346,J347,Kognitos,UI Developer,Software Engineering,4-8 Years
+347,J348,Motherson Sumi Systems,Java Developer,Software Engineering,3-5 Years
+348,J349,Motherson Sumi Systems,Java Fullstack,Software Engineering,3-5 Years
+349,J350,MUFG,Enterprise Data Services Delivery Lead [T500 - 6604,Software Engineering,11-16 Years
+350,J351,ANSR,Quality Engineer,Software Engineering,2-7 Years
+351,J352,Arthmate,Technical Support Engineer,IT Operations and Support,3-7 Years
+352,J353,Capri Global Capital,SDE1,Software Engineering,2-5 Years
+353,J354,Certa,Data Engineer,Software Engineering,2-6 Years
+354,J355,Druva,Technical Director - Developer Experience,Software Engineering,15-19 Years
+355,J356,GyanDhan,Business Development Associate,Sales and Business,1-4 Years
+356,J357,Hiver,DevOps - SDE 2,IT Operations and Support,3-4 Years
+357,J358,LambdaTest,Partner Marketing Manager,Marketing,4-8 Years
+358,J359,Nab,Senior Consultant - Quality Engineering,IT Operations and Support,7-11 Years
+359,J360,Ripplr,Product Manager,Technical Management,4-6 Years
+360,J361,Amazon,Data Scientist,Data Science and Analysis,2-5 Years
+361,J362,BetterPlace,Senior DevOps Engineer,IT Operations and Support,7-10 Years
+362,J363,Delta Air Lines,Delas06E - Lead Full Stack Developer,Software Engineering,7-10 Years
+363,J364,eNoah,Inside Sales Executive,Sales and Business,1-5 Years
+364,J365,GlobalLogic,Sr. Data Engineer,Software Engineering,4-8 Years
+365,J366,IBM,Sr. Maximo Developer,Software Engineering,5-10 Years
+366,J367,JMR Infotech,Full Stack Development,Software Engineering,4-9 Years
+367,J368,Keywords Studios,Trainer Game Programming,Software Engineering,5-6 Years
+368,J369,Lendingkart,Technical Program Manager,Technical Management,8-12 Years
+369,J370,Wipro,Senior Manager - Talent Acquisition,Human Resources,12-17 Years
+370,J371,Adalwin Tech / Yoola App,Senior Data Engineer,Data Science and Analysis,5-10 Years
+371,J372,BetterPlace,System Security Manager,IT Operations and Support,10-14 Years
+372,J373,KLAY Preschool and Daycare,HR Recruiter,Human Resources,1-6 Years
+373,J374,OrangeMantra,React.js Developer,Software Engineering,5-8 Years
+374,J375,PeerXP Technologies,Project Manager,Technical Management,Fresher
+375,J376,Protouch,Admission Counsellor,Sales and Business,Fresher
+376,J377,Tata Elxsi,Automotive Embedded,Software Engineering,4-9 Years
+377,J378,Tekion,Staff Frontend Developer,Software Engineering,8-12 Years
+378,J379,Varistor Technologies,Video Content Creator - Youtube Channel,Marketing,1-2 Years
+379,J380,Verizon Communications,QA - Automation Engineer,Software Engineering,3-7 Years
+380,J381,Angel One,Staff Data Engineer,Software Engineering,10-14 Years
+381,J382,BARC India,ERP Consultant,IT Operations and Support,8-10 Years
+382,J383,BARC India,ERP Consultant,IT Operations and Support,8-11 Years
+383,J384,Benzinga,Front End Developer,Software Engineering,1-5 Years
+384,J385,BetterPlace,Engineering Manager,Software Engineering,7-10 Years
+385,J386,CashKaro.com,Senior Data Manager - Ecommerce,Data Science and Analysis,7-10 Years
+386,J387,Default,Growth Marketeer,Marketing,2-6 Years
+387,J388,Default,Sales Operations Associate,Sales and Business,2-6 Years
+388,J389,Skillikz,Senior AEM Developer With Java,Software Engineering,4-6 Years
+389,J390,Uber,Lead Product Operations Manager,Technical Management,9-13 Years
+390,J391,Citi,Technical Architect,Software Engineering,12-15 Years
+391,J392,DAZN,Senior iOS Engineer,Software Engineering,5-10 Years
+392,J393,DAZN,Zendesk Specialist,IT Operations and Support,3-8 Years
+393,J394,Delta Air Lines,Lead Engineer - Information Security [T500 - 6533,IT Operations and Support,6-10 Years
+394,J395,Delta Air Lines,Senior Data Engineer [T500 - 6964,Software Engineering,3-6 Years
+395,J396,IBM,BI Developer,Data Science and Analysis,3-6 Years
+396,J397,Intelehealth,Tech Lead,Software Engineering,7-12 Years
+397,J398,NimbusPost,Business Development Manager,Sales and Business,4-8 Years
+398,J399,Pazago,HR Manager,Human Resources,2-7 Years
+399,J400,Symphony Technology Group,SharePoint Developer,Software Engineering,3-5 Years
+400,J401,1mg,Software Development Engineer 3,Software Engineering,5-9 Years
+401,J402,Blackberrys Menswear,SAP CPI Consultant,Technical Management,5-7 Years
+402,J403,Blue Yonder,Data Scientist,Data Science and Analysis,2-3 Years
+403,J404,Delta Air Lines,Senior Cyber Security Engineer [T500 - 6961,IT Operations and Support,4-7 Years
+404,J405,Gameberry Labs,Product Analyst,Data Science and Analysis,2-4 Years
+405,J406,RapidAI,Senior Engineering Manager,Software Engineering,10-15 Years
+406,J407,Suraasa,Insides Sales - Counsellor,Sales and Business,1-2 Years
+407,J408,Symphony Technology Group,Data Engineer,Software Engineering,1-3 Years
+408,J409,TO THE NEW,Character Illustrator,Design and Creative,2-6 Years
+409,J410,ZFW Dark Stores,DevOps Engineer,IT Operations and Support,2-7 Years
+410,J411,Acies,Full Stack Development,Software Engineering,1-6 Years
+411,J412,Advanced Business and Healthcare India,Principal Software Engineer,Software Engineering,9-14 Years
+413,J414,BizPilot,Backend Engineer,Software Engineering,1-3 Years
+414,J415,BrowserStack,Engineering Manager,Technical Management,5-9 Years
+415,J416,JiyoFullest,Business Development Excutive,Sales and Business,2-3 Years
+416,J417,Klimb.io,VP Engineering - Mobile App Development,Technical Management,8-13 Years
+417,J418,Klimb.io,VP Engineering - Mobile App Development,Technical Management,8-13 Years
+418,J419,Optmyzr,HR Admin,Human Resources,1-2 Years
+419,J420,Talentedge,Admission Counsellor,Sales and Business,Fresher
+420,J421,Baazi Games,Node.js Developer,Software Engineering,2-5 Years
+421,J422,Broadridge,BI Administration,IT Operations and Support,8-13 Years
+422,J423,Clear,Lead Product Manager - SAAS,Technical Management,7-11 Years
+423,J424,Docsumo,Customer Success Manager,Sales and Business,4-7 Years
+424,J425,HighLevel,Senior Software Engineer (CRM),Software Engineering,2-6 Years
+425,J426,IndiaMART InterMESH,Zonal Manager,Sales and Business,5-10 Years
+426,J427,inFeedo,Marketing - SEO,Marketing,Fresher
+427,J428,MUFG,Corporate Credit - Analyst,Operations,2-7 Years
+428,J429,UNext Learning,BDA,Sales and Business,Fresher
+429,J430,Zell Education,Business Development Executive,Sales and Business,Fresher
+430,J431,AXS Solutions,Business Development Manager,Sales and Business,3-6 Years
+431,J432,AXS Solutions,Tender Executive,Sales and Business,2-5 Years
+432,J433,Designoweb,Node.js Developer,Software Engineering,5-6 Years
+433,J434,Designoweb,React Native Developer,Software Engineering,5-6 Years
+434,J435,Goavega Software,Senior Software Engineer,Software Engineering,5-8 Years
+435,J436,Kadel Labs,React.js Developer,Software Engineering,3-6 Years
+436,J437,Owens & Minor,NOC Engineer [T500 - 6869,IT Operations and Support,2-5 Years
+437,J438,Paktolus Solutions,Business Development Lead Manager,Sales and Business,3-7 Years
+438,J439,PocketFM,Lead Product Designer,Design and Creative,6-11 Years
+439,J440,TeamLease Regtech,Team Lead - Dot .NET Developer,Software Engineering,5-10 Years
+440,J441,Aissel Technologies,Brand Specialist,Marketing,6-8 Years
+441,J442,ANSR,Principal Fullstack Engineer [T500 - 6739,Software Engineering,10-15 Years
+443,J444,ANSR,Senior Backend Developer - Python [T500 - 6738,Software Engineering,8-12 Years
+444,J445,Brisa Technologies,Cloud UI Engineer,IT Operations and Support,4-8 Years
+445,J446,Clear,Lead Product Manager - Platform,Technical Management,7-11 Years
+446,J447,Ivan Infotech,Web Consultant - Website & Mobile Application ProC,Sales and Business,Fresher
+447,J448,Nitara,Software Developer,Software Engineering,2-4 Years
+448,J449,NowFloats,Technical Product Manager,Technical Management,3-7 Years
+449,J450,sentra.world,VP Engineer,Software Engineering,10-15 Years
+450,J451,ANSR,Frontend Developer - React.js [T500 - 6730,Software Engineering,1-4 Years
+451,J452,ANSR,Principal Fullstack Engineer [T500 - 6741,Software Engineering,10-15 Years
+452,J453,ANSR,Senior Backend Developer - Python [T500 - 6737,Software Engineering,8-12 Years
+453,J454,GyanDhan,Relationship Manager,Sales and Business,1-6 Years
+454,J455,Nitara,Full Stack Developer,Software Engineering,4-6 Years
+455,J456,Potentiam,Site Reliability Engineer,IT Operations and Support,5-6 Years
+456,J457,Sopra Steria,Azure Cloud DevOps Engineer,IT Operations and Support,5-6 Years
+457,J458,Sopra Steria,Salesforce Developer,Software Engineering,4-5 Years
+458,J459,Swimlane,Backend Developer,Software Engineering,4-8 Years
+459,J460,Swimlane,Senior Software Engineer (Node.js Developer),Software Engineering,4-8 Years
+460,J461,ANSR,Python Backend Developer [T500 - 6727,Software Engineering,4-8 Years
+461,J462,ANSR,Senior Data Engineer [T500 - 6728,Software Engineering,8-13 Years
+462,J463,ANSR,Senior Quality Engineer,Software Engineering,8-13 Years
+463,J464,Hiver,Product Director,Technical Management,8-12 Years
+464,J465,Junglee Games,AVP - Designer,Technical Management,10-15 Years
+465,J466,Paytm Payments Bank,Java Technical Lead,Software Engineering,6-10 Years
+466,J467,Priceline,Software Engineer,Software Engineering,3-7 Years
+467,J468,SmartCoin,Compliance / IT Audit Consultant,IT Operations and Support,1-4 Years
+468,J469,Swimlane,Senior Frontend Developer,Software Engineering,4-8 Years
+469,J470,Tailorbird,Senior Software Developer / Full Stack Developer,Software Engineering,4-9 Years
+470,J471,ANSR,Python Developer [T500 - 6672,Software Engineering,1-4 Years
+471,J472,Hiver,SDE 2,IT Operations and Support,2-5 Years
+472,J473,Juntrax Solutions,Software Engineer,Data Science and Analysis,3-6 Years
+473,J474,Kuvera,Engineering Manager - Front End,Technical Management,4-6 Years
+474,J475,Niro,Senior Product Manager,Technical Management,6-10 Years
+475,J476,Owens & Minor,NOC Engineer [T500 - 6866,IT Operations and Support,2-5 Years
+476,J477,Owens & Minor,Service Desk Associate [T500 - 6897,IT Operations and Support,1-5 Years
+477,J478,Proxgy,SDE 2 Frontend,Software Engineering,3-5 Years
+478,J479,Savage,Software Engineer - React Native,Software Engineering,3-6 Years
+479,J480,Verizon Communications,QA Engineer,Software Engineering,4-7 Years
+480,J481,DevRev,Backend Developer - CRM,Software Engineering,3-8 Years
+481,J482,Flatworld Solutions,Sr. Java Developer,Software Engineering,8-12 Years
+482,J483,HDFC Life,Financial Planning Manager,Sales and Business,1-3 Years
+483,J484,Kickdrum,Tech Lead,Software Engineering,9-14 Years
+484,J485,MOBtexting,Java Test Automation Engineer,Software Engineering,3-5 Years
+485,J486,Owens & Minor,Service Desk Associate [T500 - 6890,IT Operations and Support,1-3 Years
+486,J487,Owens & Minor,Service Desk Associate [T500 - 6892,IT Operations and Support,1-5 Years
+487,J488,Owens & Minor,Service Desk Associate [T500 - 6895,IT Operations and Support,1-5 Years
+488,J489,Proxgy,SDE - 2 - Frontend Engineer,Software Engineering,3-7 Years
+489,J490,Wayfair,Senior Software Engineer,Software Engineering,6-10 Years
+490,J491,Ashok Leyland,Java Developer,Software Engineering,4-6 Years
+491,J492,Bipp,Azure Data Engineer,Software Engineering,4-9 Years
+492,J493,Bluecore,GCP Data Engineer,Design and Creative,5-10 Years
+493,J494,eG Innovations,Java Technical Lead,Software Engineering,8-12 Years
+494,J495,Kickdrum,Tech Lead,Software Engineering,9-14 Years
+495,J496,Mantra Labs,Scala Developer,IT Operations and Support,3-8 Years
+496,J497,Owens & Minor,Service Desk Associate [T500 - 6887,IT Operations and Support,1-5 Years
+497,J498,Owens & Minor,Service Desk Associate [T500 - 6888,IT Operations and Support,1-5 Years
+498,J499,Viacom18,DevOps Engineer,IT Operations and Support,7-12 Years
+499,J500,Y Media Labs,Flutter Developer,Software Engineering,8-12 Years

@@ -1,0 +1,2023 @@
+,job_id,skills
+0,J1,Finance
+1,J1,Marketing
+2,J1,Microsoft Excel
+3,J1,Product Management
+4,J1,Sales
+5,J1,UI Testing
+6,J1,UX Design
+7,J2,Postman
+8,J2,Swagger
+9,J2,Technical Writing
+10,J3,Adobe Experience Manager (AEM)
+11,J4,Amazon Redshift
+12,J4,Big Data
+13,J4,Data Analysis
+14,J4,Data Warehousing
+15,J4,ETL
+16,J4,Java
+17,J4,Spark
+18,J5,Informatica
+19,J5,Informatica PowerCenter
+20,J6,Automation Testing
+21,J6,QTP
+22,J7,Oracle RAC
+23,J7,PL-SQL
+24,J8,Data Warehousing
+25,J8,ETL
+26,J8,SQL
+27,J8,Snowflake
+28,J9,Channel Sales
+29,J9,Corporate Sales
+30,J9,Key Account Management
+31,J9,Sales
+32,J10,Channel Sales
+33,J10,Corporate Sales
+34,J10,Sales
+35,J11,Business Development
+36,J11,Lead Generation
+37,J11,Sales
+38,J12,.NET
+39,J12,ASP.NET
+40,J12,Angular
+41,J12,Azure
+42,J12,Bootstrap
+43,J12,C#
+44,J12,CSS
+45,J12,HTML
+46,J13,API Testing
+47,J13,Appium
+48,J13,Cucumber
+49,J13,JMeter
+50,J13,Java
+51,J13,Mobile Apps Testing
+52,J13,Performance Testing
+53,J13,Python
+54,J13,Ruby
+55,J13,SDET
+56,J13,Selenium
+57,J13,SoapUI
+58,J14,Databricks
+59,J14,Hadoop
+60,J14,Spark
+61,J14,ETL
+62,J14,PySpark
+63,J14,Snowflake
+64,J15,Ansible
+65,J15,Azure
+66,J15,Azure DevOps Server
+67,J15,CI - CD
+68,J15,DevOps
+69,J15,Kafka
+70,J16,BigQuery
+71,J16,Google Cloud
+72,J16,Python
+73,J16,Dataflow
+74,J17,CSS
+75,J17,HTML
+76,J17,JavaScript
+77,J17,React.js
+78,J17,jQuery
+79,J18,Business Development
+80,J18,Channel Sales
+81,J18,Profit and Loss Management
+82,J18,Strategic Planning
+83,J19,Business Development
+84,J19,Channel Sales
+85,J19,Corporate Sales
+86,J19,Direct Sales
+87,J19,Sales
+88,J20,Business Development
+89,J20,Corporate Sales
+90,J20,Direct Sales
+91,J20,Sales
+92,J21,C#
+93,J21,C++
+94,J21,Java
+95,J21,Linux
+96,J21,Oracle Access Manager
+97,J21,Oracle Database
+98,J21,PostgreSQL
+99,J21,PowerShell
+100,J21,Python
+101,J21,Shell Scripting
+102,J21,Windows
+103,J22,Field Work
+104,J22,Lead Generation
+105,J22,Sales
+106,J23,CRM
+107,J23,Corporate Sales
+108,J23,HLOOKUP
+109,J23,Jira
+110,J23,Key Account Management
+111,J23,Sales
+112,J24,API Testing
+113,J24,Angular
+114,J24,Database Development
+115,J24,Distributed Systems
+116,J24,Java
+117,J24,NoSQL
+118,J24,RDBMS
+119,J24,React.js
+120,J24,TypeScript
+121,J25,Corporate Sales
+122,J25,Key Account Management
+123,J25,Lead Generation
+124,J25,LinkedIn Sales Navigator
+125,J26,Corporate Sales
+126,J26,Key Account Management
+127,J26,Lead Generation
+128,J26,LinkedIn Sales Navigator
+129,J27,Content Marketing
+130,J27,Content Writing
+131,J27,SEO
+132,J27,Social Media Marketing
+133,J28,Customer Service
+134,J28,Desktop Troubleshooting
+135,J28,L2 Support
+136,J29,Business Development
+137,J29,Channel Sales
+138,J29,Corporate Sales
+139,J29,Direct Sales
+140,J29,Sales
+141,J30,Angular
+142,J30,Java
+143,J30,JavaScript
+144,J30,Node.js
+145,J30,React.js
+146,J30,Spring
+147,J30,jQuery
+148,J31,Algorithms
+149,J31,C
+150,J31,C++
+151,J31,Computer Vision
+152,J31,Data Structures
+153,J31,Devicenet
+154,J31,Hardware
+155,J31,Image Processing
+156,J31,Industrial Automation
+157,J31,Microarrays
+158,J31,Modbus
+159,J31,Python
+160,J31,RS232
+161,J31,Visual Studio
+162,J32,C#
+163,J32,C++
+164,J32,Golang
+165,J32,Java
+166,J32,JavaScript
+167,J32,Linux
+168,J32,Python
+169,J32,Unix
+170,J33,Cloud Computing
+171,J33,Hadoop
+172,J33,Hive
+173,J33,Java
+174,J33,Jupyter
+175,J33,Spark
+176,J34,Database Administration
+177,J34,Database Development
+178,J34,Distributed Systems
+179,J34,jQuery
+180,J35,C
+181,J35,C++
+182,J35,Networking
+183,J36,Google Ads
+184,J36,SEM
+185,J36,SEO
+186,J37,Brand Management
+187,J37,Content Marketing
+188,J37,Facebook Marketing
+189,J37,KPI
+190,J37,LinkedIn Marketing
+191,J37,Social Media Marketing
+192,J38,Accounting
+193,J38,CPA
+194,J38,ERPS
+195,J38,Finance
+196,J38,Financial Reporting
+197,J38,NetSuite
+198,J38,Payroll Management
+199,J39,Content Marketing
+200,J39,Content Writing
+201,J39,English Content
+202,J40,Performance Marketing
+203,J40,SEM
+204,J40,SEO
+205,J40,Social Media Marketing
+206,J41,Apache Beam
+207,J41,Java
+208,J41,JavaScript
+209,J41,Linux
+210,J41,NoSQL
+211,J41,React.js
+212,J41,Spring
+213,J41,Spring Boot
+214,J41,Tomcat
+215,J41,jQuery
+216,J42,IT Recruitment
+217,J42,Non IT Recruitment
+218,J42,Recruitment
+219,J43,Customer Service
+220,J43,KYC
+221,J44,Anaplan
+222,J44,Architecture
+223,J44,FPA
+224,J44,Finance
+225,J44,L1 Support
+226,J44,L2 Support
+227,J44,SQL
+228,J44,Solution Architecture
+229,J44,Stakeholder Management
+230,J45,Mapping
+231,J45,NBFC
+232,J45,Product Lifecycle Management
+233,J45,Product Management
+234,J46,Business Development
+235,J46,Corporate Sales
+236,J46,Direct Sales
+237,J46,International Sales
+238,J46,Sales
+239,J46,Telecalling
+240,J47,Corporate Strategy
+241,J47,Customer Relationship
+242,J47,Customer Service
+243,J47,Key Account Management
+244,J47,Retention Management
+245,J47,Stakeholder Management
+246,J47,Strategic Planning
+247,J48,Business Development
+248,J48,Channel Sales
+249,J48,Corporate Sales
+250,J48,Direct Sales
+251,J48,International Sales
+252,J48,Sales
+253,J49,Corporate Sales
+254,J49,International Sales
+255,J49,Key Account Management
+256,J49,LinkedIn Sales Navigator
+257,J50,Corporate Sales
+258,J50,Farming
+259,J50,International Sales
+260,J50,Key Account Management
+261,J51,Corporate Sales
+262,J51,Distribution
+263,J51,Lead Generation
+264,J51,Sales
+265,J52,.NET
+266,J52,Algorithms
+267,J52,Architecture
+268,J52,Data Structures
+269,J52,HTTP
+270,J52,Java
+271,J52,Node.js
+272,J52,Spring Boot
+273,J53,Accounting
+274,J53,Auditing
+275,J53,Chartered Accountant
+276,J53,Direct Taxation
+277,J53,Financial Analysis
+278,J53,GST
+279,J53,Income Tax
+280,J53,Indirect Taxation
+281,J53,NetSuite
+282,J53,SEZ
+283,J53,STPI
+284,J53,TDS
+285,J53,Taxation
+286,J54,Corporate Events
+287,J54,Cultural Events
+288,J54,Event Management
+289,J54,Event Marketing
+290,J54,Event Planning
+291,J55,Accounting
+292,J55,Auditing
+293,J55,Finance
+294,J55,GST
+295,J55,Income Tax
+296,J55,MIS
+297,J55,Sales Tax
+298,J55,TDS
+299,J55,Taxation
+300,J56,Business Development
+301,J56,Corporate Sales
+302,J56,Key Account Management
+303,J56,Sales
+304,J57,AWS
+305,J57,CI - CD
+306,J57,Cloud Computing
+307,J57,DevOps
+308,J57,Linux
+309,J58,Business Development
+310,J58,Channel Sales
+311,J58,Corporate Banking
+312,J58,Corporate Loans
+313,J58,Corporate Sales
+314,J58,Corporate Strategy
+315,J58,Key Account Management
+316,J58,Marketing
+317,J58,Microsoft Office
+318,J58,Partnerships
+319,J58,Product Marketing
+320,J58,Retail Banking
+321,J58,Retail Loans
+322,J58,Retail Marketing
+323,J58,Sales
+324,J58,Stakeholder Management
+325,J58,Strategic Planning
+326,J59,Business Development
+327,J59,Corporate Sales
+328,J59,Key Account Management
+329,J59,Lead Generation
+330,J59,Telecalling
+331,J60,Business Development
+332,J60,Corporate Sales
+333,J60,International Sales
+334,J60,Key Account Management
+335,J60,LinkedIn Sales Navigator
+336,J60,Telecalling
+337,J61,Corporate Sales
+338,J61,Distribution
+339,J61,Lead Generation
+340,J61,Sales
+341,J62,Corporate Sales
+342,J62,Distribution
+343,J62,Lead Generation
+344,J62,Sales
+345,J63,Corporate Sales
+346,J63,Distribution
+347,J63,Lead Generation
+348,J63,Sales
+349,J64,Business Analysis
+350,J64,Documentation
+351,J64,Microsoft Excel
+352,J64,Power BI
+353,J64,R
+354,J64,SQL
+355,J64,Tableau
+356,J65,Customer Interaction
+357,J65,Customer Relationship
+358,J65,Escalation Management
+359,J65,Google Data Studio
+360,J65,Microsoft Excel
+361,J65,SQL
+362,J66,Business Development
+363,J66,Corporate Sales
+364,J66,Sales
+365,J67,Channel Sales
+366,J67,Corporate Sales
+367,J67,Direct Sales
+368,J67,Key Account Management
+369,J67,Sales
+370,J68,Back Office Operations
+371,J68,Bill Processing
+372,J68,Employee Induction
+373,J68,Google Workspace
+374,J68,Human Capital Management
+375,J68,Inventory Management
+376,J68,Microsoft Excel
+377,J68,Office Operations
+378,J68,Policy Formulation
+379,J68,Procurement
+380,J68,Vendor Management
+381,J69,Business Development
+382,J69,Channel Sales
+383,J69,Direct Sales
+384,J69,Sales
+385,J70,Business Development
+386,J70,Channel Sales
+387,J70,Direct Sales
+388,J70,Sales
+389,J71,Java
+390,J71,Architecture
+391,J71,SOAP
+392,J71,UML
+393,J71,Spring Boot
+394,J72,Java
+395,J72,J2EE
+396,J72,Spring Boot
+397,J72,Microservices
+398,J73,Instructional Design
+399,J74,Angular
+400,J74,JavaScript
+401,J74,HTML
+402,J74,Google Cloud
+403,J74,CSS
+404,J75,Angular
+405,J75,JavaScript
+406,J75,HTML
+407,J75,CSS
+408,J75,Google Cloud
+409,J76,Java
+410,J76,Spring Boot
+411,J76,Microservices
+412,J76,MongoDB
+413,J76,AWS
+414,J77,Business Development
+415,J77,Channel Sales
+416,J77,Direct Sales
+417,J77,Key Account Management
+418,J77,Sales
+419,J78,Customer Interaction
+420,J78,Customer Service
+421,J78,Freshdesk
+422,J78,Microsoft Excel
+423,J78,Zendesk
+424,J79,Java
+425,J79,Python
+426,J79,Golang
+427,J79,AWS
+428,J80,React Native
+429,J80,Flutter
+430,J80,React.js
+431,J81,Sales
+432,J81,Business Development
+433,J81,Graphic Design
+434,J81,2D Animation
+435,J81,UX Design
+436,J82,Java
+437,J82,Spring Boot
+438,J82,SOAP
+439,J82,REST Assured
+440,J82,Payment Solutions
+441,J83,Node.js
+442,J83,AWS
+443,J83,Kafka
+444,J83,Python
+445,J83,CI - CD
+446,J84,.NET
+447,J84,Microservices
+448,J84,Angular
+449,J84,Azure
+450,J84,ASP.NET
+451,J85,.NET
+452,J85,Angular
+453,J85,ASP.NET
+454,J85,Azure
+455,J85,Microservices
+456,J86,iOS
+457,J86,Objective-C
+458,J86,Swift
+459,J86,Cocoa
+460,J87,Payment Solutions
+461,J87,Product Management
+462,J88,Java
+463,J88,MQL
+464,J88,ENOVIA
+465,J88,TCL
+466,J88,SQL
+467,J89,Java
+468,J89,AWS
+469,J89,Spring Boot
+470,J89,Data Structures
+471,J89,Algorithms
+472,J90,International Sales
+473,J91,AWS
+474,J91,MySQL
+475,J91,API Testing
+476,J91,MongoDB
+477,J91,Spring Boot
+478,J92,Kotlin
+479,J93,SAP ERP
+480,J94,C++
+481,J94,InDesign
+482,J95,Python
+483,J95,Machine Learning
+484,J95,NLP
+485,J96,Vue.js
+486,J96,JavaScript
+487,J96,HTML
+488,J96,CSS
+489,J97,Python
+490,J97,SQL
+491,J98,Credit Cards
+492,J98,Product Management
+493,J99,Hadoop
+494,J99,Jenkins
+495,J99,Kafka
+496,J99,Spark
+497,J99,Unix
+498,J100,Sales
+499,J100,Business Development
+500,J100,Direct Sales
+501,J100,Corporate Sales
+502,J100,International Sales
+503,J101,Java
+504,J101,Microservices
+505,J101,Spring Boot
+506,J101,Architecture
+507,J101,AWS
+508,J102,CI - CD
+509,J102,Jenkins
+510,J102,AWS
+511,J102,Python
+512,J102,Java
+513,J103,.NET
+514,J103,LINQ
+515,J103,Git
+516,J104,Kubernetes
+517,J105,C++
+518,J105,InDesign
+519,J106,Machine Learning
+520,J106,NLP
+521,J106,Python
+522,J106,Data Analysis
+523,J106,SQL
+524,J107,Sales
+525,J107,Business Development
+526,J108,Python
+527,J108,Django
+528,J108,Flask
+529,J109,Python
+530,J109,Django
+531,J109,Flask
+532,J110,JavaScript
+533,J110,React Native
+534,J110,React.js
+535,J111,Angular
+536,J111,HTML
+537,J111,CSS
+538,J111,JavaScript
+539,J112,PHP
+540,J112,Wordpress
+541,J112,HTML
+542,J112,jQuery
+543,J112,Jira
+544,J113,SAP FICO
+545,J113,IDOC
+546,J113,SAP HANA
+547,J113,SAP Fiori
+548,J114,Product Management
+549,J114,Project Management
+550,J114,Enterprise Software
+551,J114,Consumer Software
+552,J114,PMP
+553,J115,Python
+554,J115,Data Structures
+555,J115,Algorithms
+556,J116,Java
+557,J116,SQL
+558,J116,Data Structures
+559,J116,NoSQL
+560,J116,Microservices
+561,J117,Python
+562,J117,Django
+563,J117,Flask
+564,J117,Data Structures
+565,J117,AWS
+566,J118,Python
+567,J118,Machine Learning
+568,J118,AWS
+569,J118,NLP
+570,J118,Data Analysis
+571,J119,Machine Learning
+572,J119,Google Cloud
+573,J119,BigQuery
+574,J119,Python
+575,J119,MLOps
+576,J120,Python
+577,J120,SQL
+578,J121,Sales
+579,J121,Direct Sales
+580,J121,Customer Relationship
+581,J121,Customer Service
+582,J121,Corporate Sales
+583,J122,Sales
+584,J122,Business Development
+585,J122,Direct Sales
+586,J122,Customer Interaction
+587,J122,Customer Service
+588,J123,.NET
+589,J123,ASP.NET
+590,J123,C#
+591,J123,SQL Server
+592,J124,JavaScript
+593,J124,React.js
+594,J124,Node.js
+595,J124,Angular
+596,J125,.NET
+597,J125,SQL Server
+598,J125,jQuery
+599,J125,C#
+600,J125,Agile
+601,J126,SEO
+602,J126,SEM
+603,J126,SEMrush
+604,J126,Jira
+605,J126,Social Media Marketing
+606,J127,Education Counselling
+607,J127,Sales
+608,J128,Product Management
+609,J128,Fraud Management
+610,J128,Agile
+611,J128,Order Fulfillment
+612,J128,Loyalty Programs
+613,J129,GST
+614,J129,TDS
+615,J129,Tally
+616,J129,Banking Operations
+617,J129,Microsoft Excel
+618,J130,Business Development
+619,J130,Marketing
+620,J130,Customer Interaction
+621,J130,Sales Operations
+622,J130,Microsoft Excel
+623,J131,Java
+624,J131,React.js
+625,J131,AWS
+626,J131,Spring Boot
+627,J131,Microservices
+628,J132,Machine Learning
+629,J132,Neural Networks
+630,J132,Python
+631,J132,Linear Regression
+632,J132,Predictive Modelling
+633,J133,Machine Learning
+634,J133,Python
+635,J133,NLP
+636,J133,Statistics
+637,J133,Data Mining
+638,J134,Playwright
+639,J134,Automation Testing
+640,J134,Python
+641,J134,JavaScript
+642,J134,Quality Assurance
+643,J135,Motion Graphics
+644,J135,Visual Design
+645,J135,Visual Effects
+646,J135,Cinema 4D
+647,J135,Final Cut Pro
+648,J136,Salesforce
+649,J136,Apex
+650,J136,Visualforce
+651,J136,Salesforce Data Loader
+652,J137,SQL
+653,J137,Java
+654,J137,Python
+655,J137,C#
+656,J137,R
+657,J138,Java
+658,J138,Spring
+659,J139,DevOps
+660,J139,AWS
+661,J139,Cloud Computing
+662,J139,Kubernetes
+663,J139,Deployment
+664,J140,Deployment
+665,J140,DevOps
+666,J140,AWS
+667,J140,Kubernetes
+668,J140,Cloud Computing
+669,J141,.NET
+670,J141,JavaScript
+671,J141,jQuery
+672,J141,React.js
+673,J141,C#
+674,J142,Java
+675,J142,MariaDB
+676,J142,Spring Boot
+677,J142,J2EE
+678,J142,MySQL
+679,J143,Customer Interaction
+680,J143,Engineering Management
+681,J143,HTML
+682,J143,CSS
+683,J144,Sales
+684,J144,Business Development
+685,J145,Java
+686,J145,Spring
+687,J145,Microservices
+688,J145,AWS
+689,J145,AWS Lambda
+690,J146,React.js
+691,J146,Angular
+692,J147,Digital Marketing
+693,J147,Social Media Marketing
+694,J147,Content Marketing
+695,J147,Marketing
+696,J148,Business Development
+697,J148,Counselling
+698,J148,Education Counselling
+699,J148,International Sales
+700,J148,Sales
+701,J149,Sales
+702,J149,Travel Planning
+703,J149,Telecalling
+704,J149,Business Development
+705,J149,Travel Management
+706,J150,React Native
+707,J150,React.js
+708,J150,JavaScript
+709,J150,HTML
+710,J150,CSS
+711,J151,JavaScript
+712,J151,Playwright
+713,J151,Automation Testing
+714,J151,Python
+715,J152,Java
+716,J152,Angular
+717,J152,Hibernate
+718,J152,TypeScript
+719,J152,JavaScript
+720,J153,React.js
+721,J153,Node.js
+722,J153,Angular
+723,J153,Python
+724,J153,SQL
+725,J154,Machine Learning
+726,J154,NLP
+727,J154,Data Collection
+728,J155,Python
+729,J155,Java
+730,J155,JavaScript
+731,J155,Node.js
+732,J155,React.js
+733,J156,Angular
+734,J156,JavaScript
+735,J156,Git
+736,J156,HTML
+737,J156,CSS
+738,J157,React.js
+739,J157,Spring Boot
+740,J157,Microservices
+741,J157,Java
+742,J157,SQL
+743,J158,React Native
+744,J158,JavaScript
+745,J158,React.js
+746,J158,Android
+747,J158,iOS
+748,J159,React Native
+749,J159,React.js
+750,J159,JavaScript
+751,J159,Android
+752,J159,iOS
+753,J160,React Native
+754,J160,React.js
+755,J160,JavaScript
+756,J160,HTML
+757,J160,CSS
+758,J161,Oracle HCM
+759,J161,Technical Consulting
+760,J161,Functional Consulting
+761,J161,Payroll Management
+762,J161,HR Operations
+763,J162,Java
+764,J162,Spring
+765,J162,MongoDB
+766,J162,Python
+767,J162,Golang
+768,J163,Power BI
+769,J163,SQL
+770,J163,MSBI
+771,J163,SSIS
+772,J163,DAX
+773,J164,C++
+774,J164,GUI
+775,J164,Qt
+776,J164,QML
+777,J165,Java
+778,J165,Spring Boot
+779,J165,AWS
+780,J165,Microservices
+781,J165,Kafka
+782,J166,Corporate Sales
+783,J166,NBFC
+784,J166,Lead Generation
+785,J166,Business Development
+786,J166,Key Account Management
+787,J167,ServiceNow
+788,J167,ITSM
+789,J168,Oracle Fusion Applications
+790,J168,Oracle Financials
+791,J168,Oracle Cloud
+792,J168,Oracle Agile PLM
+793,J168,Coupa
+794,J169,Java
+795,J169,Kotlin
+796,J169,Android
+797,J169,MVP
+798,J169,Architecture
+799,J170,iOS
+800,J170,Objective-C
+801,J170,Architecture
+802,J170,Swift
+803,J170,MVP
+804,J171,ETL
+805,J171,AWS
+806,J171,PostgreSQL
+807,J171,Python
+808,J171,SQL
+809,J172,Linux
+810,J172,Unix
+811,J172,Windows
+812,J172,AWS
+813,J172,Google Cloud
+814,J173,Django
+815,J173,Flask
+816,J173,Python
+817,J174,Python
+818,J174,Node.js
+819,J174,CI - CD
+820,J174,AWS
+821,J174,Azure
+822,J175,Product Management
+823,J175,Payment Processing
+824,J175,Business Analysis
+825,J175,Product Lifecycle Management
+826,J175,Product Marketing
+827,J176,Angular
+828,J176,Java
+829,J176,Spring Boot
+830,J176,SQL
+831,J176,Spring
+832,J177,IT Support
+833,J177,LAN
+834,J177,DHCP
+835,J177,Active Directory
+836,J178,Salesforce
+837,J178,Visualforce
+838,J179,ServiceNow
+839,J179,Workflow Management
+840,J180,Python
+841,J180,ETL
+842,J180,Data Analysis
+843,J181,Product Management
+844,J181,Product Lifecycle Management
+845,J181,Finacle
+846,J181,Payment Solutions
+847,J181,Credit Evaluation
+848,J182,DevOps
+849,J182,Python
+850,J183,UX Design
+851,J183,JavaScript
+852,J183,React.js
+853,J183,Progressive Web Apps
+854,J183,HTML
+855,J184,Salesforce
+856,J184,Apex
+857,J184,Lightning
+858,J184,Visualforce
+859,J185,Python
+860,J185,Django
+861,J185,Flask
+862,J186,Python
+863,J186,Django
+864,J186,SQL
+865,J186,React Native
+866,J186,AWS
+867,J187,Product Management
+868,J188,Node.js
+869,J188,React.js
+870,J188,JavaScript
+871,J189,C++
+872,J190,Android
+873,J190,Hybrid Apps
+874,J190,iOS
+875,J191,.NET
+876,J191,Angular
+877,J191,C#
+878,J191,AWS
+879,J191,JavaScript
+880,J192,JavaScript
+881,J192,Architecture
+882,J192,Angular
+883,J192,AWS
+884,J192,Azure
+885,J193,Python
+886,J193,Data Structures
+887,J193,Algorithms
+888,J193,SQL
+889,J193,React.js
+890,J194,Python
+891,J194,JavaScript
+892,J194,Java
+893,J194,React.js
+894,J194,Golang
+895,J195,Linux
+896,J195,AWS
+897,J195,Azure
+898,J195,Docker
+899,J195,Kubernetes
+900,J195,New Relic
+901,J196,Business Development
+902,J196,Corporate Sales
+903,J196,Direct Sales
+904,J196,International Sales
+905,J196,Sales
+906,J196,Telecalling
+907,J197,Angular
+908,J197,ASP.NET
+909,J197,.NET
+910,J197,HTML
+911,J197,CSS
+912,J198,Java
+913,J198,Machine Learning
+914,J198,NLP
+915,J198,NLTK
+916,J198,Python
+917,J199,Sales
+918,J199,Sales Enablement
+919,J200,Java
+920,J200,Spring
+921,J201,Product Management
+922,J201,Customer Service
+923,J202,General Management
+924,J202,Strategic Planning
+925,J202,Operations Management
+926,J202,Program Management
+927,J203,Financial Analysis
+928,J203,Financial Reporting
+929,J203,Cash Flow Management
+930,J203,Accounting
+931,J203,Finance
+932,J204,Java
+933,J204,Spring Boot
+934,J204,AWS
+935,J204,Microservices
+936,J205,Direct Sales
+937,J205,Sales
+938,J205,Branch Management
+939,J205,Field Work
+940,J206,Palo Alto
+941,J207,Java
+942,J207,Kafka
+943,J207,Spring
+944,J208,Python
+945,J208,Machine Learning
+946,J208,SQL
+947,J208,AWS
+948,J208,Java
+949,J209,Big Data
+950,J209,Golang
+951,J209,Java
+952,J209,Hibernate
+953,J209,Spring
+954,J210,Flutter
+955,J211,Bash
+956,J212,Investment Advisory
+957,J212,Mutual Funds
+958,J212,HNI
+959,J212,Insurance Broking
+960,J212,Fund Management
+961,J213,Auditing
+962,J213,Risk Assessment
+963,J213,Vendor Management
+964,J214,Java
+965,J214,REST Assured
+966,J214,SDET
+967,J214,Microservices
+968,J214,AWS
+969,J215,.NET
+970,J216,PKI
+971,J217,.NET
+972,J217,React.js
+973,J218,2D Animation
+974,J218,3D Animation
+975,J218,Graphic Design
+976,J218,Corel Draw
+977,J218,Illustrator
+978,J218,InDesign
+979,J218,Photoshop
+980,J219,Google Ads
+981,J219,SEM
+982,J219,SEO
+983,J220,CSS
+984,J220,HTML
+985,J220,JavaScript
+986,J220,Angular
+987,J221,Java
+988,J221,Spring
+989,J221,Hibernate
+990,J222,Customer Interaction
+991,J222,Customer Relationship
+992,J222,Customer Service
+993,J222,Key Account Management
+994,J223,Business Development
+995,J223,Sales
+996,J224,AWS
+997,J224,Terraform
+998,J224,Jenkins
+999,J224,Ansible
+1000,J224,Helm
+1001,J225,Content Marketing
+1002,J225,Content Writing
+1003,J225,English Content
+1004,J226,CrowdStrike
+1005,J227,.NET
+1006,J227,C#
+1007,J227,Angular
+1008,J227,Azure
+1009,J228,JavaScript
+1010,J228,React.js
+1011,J229,JavaScript
+1012,J229,React.js
+1013,J230,Business Development
+1014,J230,Sales
+1015,J231,2D Animation
+1016,J231,3D Animation
+1017,J231,Graphic Design
+1018,J231,Corel Draw
+1019,J231,Illustrator
+1020,J231,Photoshop
+1021,J232,Node.js
+1022,J232,Python
+1023,J233,Product Management
+1024,J234,Product Management
+1025,J234,Credit Management
+1026,J235,Product Management
+1027,J236,SQL
+1028,J236,Google Analytics
+1029,J236,Looker
+1030,J236,ETL
+1031,J236,Power BI
+1032,J237,ASP.NET
+1033,J237,Angular
+1034,J237,.NET
+1035,J237,C#
+1036,J237,Entity Framework
+1037,J238,Business Development
+1038,J238,International Sales
+1039,J238,Sales
+1040,J239,Java
+1041,J239,Node.js
+1042,J239,Python
+1043,J239,Data Structures
+1044,J239,Algorithms
+1045,J240,PHP
+1046,J240,Laravel
+1047,J240,CodeIgniter
+1048,J241,Power BI
+1049,J242,SAP HANA
+1050,J243,Manual Testing
+1051,J243,Selenium
+1052,J243,Mobile Apps Testing
+1053,J243,Java
+1054,J243,Agile
+1055,J244,Python
+1056,J244,Hive
+1057,J244,Spark
+1058,J244,ETL
+1059,J244,Spark SQL
+1060,J245,Android
+1061,J246,Java
+1062,J246,Microservices
+1063,J246,AWS
+1064,J246,Spring Boot
+1065,J246,Engineering Management
+1066,J247,JavaScript
+1067,J247,React.js
+1068,J247,HTML
+1069,J247,CSS
+1070,J247,TypeScript
+1071,J248,Consumer Software
+1072,J248,Product Management
+1073,J249,MySQL
+1074,J250,Java
+1075,J250,Spring Boot
+1076,J250,Microservices
+1077,J250,React.js
+1078,J250,Multithreading
+1079,J251,Power BI
+1080,J252,Content Marketing
+1081,J252,Facebook Marketing
+1082,J252,Social Media Marketing
+1083,J253,Java
+1084,J253,Engineering Management
+1085,J253,Python
+1086,J253,JavaScript
+1087,J253,Algorithms
+1088,J254,Node.js
+1089,J256,Java
+1090,J256,React.js
+1091,J256,Spring
+1092,J256,Agile
+1093,J256,Data Structures
+1094,J257,Financial Planning
+1095,J257,Budgeting
+1096,J257,Risk Management
+1097,J257,Compliance Management
+1098,J258,Warehouse Operations
+1099,J258,Inventory Management
+1100,J258,Retail Operations
+1101,J259,Java
+1102,J259,C++
+1103,J259,Golang
+1104,J259,Scala
+1105,J260,Product Management
+1106,J261,JavaScript
+1107,J261,Python
+1108,J261,Angular
+1109,J261,Node.js
+1110,J261,React.js
+1111,J262,Python
+1112,J262,AWS
+1113,J262,Maven
+1114,J262,Docker
+1115,J262,Spring Boot
+1116,J263,AWS
+1117,J263,Git
+1118,J263,Docker
+1119,J263,Spring Boot
+1120,J263,Maven
+1121,J264,C
+1122,J264,Networking
+1123,J265,Python
+1124,J265,AWS
+1125,J265,SQL
+1126,J266,Distributed Systems
+1127,J266,Program Management
+1128,J266,Project Management
+1129,J267,Android
+1130,J268,Risk Assessment
+1131,J268,Risk Management
+1132,J268,Risk Advisory
+1133,J269,Asset Management
+1134,J269,PowerShell
+1135,J270,Category Management
+1136,J270,Catalog Management
+1137,J271,JavaScript
+1138,J271,Microservices
+1139,J271,Spring Boot
+1140,J271,AWS
+1141,J271,Python
+1142,J272,Product Management
+1143,J273,Product Management
+1144,J274,React.js
+1145,J274,JavaScript
+1146,J274,HTML
+1147,J274,CSS
+1148,J274,TypeScript
+1149,J275,Angular
+1150,J275,Node.js
+1151,J275,MongoDB
+1152,J275,Express.js
+1153,J275,SQL Server
+1154,J276,Python
+1155,J276,SQL
+1156,J276,Tableau
+1157,J277,Sales
+1158,J277,Business Development
+1159,J277,Customer Relationship
+1160,J277,Corporate Sales
+1161,J277,Direct Sales
+1162,J278,Product Management
+1163,J278,Project Management
+1164,J278,Google Analytics
+1165,J278,Agile
+1166,J279,Automation Testing
+1167,J279,Manual Testing
+1168,J280,Golang
+1169,J280,Python
+1170,J281,Java
+1171,J281,Data Structures
+1172,J281,Python
+1173,J281,Golang
+1174,J281,Algorithms
+1175,J282,CSS
+1176,J282,HTML
+1177,J282,JavaScript
+1178,J282,React.js
+1179,J283,Business Development
+1180,J283,Direct Sales
+1181,J283,Sales
+1182,J283,Telecalling
+1183,J284,Hyperion Planning
+1184,J285,Automation Testing
+1185,J285,React.js
+1186,J285,SDET
+1187,J286,Manual Testing
+1188,J286,Automation Testing
+1189,J286,Performance Testing
+1190,J286,Quality Assurance
+1191,J286,SDET
+1192,J287,MongoDB
+1193,J287,MySQL
+1194,J287,Oracle Database
+1195,J287,PostgreSQL
+1196,J287,SAP HANA
+1197,J287,SQL Server
+1198,J287,Oracle Data Guard
+1199,J287,Oracle Data Pump
+1200,J287,Oracle GoldenGate
+1201,J287,Oracle RAC
+1202,J288,Cloud Computing
+1203,J288,Networking
+1204,J288,Solution Architecture
+1205,J288,Virtualization
+1206,J288,AWS
+1207,J288,Azure
+1208,J288,Citrix XenServer
+1209,J288,Google Cloud
+1210,J288,Hyper-V
+1211,J288,OpenStack
+1212,J288,VMware ESX
+1213,J288,VMware vSphere
+1214,J290,Business Development
+1215,J290,Corporate Sales
+1216,J290,International Sales
+1217,J290,Sales
+1218,J291,CSS
+1219,J291,HTML
+1220,J291,JavaScript
+1221,J291,React.js
+1222,J291,Vue.js
+1223,J292,Angular
+1224,J292,C++
+1225,J292,Java
+1226,J292,JavaScript
+1227,J292,Node.js
+1228,J292,React.js
+1229,J292,jQuery
+1230,J293,Java
+1231,J293,AWS
+1232,J293,DevOps
+1233,J293,Git
+1234,J293,Jenkins
+1235,J294,Visual Design
+1236,J294,Graphic Design
+1237,J294,UX Design
+1238,J294,2D Animation
+1239,J294,Game Design
+1240,J295,Finance
+1241,J295,GTM
+1242,J295,Marketing
+1243,J295,Product Management
+1244,J295,Sales
+1245,J295,UX Design
+1246,J296,Big Data
+1247,J296,Cloud Computing
+1248,J296,Cloud Security
+1249,J296,Enterprise Software
+1250,J296,GTM
+1251,J296,Google Cloud
+1252,J296,Machine Learning
+1253,J296,Product Management
+1254,J296,Supply Chain Management
+1255,J296,UX Design
+1256,J297,Digital Marketing
+1257,J297,Social Media Marketing
+1258,J297,Brand Management
+1259,J297,SEO
+1260,J297,Instagram Marketing
+1261,J298,Digital Marketing
+1262,J298,Google Ads
+1263,J298,Content Writing
+1264,J299,CSS
+1265,J299,HTML
+1266,J299,JavaScript
+1267,J299,Angular
+1268,J299,Backbone.js
+1269,J299,Ember.js
+1270,J299,jQuery
+1271,J299,React.js
+1272,J299,Vue.js
+1273,J300,Linux
+1274,J300,Networking
+1275,J300,Technical Support
+1276,J300,Virtualization
+1277,J300,Windows
+1278,J300,Hyper-V
+1279,J300,VMware ESX
+1280,J300,VMware vSphere
+1281,J301,SEO
+1282,J301,Link Building
+1283,J301,Google Search Console
+1284,J302,Node.js
+1285,J303,Brand Management
+1286,J303,Digital Marketing
+1287,J303,Social Media Marketing
+1288,J303,Facebook Marketing
+1289,J303,Marketing Communication
+1290,J304,JavaScript
+1291,J304,Ruby
+1292,J304,Angular
+1293,J304,React.js
+1294,J305,Angular
+1295,J305,Java
+1296,J305,Spring Boot
+1297,J305,Microservices
+1298,J305,SQL
+1299,J306,Microservices
+1300,J306,Angular
+1301,J307,SQL
+1302,J307,Data Analysis
+1303,J307,Python
+1304,J307,Tableau
+1305,J307,Statistics
+1306,J308,Control-M
+1307,J308,Unix
+1308,J308,Mainframes
+1309,J309,Machine Learning
+1310,J309,Python
+1311,J309,Statistics
+1312,J309,Computer Vision
+1313,J309,R
+1314,J310,CSS
+1315,J310,HTML
+1316,J310,JavaScript
+1317,J310,React.js
+1318,J311,Golang
+1319,J311,Java
+1320,J311,Python
+1321,J311,Ruby
+1322,J311,Hibernate
+1323,J311,Ruby on Rails
+1324,J312,Simulation
+1325,J312,Teamcenter
+1326,J312,Vismockup
+1327,J313,Product Management
+1328,J313,Consumer Software
+1329,J313,Product Lifecycle Management
+1330,J313,Data Visualization
+1331,J314,Manual Testing
+1332,J314,Automation Testing
+1333,J314,Mobile Apps Testing
+1334,J314,Flutter
+1335,J314,Selenium
+1336,J315,Java
+1337,J315,Python
+1338,J315,Node.js
+1339,J315,Kotlin
+1340,J316,.NET
+1341,J316,Angular
+1342,J316,React.js
+1343,J316,ASP.NET
+1344,J316,C#
+1345,J317,Data Analysis
+1346,J317,Data Warehousing
+1347,J317,NoSQL
+1348,J317,Amazon Redshift
+1349,J317,Oracle Database
+1350,J317,Snowflake
+1351,J317,Spark
+1352,J317,SQL
+1353,J318,JavaScript
+1354,J318,Angular
+1355,J318,React.js
+1356,J318,UX Design
+1357,J319,Python
+1358,J319,Big Data
+1359,J319,SQL
+1360,J319,Snowflake
+1361,J319,Airflow
+1362,J320,C#
+1363,J320,C++
+1364,J320,Jira
+1365,J320,Agile
+1366,J320,.NET
+1367,J321,Python
+1368,J321,Flask
+1369,J321,Django
+1370,J321,AWS
+1371,J321,FastAPI
+1372,J322,.NET
+1373,J322,Angular
+1374,J322,React.js
+1375,J322,ASP.NET
+1376,J323,Algorithms
+1377,J323,Java
+1378,J323,Spring Boot
+1379,J323,Spring
+1380,J323,Microservices
+1381,J324,JavaScript
+1382,J324,React.js
+1383,J325,Business Development
+1384,J325,Direct Sales
+1385,J325,Sales
+1386,J326,Microsoft Excel
+1387,J326,Power BI
+1388,J326,Python
+1389,J326,R
+1390,J326,SAS
+1391,J326,SQL
+1392,J326,Tableau
+1393,J327,HTML
+1394,J327,JavaScript
+1395,J327,Networking
+1396,J327,SQL
+1397,J327,Technical Support
+1398,J327,Windows
+1399,J328,Lead Generation
+1400,J328,Customer Interaction
+1401,J328,Sales Operations
+1402,J328,Business Development
+1403,J328,Corporate Sales
+1404,J329,Release Engineering
+1405,J329,Linux
+1406,J330,Application Security
+1407,J330,Vulnerability Assessment
+1408,J330,Network Security
+1409,J331,Python
+1410,J331,JavaScript
+1411,J331,Java
+1412,J331,React.js
+1413,J332,Product Lifecycle Management
+1414,J332,API Testing
+1415,J332,Penetration Testing
+1416,J332,Application Security
+1417,J332,GraphQL
+1418,J333,Customer Service
+1419,J333,Customer Relationship
+1420,J333,Customer Interaction
+1421,J334,Salesforce Service Cloud
+1422,J334,Lightning Web Components
+1423,J334,Apex
+1424,J334,SOQL
+1425,J334,Salesforce
+1426,J335,React.js
+1427,J336,React.js
+1428,J336,React Native
+1429,J336,Redux
+1430,J336,JavaScript
+1431,J337,Angular
+1432,J337,Angular Material
+1433,J337,jQuery
+1434,J337,Node.js
+1435,J337,Kubernetes
+1436,J338,JavaScript
+1437,J338,jQuery
+1438,J338,Kubernetes
+1439,J338,Angular
+1440,J338,Node.js
+1441,J339,Java
+1442,J339,Hibernate
+1443,J339,J2EE
+1444,J339,Spring
+1445,J340,C++
+1446,J340,COM
+1447,J340,MFC
+1448,J340,Windows
+1449,J341,UML
+1450,J341,DFMEA
+1451,J341,Dataflow
+1452,J342,Python
+1453,J342,pandas
+1454,J342,NumPy
+1455,J342,Django
+1456,J342,Flask
+1457,J343,Salesforce
+1458,J343,Salesforce Service Cloud
+1459,J343,Salesforce CPQ
+1460,J343,Salesforce Marketing Cloud
+1461,J343,Salesforce Query Studio
+1462,J344,Java
+1463,J344,AWS
+1464,J345,Sales
+1465,J345,International BPO
+1466,J345,Telecalling
+1467,J345,Customer Service
+1468,J345,International Sales
+1469,J346,Tally
+1470,J346,TDS
+1471,J346,GST
+1472,J346,Taxation
+1473,J346,Accounting
+1474,J347,JavaScript
+1475,J347,React.js
+1476,J347,HTML
+1477,J347,CSS
+1478,J347,Vue.js
+1479,J348,Java
+1480,J348,Hibernate
+1481,J348,MySQL
+1482,J348,Spring Boot
+1483,J349,Java
+1484,J349,Angular
+1485,J349,JSON
+1486,J349,JUnit
+1487,J349,Hibernate
+1488,J350,Data Warehousing
+1489,J350,Oracle Database
+1490,J351,Java
+1491,J351,Microservices
+1492,J351,SDET
+1493,J351,API Testing
+1494,J351,REST Assured
+1495,J352,Technical Support
+1496,J352,Node.js
+1497,J352,Java
+1498,J352,IT Support
+1499,J353,React.js
+1500,J353,JavaScript
+1501,J353,jQuery
+1502,J353,HTML
+1503,J353,CSS
+1504,J354,ETL
+1505,J354,Kafka
+1506,J354,Data Migration
+1507,J354,DevOps
+1508,J354,Spark
+1509,J355,C++
+1510,J355,Golang
+1511,J355,Python
+1512,J355,AWS
+1513,J355,CI-CD
+1514,J356,Business Development
+1515,J356,Sales
+1516,J356,Customer Relationship
+1517,J356,Corporate Sales
+1518,J356,Direct Sales
+1519,J357,DevOps
+1520,J357,Kubernetes
+1521,J357,AWS
+1522,J357,CI - CD
+1523,J357,Production Engineering
+1524,J358,Brand Management
+1525,J358,Marketing Communication
+1526,J359,Batch Management
+1527,J359,Control-M
+1528,J359,Unix
+1529,J359,Mainframes
+1530,J360,Product Management
+1531,J361,Machine Learning
+1532,J361,Python
+1533,J361,Statistics
+1534,J361,Data Mining
+1535,J362,Helm
+1536,J362,Kubernetes
+1537,J362,AWS
+1538,J362,Monitoring
+1539,J362,Python
+1540,J363,Java
+1541,J363,AWS
+1542,J363,Angular
+1543,J363,Docker
+1544,J363,Kubernetes
+1545,J364,Business Development
+1546,J364,Corporate Sales
+1547,J364,Direct Sales
+1548,J364,Sales
+1549,J364,Telecalling
+1550,J365,AWS
+1551,J365,SQL
+1552,J365,Spark
+1553,J365,Airflow
+1554,J365,Python
+1555,J366,Maximo
+1556,J367,Java
+1557,J368,Game Development
+1558,J368,Unreal
+1559,J369,Agile
+1560,J369,Program Management
+1561,J369,Project Management
+1562,J369,Scrum
+1563,J370,Recruitment
+1564,J371,Python
+1565,J371,Spark
+1566,J371,AWS
+1567,J371,SQL
+1568,J372,Information Security
+1569,J372,AWS
+1570,J372,Cloud Computing
+1571,J372,Cloud Security
+1572,J373,HR Analytics
+1573,J373,Operations Management
+1574,J373,HR Operations
+1575,J373,Recruitment
+1576,J373,Talent Management
+1577,J374,React.js
+1578,J374,HTML
+1579,J374,CSS
+1580,J375,Agile
+1581,J375,PMO
+1582,J375,PMP
+1583,J375,Program Management
+1584,J375,Project Management
+1585,J375,Scrum
+1586,J375,IT Project Management
+1587,J376,Business Development
+1588,J376,Sales
+1589,J376,Telecalling
+1590,J377,Automotive Embedded Systems
+1591,J377,Embedded C
+1592,J377,C
+1593,J377,Embedded Systems
+1594,J378,React.js
+1595,J378,JavaScript
+1596,J378,HTML
+1597,J378,CSS
+1598,J378,Redux
+1599,J379,Content Writing
+1600,J380,Mobile Apps Testing
+1601,J380,iOS
+1602,J380,Android
+1603,J380,Selenium
+1604,J380,Appium
+1605,J381,Data Analysis
+1606,J381,Data Streaming
+1607,J381,Data Warehousing
+1608,J381,NoSQL
+1609,J381,Kafka
+1610,J381,Spark
+1611,J381,SQL
+1612,J382,Salesforce
+1613,J382,Microsoft Dynamics
+1614,J382,Functional Consulting
+1615,J383,Salesforce
+1616,J383,Microsoft Dynamics
+1617,J383,.NET
+1618,J383,JavaScript
+1619,J383,MySQL
+1620,J384,CSS
+1621,J384,HTML
+1622,J384,JavaScript
+1623,J384,React.js
+1624,J385,Python
+1625,J385,Django
+1626,J385,Flask
+1627,J385,Microservices
+1628,J385,LLD
+1629,J386,Python
+1630,J386,SQL
+1631,J386,API Testing
+1632,J386,Amazon Redshift
+1633,J386,Retention Management
+1634,J387,Content Marketing
+1635,J387,Digital Marketing
+1636,J387,SEO
+1637,J387,Social Media Marketing
+1638,J388,Business Development
+1639,J388,Sales
+1640,J389,Adobe Experience Manager (AEM)
+1641,J389,Java
+1642,J390,Product Management
+1643,J391,Java
+1644,J391,Cloud Computing
+1645,J391,Oracle Database
+1646,J391,JavaScript
+1647,J391,Python
+1648,J392,iOS
+1649,J392,UIkit
+1650,J392,Objective-C
+1651,J393,Zendesk
+1652,J394,Application Security
+1653,J394,Penetration Testing
+1654,J395,Linux
+1655,J395,ETL
+1656,J396,SSRS
+1657,J396,T-SQL
+1658,J396,SQL
+1659,J397,Angular
+1660,J397,Node.js
+1661,J397,JavaScript
+1662,J397,HTML
+1663,J398,Business Development
+1664,J398,Corporate Sales
+1665,J398,Sales
+1666,J399,Recruitment
+1667,J399,Logistics Management
+1668,J399,Payroll Management
+1669,J399,Sea Freight
+1670,J400,SharePoint
+1671,J400,Microsoft Power Apps
+1672,J400,Power BI
+1673,J401,Java
+1674,J401,Python
+1675,J402,SAP CPI
+1676,J402,API Testing
+1677,J402,Cloud Security
+1678,J402,SOAP
+1679,J402,Data Integration
+1680,J403,Computer Vision
+1681,J403,Machine Learning
+1682,J403,NLP
+1683,J403,Python
+1684,J403,Keras
+1685,J403,PyTorch
+1686,J403,Scikit-learn
+1687,J403,TensorFlow
+1688,J404,Data Loss Prevention
+1689,J405,SQL
+1690,J405,Data Analysis
+1691,J405,Product Management
+1692,J405,Analytical Instruments
+1693,J405,Quantitative Analysis
+1694,J406,iOS
+1695,J406,AWS
+1696,J406,Program Management
+1697,J406,Engineering Management
+1698,J406,Cloud Computing
+1699,J407,International Sales
+1700,J408,ETL
+1701,J408,Python
+1702,J408,AWS
+1703,J408,Kafka
+1704,J409,2D Animation
+1705,J409,Adobe After Effects
+1706,J409,Illustrator
+1707,J409,Photoshop
+1708,J410,DevOps
+1709,J410,CI - CD
+1710,J410,AWS
+1711,J410,Docker
+1712,J410,Jenkins
+1713,J411,Python
+1714,J411,Hadoop
+1715,J411,PostgreSQL
+1716,J411,React.js
+1717,J411,JavaScript
+1718,J412,Java
+1719,J412,Spring Boot
+1720,J412,Angular
+1721,J412,AWS
+1722,J412,Microservices
+1723,J414,AWS
+1724,J414,Express.js
+1725,J414,Node.js
+1726,J414,PostgreSQL
+1727,J414,TypeScript
+1728,J415,Java
+1729,J415,Python
+1730,J415,Engineering Management
+1731,J415,LLD
+1732,J416,Business Development
+1733,J416,Corporate Sales
+1734,J416,Direct Sales
+1735,J416,International Sales
+1736,J416,Sales
+1737,J416,Telecalling
+1738,J417,Android
+1739,J417,Java
+1740,J417,Flutter
+1741,J417,iOS
+1742,J417,Kotlin
+1743,J418,Android
+1744,J418,iOS
+1745,J418,Java
+1746,J418,Flutter
+1747,J418,Kotlin
+1748,J419,Employee Benefits
+1749,J420,Sales
+1750,J420,Telecalling
+1751,J421,Node.js
+1752,J422,Cognos Framework Manager
+1753,J422,Linux
+1754,J422,AWS
+1755,J423,Enterprise Software
+1756,J423,Product Management
+1757,J424,Customer Interaction
+1758,J424,Key Account Management
+1759,J425,JavaScript
+1760,J425,Angular
+1761,J425,Node.js
+1762,J425,React.js
+1763,J425,Vue.js
+1764,J426,Sales
+1765,J426,Corporate Sales
+1766,J426,Business Development
+1767,J426,Direct Sales
+1768,J426,Networking
+1769,J427,Google Ads
+1770,J427,SEO
+1771,J428,Credit Underwriting
+1772,J428,Financial Analysis
+1773,J428,Credit Risk Management
+1774,J429,Business Development
+1775,J429,Telecalling
+1776,J429,Sales
+1777,J429,Corporate Sales
+1778,J430,Business Development
+1779,J430,Sales
+1780,J430,International Sales
+1781,J430,Corporate Sales
+1782,J430,Direct Sales
+1783,J431,Business Development
+1784,J431,Corporate Sales
+1785,J431,Direct Sales
+1786,J431,International Sales
+1787,J431,Sales
+1788,J432,Business Development
+1789,J432,Corporate Sales
+1790,J432,Sales
+1791,J433,Node.js
+1792,J433,Express.js
+1793,J434,Hybrid Apps
+1794,J434,React Native
+1795,J435,WPF
+1796,J435,XAML
+1797,J435,.NET
+1798,J435,Agile
+1799,J435,ASP.NET
+1800,J436,CSS
+1801,J436,HTML
+1802,J436,JavaScript
+1803,J436,React.js
+1804,J437,Dynatrace
+1805,J438,Business Development
+1806,J439,Wireframing
+1807,J439,UX Design
+1808,J439,Visual Design
+1809,J439,Figma
+1810,J440,ASP.NET
+1811,J440,SQL
+1812,J440,HTML
+1813,J440,jQuery
+1814,J440,Bootstrap
+1815,J441,ATL
+1816,J441,Brand Management
+1817,J441,BTL
+1818,J441,Digital Marketing
+1819,J441,Marketing Communication
+1820,J442,Python
+1821,J442,React.js
+1822,J444,Python
+1823,J445,AWS
+1824,J445,Node.js
+1825,J445,IoT
+1826,J446,Enterprise Software
+1827,J446,Product Management
+1828,J447,Business Development
+1829,J447,International Sales
+1830,J447,Sales
+1831,J448,.NET
+1832,J448,MongoDB
+1833,J448,IIS Server
+1834,J449,Consumer Software
+1835,J449,Enterprise Software
+1836,J449,Product Management
+1837,J450,C#
+1838,J450,.NET
+1839,J450,SQL Server
+1840,J451,JavaScript
+1841,J452,Python
+1842,J452,React.js
+1843,J453,Python
+1844,J454,Business Development
+1845,J454,Customer Service
+1846,J454,International Sales
+1847,J454,Customer Relationship
+1848,J454,Corporate Sales
+1849,J455,JavaScript
+1850,J455,Python
+1851,J455,Node.js
+1852,J455,Angular
+1853,J455,Mongoose
+1854,J456,CI - CD
+1855,J456,AWS
+1856,J456,Azure
+1857,J456,Docker
+1858,J456,Google Cloud
+1859,J456,Kubernetes
+1860,J456,Nagios
+1861,J457,Build Tools
+1862,J457,CI - CD
+1863,J457,Linux
+1864,J457,Ansible
+1865,J457,Azure
+1866,J457,Docker
+1867,J457,Gradle
+1868,J457,Kubernetes
+1869,J457,Maven
+1870,J458,Salesforce
+1871,J458,Lightning
+1872,J458,Apex
+1873,J459,Python
+1874,J459,Django
+1875,J459,Flask
+1876,J459,Node.js
+1877,J459,MongoDB
+1878,J460,Node.js
+1879,J460,JavaScript
+1880,J460,TypeScript
+1881,J460,NoSQL
+1882,J460,Express.js
+1883,J461,Python
+1884,J461,Django
+1885,J462,Python
+1886,J462,Hadoop
+1887,J463,Automation Testing
+1888,J463,Quality Assurance
+1889,J463,CI - CD
+1890,J463,Behavior Driven Development
+1891,J463,Test Driven Development
+1892,J464,Product Management
+1893,J465,UX Design
+1894,J465,Graphic Design
+1895,J465,Illustrator
+1896,J465,UiPath
+1897,J465,Adobe Creative Cloud
+1898,J466,Java
+1899,J466,Hibernate
+1900,J466,J2EE
+1901,J466,Spring
+1902,J467,Java
+1903,J467,JavaScript
+1904,J467,Angular
+1905,J467,J2EE
+1906,J467,Node.js
+1907,J467,React.js
+1908,J467,Spring
+1909,J468,ISO 27001
+1910,J468,Information Security
+1911,J468,IT Compliance
+1912,J468,Information Technology Audit
+1913,J468,PCI DSS
+1914,J469,JavaScript
+1915,J469,React.js
+1916,J469,Angular
+1917,J469,CSS
+1918,J469,HTML
+1919,J470,Node.js
+1920,J470,React.js
+1921,J470,MongoDB
+1922,J470,TypeScript
+1923,J470,AWS
+1924,J471,Python
+1925,J471,Django
+1926,J472,AWS
+1927,J472,DevOps
+1928,J472,Jenkins
+1929,J472,Ansible
+1930,J472,Docker
+1931,J473,Microsoft Excel
+1932,J473,SQL
+1933,J473,Tableau
+1934,J474,Android
+1935,J474,iOS
+1936,J474,JavaScript
+1937,J474,Node.js
+1938,J474,React.js
+1939,J474,Vue.js
+1940,J475,Product Management
+1941,J475,Product Lifecycle Management
+1942,J475,Customer Interaction
+1943,J475,Loans
+1944,J475,Consumer Software
+1945,J476,Dynatrace
+1946,J477,ServiceNow
+1947,J478,React.js
+1948,J479,React Native
+1949,J479,iOS
+1950,J479,Android
+1951,J480,Mobile Apps Testing
+1952,J480,Selenium
+1953,J480,iOS
+1954,J480,Appium
+1955,J480,Android
+1956,J481,SQL
+1957,J481,Java
+1958,J481,API Testing
+1959,J481,CRM
+1960,J481,Node.js
+1961,J482,Java
+1962,J482,Python
+1963,J482,SQL
+1964,J483,BFSI
+1965,J483,Direct Sales
+1966,J484,.NET
+1967,J484,Angular
+1968,J484,Data Structures
+1969,J484,Algorithms
+1970,J484,AWS
+1971,J485,Java
+1972,J485,Automation Testing
+1973,J485,Performance Testing
+1974,J485,UI Testing
+1975,J485,API Testing
+1976,J486,ServiceNow
+1977,J487,ServiceNow
+1978,J488,ServiceNow
+1979,J489,React.js
+1980,J489,JavaScript
+1981,J490,Java
+1982,J490,Hibernate
+1983,J490,J2EE
+1984,J490,Spring
+1985,J491,Java
+1986,J491,Spring Boot
+1987,J491,Hibernate
+1988,J491,JavaScript
+1989,J492,Azure
+1990,J492,Python
+1991,J492,Databricks
+1992,J492,Azure Data Factory
+1993,J492,Azure Synapse
+1994,J493,Google Cloud
+1995,J493,SQL
+1996,J493,Python
+1997,J493,BigQuery
+1998,J493,Hadoop
+1999,J494,Java
+2000,J494,J2EE
+2001,J494,JavaScript
+2002,J494,HTML
+2003,J494,CSS
+2004,J495,Java
+2005,J495,Angular
+2006,J495,Data Structures
+2007,J495,Algorithms
+2008,J495,JavaScript
+2009,J496,Java
+2010,J496,Scala
+2011,J496,Software Installation
+2012,J496,Spring
+2013,J496,SQL
+2014,J497,ServiceNow
+2015,J498,ServiceNow
+2016,J499,DevOps
+2017,J499,CI - CD
+2018,J499,Kubernetes
+2019,J500,Flutter
+2020,J500,Android
+2021,J500,iOS

@@ -1,7 +1,6 @@
 # <img src="Media Files/job_search.jpg" width="30" height="47"> Analysis of Corporate Job opportunities in India <img src="Media Files/job_vacancy.jpg" width="65" height="50">
-
-<p align="center"><img src="Media Files/one_stop_solution.jpg" width="800" height="420">
 <p align="center"><img src="Media Files/jobs.jpg" width="500" height="300">
+<p align="center"><img src="Media Files/one_stop_solution.jpg" width="650" height="350">
  <br>
 
 ## 📝 Description

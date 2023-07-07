@@ -1,19 +1,18 @@
-# <img src="Media Files/icon.png" width="50" height="30"> Price-Prediction of pre-owned Cars <img src="Media Files/icon2.png" width="50" height="32">
+# <img src="Media Files/job_search.jpg" width="30" height="47"> Analysis of Corporate Job opportunities in India <img src="Media Files/job_vacancy.jpg" width="65" height="50">
 
-<img src="Media Files/1.jpg" width="400" height="200"> <img src="Media Files/2.jpg" width="400" height="200">
-<p align="center"><img src="Media Files/3.jpg" width="400" height="250">
+<p align="center"><img src="Media Files/one_stop_solution.jpg" width="800" height="420">
+<p align="center"><img src="Media Files/jobs.jpg" width="500" height="300">
  <br>
-<img src="Media Files/4.jpg" width="400" height="200"> <img src="Media Files/5.jpg" width="400" height="200">
-<p align="center"><img src="Media Files/TATA NEXON GIF.gif" width="400" height=250">
 
 ## 📝 Description
-* This repository represents **"Price-Prediction using a Multiple Linear Regression Model"**
-* With the help of this project we can meaningfully and reliably predict prices of pre-owned cars based on their features.
+* This repository represents **"An in-depth analysis of current job opportunities in the corporate sector in India"**
+* The analysis has been done through aggregations on MySQL and Visualisation on PowerBI
+* With the help of this project we can get useful incites on the companies and industries hiring most aggressively, the best locations, and the skills most sought after by recruiters.
 
 ## ⏳ Dataset 
-* Data of over 6000 pre-owned cars was extracted from spinny.com
-* After applying feature engineering and data preparation we are left with data of over 1000 pre-owned cars
-* Download the dataset for custom training:
+* Data of over 500 job openings was extracted from instahyre.com
+* After performing data cleaning and modification we were able to create 4 separate datasets namely jobs, companies, locations, and skills.
+* Download the datasets for custom training:
   https://github.com/dipeshbhatt1/Price-Prediction-of-Pre-Owned-Cars/tree/main/Datasets
 
 ## 🏽‍ Download Model File

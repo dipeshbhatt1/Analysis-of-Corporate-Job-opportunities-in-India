@@ -9,12 +9,12 @@
 
 ## ⏳ Dataset 
 * Data of over 500 job openings was extracted from instahyre.com
-* After performing data cleaning and modification we were able to create 4 separate datasets namely jobs, companies, locations, and skills.
-* Download the datasets for custom training:
-  https://github.com/dipeshbhatt1/Price-Prediction-of-Pre-Owned-Cars/tree/main/Datasets
+* After performing data cleaning and modification on the raw data we were able to create 4 separate datasets namely jobs, companies, locations, and skills
+* Download the datasets:
+  https://github.com/dipeshbhatt1/Analysis-of-Corporate-Job-opportunities-in-India/tree/main/Datasets
 
-## 🏽‍ Download Model File
-- Download the model file from following Link
+## 🏽‍ Download Dashboard file:
+- Download the model file from the following Link
 - https://github.com/dipeshbhatt1/Price-Prediction-of-Pre-Owned-Cars/blob/main/Python%20Codes%20(in%20ipynb)/C-analysis-and-model.ipynb
 
 ## :desktop_computer:	Installation
@@ -23,54 +23,53 @@
 ```bash
   * Python 3.7+
   * IDE (Jupyter Notebook, VS Code, Spyder, etc)
-  * selenium
+  * selenium and other python libraries like numpy and pandas
   * Web Driver (Chrome, Firefox, Edge, Safari, etc)
-  * scikit-learn
-  * Other python libraries like numpy and pandas
+  * MySQL Workbench
+  * Microsoft PowerBI Desktop
 ```
     
 ## :gear: Setup
-1. Install latest version of python:
+1. Install the latest version of Python:
     https://www.python.org/downloads/
 2. If pip is not installed, you can follow the instructions:
     https://pip.pypa.io/en/stable/installing/
-3. Install jupyter using command prompt:
+3. Install Jupyter using command prompt:
 ```bash
     pip install jupyter
 ```
-4. Install python libraries viz. numpy, pandas, seaborn, matplotlib, selenium, sklearn and time, one-by-one using command prompt:
+4. Install Python libraries viz. pandas, seaborn, selenium, time, one by one using the command prompt, for instance:
 ```bash
-    pip install numpy
+    pip install pandas
 ```
-5. Once you have these all, launch the Jupyter Notebook using command prompt:
+5. Once you have these all, launch the Jupyter Notebook using the command prompt:
 ```bash
     jupyter notebook
 ```
-6. Now you can start working on the project using the given dataset and python codes
+6. Install MySQL Workbench:
+   https://dev.mysql.com/downloads/workbench/
+7. Install Microsoft PowerBI Desktop:
+   https://powerbi.microsoft.com/en-us/desktop/ or through Microsoft Store
+9. Now you can start working on the project using the given Python codes and datasets
 
 ## <img src="Media Files/steps3.png" width="45" height="40"> Steps Involved
 
-1. **Objective:** To build a Machine Learning model (Linear Regression) that can predict prices (label) of used cars based on various features
-2. **Data Collection:** For this, a reasonable and large enough dataset was required. Now, instead of looking for some old data or sample data available on internet, I decided to scrape website of a service provider already working in this field. So, I came across spinny.com which has a simple yet cool UI. Finally, the data was scrapped from this website.
-3. **Data Cleaning & Feature Engineering:** Initially the dataset had all the data in just 7 columns, the data had null values, duplicates and noise too. After applying techniques like Data Cleaning (imputation, outlier detection, and removing duplicate records), EDA, and Feature Generation, total 14 meaningful features were generated, which can be used for drawing insites through aggregations and visualistion. Then, I applied some final techniques, to prepare final data for training the model, like Feature Selection, Feature Encoding, Feature Scaling. The final dataset has the following independent features:
+1. **Objective:** To perform an in-depth analysis on the current job opportunities in the corporate sector in India for the purpose of providing smart solutions to job seekers as well as consultancies
+2. **Data Collection:** Data of 500 job-openings was scrapped through instahyre.com using selenium
+3. **Data Cleaning & Modification:** Initially the raw data had multiple locations in just one column, a similar situation was with skills too. This was because for a particular job opening the employer may provide more than one location option to candidates, and these days a single skill is not enough to enter a job in the corporate sector. So, two separate datasets for location and skills were created using the explode() function in pandas. After applying techniques like Data Cleaning (imputation, and removing duplicate records), EDA, and Feature Generation, a total of 4 datasets were generated, which were used to perform aggregations on MySQL and visualization was done on PowerBI by creating attractive dashboards. In the whole analysis the main features or details involves are mentioned below:
 ```bash
-    brand
-    body type
-    fuel type
-    transmission
-    model (year)
-    km driven (in thousands)
-    mileage (in kmpl)
-    seating capacity (units)
-    ground clearance (in mm)
-    boot space (in litres)
-    fuel tank capacity (in litres)
-    max power (in bhp)
+    designation
+    job location
+    industry hiring for
+    desired skills
+    desired experience
+    name of the company (employer)
+    establishment year of the company
+    company size
+    ratings for the company by employees on various factors
 ```
-4. **Data Analysis and Visualisation:** Meanwhile data analysis through groupby, pivot table and aggregate funtions was also done and the data was visualised (screenshots may be referred).
-5. **Training:** The final dataset was then split into training and testing datasets and trained through Linear Regression.
-6. **Testing:** The predicted values for the label (price) were then generated. The accuracy came out to be 85% using R2 score metric and 84% using Adjusted R2 score method.
-7. **Predicting (Applying the Model):** As a test case, predicting the price of a used car using hypothetical features seems to be quite reasonable and meaningful. The model now can be used by a user who may be buyer/seller to predict prices of pre-owned cars.
+4. **Data Analysis and Visualisation:** All the four datasets were imported on MySQL Workbench, created relations using primary key-foreign key combinations, and some inciteful aggregations were performed (screenshot of schema and aggregations may be referred). Then the same datasets were also imported on PowerBI Desktop, relationships were created among each other and then 3 different dashboards were created (refer screenshots)
+5. **Key Incites and Conclusions:** All the key incites and conclusions drawn are mentioned after the screenshots hereunder.
 
  ## Screenshots
 

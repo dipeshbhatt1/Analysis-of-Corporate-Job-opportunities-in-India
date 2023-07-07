@@ -1,11 +1,14 @@
 # <img src="Media Files/job_search.jpg" width="30" height="47"> Analysis of Corporate Job opportunities in India <img src="Media Files/job_vacancy.jpg" width="65" height="50">
-<img src="Media Files/jobs.jpg" width="330" height="220"> <img src="Media Files/one_stop_solution.jpg" width="470" height="220">
+<img src="Media Files/hey.jpg" width="400" height="360"> <img src="Media Files/helpful-analysis.jpg" width="250" height="370">
+
  <br>
 
+
 ## 📝 Description
-* This repository represents **"An in-depth analysis of current job opportunities in the corporate sector in India"**
-* The analysis has been done through aggregations on MySQL and Visualisation on PowerBI
-* With the help of this project we can get useful incites on the companies and industries hiring most aggressively, the best locations, and the skills most sought after by recruiters.
+ - This repository represents **"An in-depth analysis of current job opportunities in the corporate sector in India"**
+ - The analysis has been done through aggregations on MySQL and Visualisation on PowerBI
+ - With the help of this project we can get useful incites on the companies and industries hiring most aggressively, the best locations, and the skills most sought after by recruiters.
+<img src="Media Files/jobs.jpg" width="330" height="220">
 
 ## ⏳ Dataset 
 * Data of over 500 job openings was extracted from instahyre.com
@@ -68,22 +71,14 @@
     company size
     ratings for the company by employees on various factors
 ```
-4. **Data Analysis and Visualisation:** All the four datasets were imported on MySQL Workbench, created relations using primary key-foreign key combinations, and some inciteful aggregations were performed (screenshot of schema and aggregations may be referred). Then the same datasets were also imported on PowerBI Desktop, relationships were created among each other and then 3 different dashboards were created (refer screenshots)
+4. **Data Analysis and Visualisation:** All four datasets were imported on MySQL Workbench, created relations using primary key-foreign key combinations, and some inciteful aggregations were performed. Then the same datasets were also imported on PowerBI Desktop, relationships were created among each other, and then 3 different dashboards were created (refer to screenshots)
 5. **Key Incites and Conclusions:** All the key incites and conclusions drawn are mentioned after the screenshots hereunder.
 
  ## Screenshots
 
-<img src="Screenshots/Average Price of cars graph.jpg" width="350" height="300"> <img src="Screenshots/Correlation between mileage and price.jpg" width="350" height="300">
-<br>
-<img src="Screenshots/Pie chart showing the percentage of cars of different fuel types.jpg" width="350" height="250"> <img src="Screenshots/Correlation among continuous features.jpg" width="350" height="250">
-<br>
-<img src="Screenshots/Number of cars of different brands.jpg" width="350" height="300"> <img src="Screenshots/Pie chart showing the percentage of cars of different body-types.jpg" width="350" height="250">
-<br>
-<img src="Screenshots/Car body-type vs average Price (in lakh Rs.).jpg" width="350" height="300"> <img src="Screenshots/Outlier Analysis of Mileage (in kmpl).jpg" width="350" height="300">
-<br>
-<img src="Screenshots/Accuracy score.jpg" width="300" height="300"> <img src="Screenshots/Predicting the price.jpg" width="400" height="300">
-
-<br>
+<img src="Media Files/job-analysis.jpg" width="800" height="450">
+<img src="Media Files/location-analysis.jpg" width="800" height="450">
+<img src="Media Files/companies-analysis.jpg" width="800" height="450">
 
 ## <img src="https://user-images.githubusercontent.com/108053296/185756908-fbb62168-d923-48f2-992f-b8e2fde848fe.gif" width="48" height="48" > Conclusion
    

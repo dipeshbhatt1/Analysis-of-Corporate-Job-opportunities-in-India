@@ -101,22 +101,23 @@
 5. **Key Incites and Conclusions:** All the key incites and conclusions drawn are mentioned after the screenshots hereunder.
 
  ## Screenshots
-
+<img src="Media Files/SQL query - top 5 companies with best overall rating in each company size.png" width="800" height="495">
+<img src="Media Files/SQL query - best industries across locations.png" width="800" height="650">
 <img src="Media Files/job-analysis.jpg" width="800" height="450">
 <img src="Media Files/location-analysis.jpg" width="800" height="450">
 <img src="Media Files/companies-analysis.jpg" width="800" height="450">
 
-## <img src="https://user-images.githubusercontent.com/108053296/185756908-fbb62168-d923-48f2-992f-b8e2fde848fe.gif" width="48" height="48" > Conclusion
+## <img src="https://user-images.githubusercontent.com/108053296/185756908-fbb62168-d923-48f2-992f-b8e2fde848fe.gif" width="48" height="48" > Conclusion and Key-Insights
    
-   1. Average price of MG cars is the highest among all brands.
-   2. Average price of SUV cars is the highest among all available body types.
-   3. Most commonly available car Brand is Maruti Suzuki.
-   4. Most commonly available body type is Hatchback followed by SUV.
-   5. There are some outliers present in the Mileage column roughly below 15 kmpl and above 25 kmpl.
-   6. Some obvious patterns are also visible such as model year and km driven, mileage and price, km driven and price, all are negatively correlated with each other.
-   7. The model shows more than 83% accuracy rate which is good enough to proceed with.
-   8. Based on a general understanding of a person about the resale value of a pre-owned car, the model is giving a meaningful prediction of price (as per the price prediction of a Tata SUV-Manual-Petrol car)
-
+   1. Corporations or companies established more than 10 years ago are hiring more aggressively than startups
+   2. Python and SQL still remain the most in-demand skills for Data Science and Analysis, followed by Machine Learning. Gone are those days when just having good knowledge of Excel was enough to aspire for the said field.
+   3. Also, Python and Java are topping the list of most in-demand skills by recruiters in India
+   4. Employees working with Startups have better overall experience than those working in Corporations
+   5. We can see that some of the well-known companies, such as Delta, Uber, PhonePe, Jungless Games, Mahindra Insurance, etc, belonging to different company-size categories, are topping the list of overall ratings by their employees
+   6. Bangalore is the topping the list, having the most number of job opportunities i.e. alomost 50%.
+   7. Software Engineering is the highest recruiting industry, almost across all locations. Also, about 50% work from home job offers are given by the Software Engineering industry itself.
+   8. Employees have marked better overall experience for companies with sizes 10-50 and 50-200 than all other categories which indicates that companies within these 2 categories may be better for candidates to look for.
+   9. In the non-tech field - The sales and Business industry is recruiting the most
 
 ## Contributing
-Contributions are always welcome! Especially if you can help me with creating a UI for this model to make it useful for masses.
+Contributions are always welcome! Especially if you can help me make this project dynamic which is can be easily refreshed with fresh data whenever required by someone, so as to make it useful for the masses.

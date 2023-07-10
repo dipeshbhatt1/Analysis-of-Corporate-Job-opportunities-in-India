@@ -44,7 +44,7 @@
 
 ## 🏽‍ Download Dashboard file:
 - Download the model file from the following Link
-- https://github.com/dipeshbhatt1/Price-Prediction-of-Pre-Owned-Cars/blob/main/Python%20Codes%20(in%20ipynb)/C-analysis-and-model.ipynb
+  https://github.com/dipeshbhatt1/Price-Prediction-of-Pre-Owned-Cars/blob/main/Python%20Codes%20(in%20ipynb)/C-analysis-and-model.ipynb
 
 ## :desktop_computer:	Installation
 

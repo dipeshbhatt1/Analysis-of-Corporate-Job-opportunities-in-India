@@ -43,8 +43,8 @@
   https://github.com/dipeshbhatt1/Analysis-of-Corporate-Job-opportunities-in-India/tree/main/Datasets
 
 ## 🏽‍ Download Dashboard file:
-- Download the model file from the following Link
-  https://github.com/dipeshbhatt1/Price-Prediction-of-Pre-Owned-Cars/blob/main/Python%20Codes%20(in%20ipynb)/C-analysis-and-model.ipynb
+- Download the PowerBI dashboard file: https://github.com/dipeshbhatt1/Price-Prediction-of-Pre-Owned-Cars/blob/main/Python%20Codes%20(in%20ipynb)/C-analysis-and-model.ipynb
+- Download SQL query: https://github.com/dipeshbhatt1/Analysis-of-Corporate-Job-opportunities-in-India/blob/main/SQL%20queries/key-insights-through-aggregations-in-mysql.sql
 
 ## :desktop_computer:	Installation
 
@@ -85,7 +85,7 @@
 
 1. **Objective:** To perform an in-depth analysis on the current job opportunities in the corporate sector in India for the purpose of providing smart solutions to job seekers as well as consultancies
 2. **Data Collection:** Data of 500 job-openings was scrapped through instahyre.com using selenium
-3. **Data Cleaning & Modification:** Initially the raw data had multiple locations in just one column, a similar situation was with skills too. This was because for a particular job opening the employer may provide more than one location option to candidates, and these days a single skill is not enough to enter a job in the corporate sector. So, two separate datasets for location and skills were created using the explode() function in pandas. After applying techniques like Data Cleaning (imputation, and removing duplicate records), EDA, and Feature Generation, a total of 4 datasets were generated, which were used to perform aggregations on MySQL and visualization was done on PowerBI by creating attractive dashboards. In the whole analysis the main features or details involves are mentioned below:
+3. **Data Modification and Organisation:** Initially the raw data had multiple locations in just one column, a similar situation was with skills too. This was because for a particular job opening the employer may provide more than one location option to candidates, and these days a single skill is not enough to enter a job in the corporate sector. So, two separate datasets for location and skills were created using the explode() function in pandas. After applying techniques like Data Cleaning (imputation, and removing duplicate records), EDA, and Feature Generation, a total of 4 datasets were generated, which were used to perform aggregations on MySQL and visualization was done on PowerBI by creating attractive dashboards. In the whole analysis the main features or details involves are mentioned below:
 ```bash
     designation
     job location
@@ -120,4 +120,4 @@
    9. In the non-tech field - The sales and Business industry is recruiting the most
 
 ## Contributing
-Contributions are always welcome! Especially if you can help me make this project dynamic which is can be easily refreshed with fresh data whenever required by someone, so as to make it useful for the masses.
+Contributions are always welcome! Especially if you can help me make this project dynamic which can be easily refreshed with fresh data whenever required by someone, so as to make it useful for the masses.

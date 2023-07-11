@@ -31,9 +31,8 @@
       </span></animated-image></p>
       
  - This repository represents **"An in-depth analysis of current job opportunities in the corporate sector in India"**  
- 
+ - Lead by me, it was completed by a team of 04 members, over a span of 5 days.
  - The analysis has been done through aggregations on MySQL and Visualisation on PowerBI
- 
  - With the help of this project we can get useful incites on the companies and industries hiring most aggressively, the best locations, and the skills most sought after by recruiters.
 
 ## ⏳ Dataset 

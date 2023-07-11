@@ -1,8 +1,8 @@
 # <img src="Media Files/job_search.jpg" width="30" height="47"> Analysis of Corporate Job opportunities in India <img src="Media Files/job_vacancy.jpg" width="65" height="50">
 <img src="Media Files/hey.jpg" width="420" height="335"> <img src="Media Files/helpful-analysis.jpg" width="285" height="380">
 
- <br>
-
+<br>
+<p align="center"><img src="https://user-images.githubusercontent.com/106439762/181936448-9314e858-4251-46d6-b4d1-35a4c29e9c19.svg"><img src="https://forthebadge.com/images/badges/made-with-python.svg"></a></p>
 
 ## 📝 Description
  </h2>
@@ -118,5 +118,10 @@
    8. Employees have marked better overall experience for companies with sizes 10-50 and 50-200 than all other categories which indicates that companies within these 2 categories may be better for candidates to look for.
    9. In the non-tech field - The sales and Business industry is recruiting the most
 
-## Contributing
+## Contributors <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> 
+- Sidhartha Agasti
+- Ranjit Shah
+- Sachin Kumar
+
+## Further Contributing
 Contributions are always welcome! Especially if you can help me make this project dynamic which can be easily refreshed with fresh data whenever required by someone, so as to make it useful for the masses.

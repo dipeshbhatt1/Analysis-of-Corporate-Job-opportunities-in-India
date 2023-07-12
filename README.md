@@ -9,7 +9,7 @@
 <p>
 <animated-image data-catalyst="" style="float: right; width: 400px;">
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/190338430fb2eca4d172a1987205c5e073b2de72db46cb4ed12cf1c2fa32041a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f645765734263544c61766b5a754733354d492f67697068792e676966" data-target="animated-image.originalLink">
-<img align="right" alt="Coding" height="225" width = "360" src="Media Files/jobs.jpg" data-canonical-src="Media Files/jobs.jpg" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+<img align="right" alt="Coding" height="185" width = "315" src="Media Files/jobs.jpg" data-canonical-src="Media Files/jobs.jpg" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 </a>
         <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="Play Coding"></button>
         <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls">
